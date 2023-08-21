@@ -4,12 +4,12 @@ from budget_items_class import Budget_Items
 from _database.engine_db import engine
 
 
-source_file2 = "budget_items/budget_items_202308181605.csv"
+source_csv_file = "budget_items/budget_items_data_dump.csv"
 
 
 session_pool = sessionmaker(engine)
 
-with open(source_file2, newline='') as csvfile:
+with open(source_csv_file, newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         is_default_value = True if row['is_default'] == 'TRUE' else False
