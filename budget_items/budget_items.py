@@ -2,12 +2,12 @@ import csv
 from sqlalchemy import create_engine, URL
 from sqlalchemy.orm import Session, sessionmaker
 from environs import Env
-from budget_items_classes import Budget_Items
+from budget_items_class import Budget_Items
 
 env = Env()
 env.read_env(".env")
 
-source_file2 = "budget_items_202308181605.csv"
+source_file2 = "budget_items/budget_items_202308181605.csv"
 
 url = URL.create(
     drivername=env.str("SERVER_DRIVERNAME"),
