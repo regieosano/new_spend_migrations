@@ -1,24 +1,12 @@
 import csv
-from sqlalchemy import create_engine, URL
 from sqlalchemy.orm import Session, sessionmaker
-from environs import Env
 from budget_items_class import Budget_Items
+from database.engine_db import engine
 
-env = Env()
-env.read_env(".env")
 
 source_file2 = "budget_items/budget_items_202308181605.csv"
 
-url = URL.create(
-    drivername=env.str("SERVER_DRIVERNAME"),
-    username=env.str("H_IAM_USER"),
-    password=env.str("H_IAM_PASSWORD"),
-    host=env.str("H_PERSONAL_HOST"),
-    port=env.int("H_PORT"),
-    database=env.str("H_TEST_DATABASE"),
-)
 
-engine = create_engine(url, echo=True)
 session_pool = sessionmaker(engine)
 
 with open(source_file2, newline='') as csvfile:
