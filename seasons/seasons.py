@@ -1,10 +1,11 @@
 import csv
+
 from sqlalchemy.orm import Session, sessionmaker
 from seasons_class import Seasons
 from _database.engine_db import engine
 
 
-source_csv_file = "seasons/seasons_data_dump.csv"
+source_csv_file = "seasons/season_test_data_dump.csv"
 
 
 session_pool = sessionmaker(engine)
