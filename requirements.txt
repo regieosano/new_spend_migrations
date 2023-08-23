@@ -3,5 +3,5 @@
 #  install the latest version
 
 psycopg2-binary
-asyncpg2
+asyncpg==0.25.0
 SQLAlchemy
