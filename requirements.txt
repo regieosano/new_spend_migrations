@@ -1,0 +1,7 @@
+# project dependencies
+
+#  install the latest version
+
+psycopg2-binary
+asyncpg2
+SQLAlchemy
