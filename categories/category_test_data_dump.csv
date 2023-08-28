@@ -1,0 +1,1227 @@
+id,name,type,is_default,is_hidden,created_at,updated_at,organization_id
+763,06. Registration Fees,,False,False,2021-05-17 19:58:21.429605,2021-09-30 13:22:07.826006,spdorg_cliayn82a00bb6ot9786n562a
+1333,Administrative Expenses,,False,False,2021-11-22 19:35:06.170433,2021-11-22 19:35:06.170437,spdorg_cliayn82a00bb6ot9786n562a
+1334,Coach Reimbursement,,False,False,2021-11-22 19:35:06.178312,2021-11-22 19:35:06.178317,spdorg_cliayn82a00bb6ot9786n562a
+1335,Travel,,False,False,2021-11-22 19:35:06.183388,2021-11-22 19:35:06.183392,spdorg_cliayn82a00bb6ot9786n562a
+1336,Tournament Entry Fees,,False,False,2021-11-22 19:35:06.188349,2021-11-22 19:35:06.188353,spdorg_cliayn82a00bb6ot9786n562a
+1898,Travel,,False,False,2023-04-03 22:09:10.121836,2023-04-03 22:09:10.121839,spdorg_cliayn82a00bb6ot9786n562a
+1899,Coach Reimbursement,,False,False,2023-04-03 22:09:10.125732,2023-04-03 22:09:10.125736,spdorg_cliayn82a00bb6ot9786n562a
+1900,Administrative Expenses,,False,False,2023-04-03 22:09:10.128692,2023-04-03 22:09:10.128696,spdorg_cliayn82a00bb6ot9786n562a
+1901,Tournament Entry Fees,,False,False,2023-04-03 22:09:10.131810,2023-04-03 22:09:10.131813,spdorg_cliayn82a00bb6ot9786n562a
+1938,Coach Reimbursement,,False,False,2023-04-28 18:25:21.342696,2023-04-28 18:25:21.342699,spdorg_cliayn82a00bb6ot9786n562a
+1939,Tournament Entry Fees,,False,False,2023-04-28 18:25:21.348025,2023-04-28 18:25:21.348028,spdorg_cliayn82a00bb6ot9786n562a
+1940,Administrative Expenses,,False,False,2023-04-28 18:25:21.351358,2023-04-28 18:25:21.351361,spdorg_cliayn82a00bb6ot9786n562a
+1941,Travel,,False,False,2023-04-28 18:25:21.354698,2023-04-28 18:25:21.354702,spdorg_cliayn82a00bb6ot9786n562a
+1954,Travel,,False,False,2023-05-03 20:27:50.019018,2023-05-03 20:27:50.019022,spdorg_cliayn82a00bb6ot9786n562a
+1411,Scholarships,,False,False,2022-03-11 15:14:02.430423,2022-03-11 15:14:02.430428,spdorg_cliayn82a00bb6ot9786n562a
+1429,MLS Next Flex,,False,False,2022-03-25 20:19:10.971837,2022-03-25 20:19:10.971841,spdorg_cliayn82a00bb6ot9786n562a
+1471,Team Party/ Bonding,,False,False,2022-05-05 23:46:18.624790,2022-05-05 23:46:18.624795,spdorg_cliayn82a00bb6ot9786n562a
+1472,Misc,,False,False,2022-05-05 23:46:18.633560,2022-05-05 23:46:18.633567,spdorg_cliayn82a00bb6ot9786n562a
+1573,Travel,,False,False,2022-07-02 16:06:02.086130,2022-07-02 16:06:02.086133,spdorg_cliayn82a00bb6ot9786n562a
+1574,Tournament Entry Fees,,False,False,2022-07-02 16:06:02.092565,2022-07-02 16:06:02.092568,spdorg_cliayn82a00bb6ot9786n562a
+1575,Coach Reimbursement,,False,False,2022-07-02 16:06:02.096597,2022-07-02 16:06:02.096601,spdorg_cliayn82a00bb6ot9786n562a
+1576,Administrative Expenses,,False,False,2022-07-02 16:06:02.100629,2022-07-02 16:06:02.100632,spdorg_cliayn82a00bb6ot9786n562a
+1581,Administrative Expenses,,False,False,2022-07-06 04:11:39.363025,2022-07-06 04:11:39.363028,spdorg_cliayn82a00bb6ot9786n562a
+1582,Coach Reimbursement,,False,False,2022-07-06 04:11:39.366708,2022-07-06 04:11:39.366711,spdorg_cliayn82a00bb6ot9786n562a
+1583,Travel,,False,False,2022-07-06 04:11:39.369761,2022-07-06 04:11:39.369764,spdorg_cliayn82a00bb6ot9786n562a
+1584,Tournament Entry Fees,,False,False,2022-07-06 04:11:39.372902,2022-07-06 04:11:39.372905,spdorg_cliayn82a00bb6ot9786n562a
+1593,Referee Fees,,False,False,2022-07-08 15:51:37.060735,2022-07-08 15:51:37.060739,spdorg_cliayn82a00bb6ot9786n562a
+1594,Equipment Fees,,False,False,2022-07-10 17:57:28.871851,2022-07-10 17:57:28.871856,spdorg_cliayn82a00bb6ot9786n562a
+1595,Team Meals/Entertainment,,False,False,2022-07-10 17:57:28.876386,2022-07-10 17:57:28.876391,spdorg_cliayn82a00bb6ot9786n562a
+1598,Video/Veo,,False,False,2022-07-14 23:14:37.863610,2022-07-14 23:14:37.863614,spdorg_cliayn82a00bb6ot9786n562a
+1599,Travel,,False,False,2022-07-15 16:00:11.910278,2022-07-15 16:00:11.910282,spdorg_cliayn82a00bb6ot9786n562a
+1600,Administrative Expenses,,False,False,2022-07-15 16:00:11.914607,2022-07-15 16:00:11.914610,spdorg_cliayn82a00bb6ot9786n562a
+1602,Coach Reimbursement,,False,False,2022-07-15 16:00:11.923078,2022-07-15 16:00:11.923082,spdorg_cliayn82a00bb6ot9786n562a
+1603,Coach,,False,False,2022-07-15 20:45:54.857455,2022-07-15 20:45:54.857460,spdorg_cliayn82a00bb6ot9786n562a
+1604,Coach Travel Reimbursement,,False,False,2022-07-15 20:45:54.862075,2022-07-15 20:45:54.862079,spdorg_cliayn82a00bb6ot9786n562a
+1639,Equipment Expenses,,False,False,2022-07-20 00:24:40.890990,2022-07-20 00:24:40.890993,spdorg_cliayn82a00bb6ot9786n562a
+1653,Equipment,,False,False,2022-07-21 16:43:40.477316,2022-07-21 16:43:40.477322,spdorg_cliayn82a00bb6ot9786n562a
+1323,Player Movement,,False,False,2021-09-30 20:21:46.652753,2021-09-30 20:21:46.652757,spdorg_cliayn82a00bb6ot9786n562a
+1337,Fundraising-King Soopers,,False,False,2021-12-03 18:19:29.146850,2021-12-03 18:19:29.146856,spdorg_cliayn82a00bb6ot9786n562a
+1377,Tournament Entry Fees,,False,False,2021-12-23 13:04:40.040719,2021-12-23 13:04:40.040723,spdorg_cliayn82a00bb6ot9786n562a
+1378,Travel,,False,False,2021-12-23 13:04:40.046417,2021-12-23 13:04:40.046420,spdorg_cliayn82a00bb6ot9786n562a
+1379,Coach Reimbursement,,False,False,2021-12-23 13:04:40.050490,2021-12-23 13:04:40.050493,spdorg_cliayn82a00bb6ot9786n562a
+1380,Administrative Expenses,,False,False,2021-12-23 13:04:40.054461,2021-12-23 13:04:40.054464,spdorg_cliayn82a00bb6ot9786n562a
+1955,Administrative Expenses,,False,False,2023-05-03 20:27:50.024654,2023-05-03 20:27:50.024657,spdorg_cliayn82a00bb6ot9786n562a
+687,Fundraising or Donations,,False,False,2021-04-23 17:36:58.032136,2022-03-11 16:25:26.904346,spdorg_cliayn82a00bb6ot9786n562a
+1430,Showcase,,False,False,2022-04-05 18:46:12.842447,2022-04-05 18:46:12.842451,spdorg_cliayn82a00bb6ot9786n562a
+1474,CSA Added Fee,,False,False,2022-05-16 18:32:12.021530,2022-05-16 18:32:12.021534,spdorg_cliayn82a00bb6ot9786n562a
+1473,Non-CSA League Fee,,False,False,2022-05-16 18:32:12.015838,2022-05-16 18:33:58.909720,spdorg_cliayn82a00bb6ot9786n562a
+1493,Tournament Entry Fees,,False,False,2022-06-02 17:35:05.664402,2022-06-02 17:35:05.664406,spdorg_cliayn82a00bb6ot9786n562a
+1494,Coach Reimbursement,,False,False,2022-06-02 17:35:05.668547,2022-06-02 17:35:05.668551,spdorg_cliayn82a00bb6ot9786n562a
+1495,Travel,,False,False,2022-06-02 17:35:05.672273,2022-06-02 17:35:05.672276,spdorg_cliayn82a00bb6ot9786n562a
+1496,Administrative Expenses,,False,False,2022-06-02 17:35:05.675853,2022-06-02 17:35:05.675857,spdorg_cliayn82a00bb6ot9786n562a
+1557,Administrative Expenses,,False,False,2022-06-21 17:49:18.613257,2022-06-21 17:49:18.613260,spdorg_cliayn82a00bb6ot9786n562a
+1558,Travel,,False,False,2022-06-21 17:49:18.619649,2022-06-21 17:49:18.619655,spdorg_cliayn82a00bb6ot9786n562a
+1559,Tournament Entry Fees,,False,False,2022-06-21 17:49:18.623623,2022-06-21 17:49:18.623628,spdorg_cliayn82a00bb6ot9786n562a
+1560,Coach Reimbursement,,False,False,2022-06-21 17:49:18.627763,2022-06-21 17:49:18.627769,spdorg_cliayn82a00bb6ot9786n562a
+1568,Coach Reimbursement,,False,False,2022-06-29 17:54:03.575974,2022-06-29 17:54:03.575977,spdorg_cliayn82a00bb6ot9786n562a
+1570,Administrative Expenses,,False,False,2022-06-29 17:54:03.583300,2022-06-29 17:54:03.583303,spdorg_cliayn82a00bb6ot9786n562a
+1571,Tournament Entry Fees,,False,False,2022-06-29 17:54:03.588453,2022-06-29 17:54:03.588456,spdorg_cliayn82a00bb6ot9786n562a
+1577,Administrative Expenses,,False,False,2022-07-02 16:07:39.301221,2022-07-02 16:07:39.301224,spdorg_cliayn82a00bb6ot9786n562a
+1578,Tournament Entry Fees,,False,False,2022-07-02 16:07:39.306878,2022-07-02 16:07:39.306882,spdorg_cliayn82a00bb6ot9786n562a
+1579,Travel,,False,False,2022-07-02 16:07:39.310480,2022-07-02 16:07:39.310483,spdorg_cliayn82a00bb6ot9786n562a
+1580,Coach Reimbursement,,False,False,2022-07-02 16:07:39.313844,2022-07-02 16:07:39.313848,spdorg_cliayn82a00bb6ot9786n562a
+1589,Tournament Entry Fees,,False,False,2022-07-07 17:00:26.454354,2022-07-07 17:00:26.454357,spdorg_cliayn82a00bb6ot9786n562a
+1592,Travel,,False,False,2022-07-07 17:00:26.467820,2022-07-07 17:00:26.467825,spdorg_cliayn82a00bb6ot9786n562a
+1596,Athletic Trainer,,False,False,2022-07-10 18:03:31.940762,2022-07-10 18:03:31.940765,spdorg_cliayn82a00bb6ot9786n562a
+1590,Coach Reimbursement,,False,True,2022-07-07 17:00:26.460244,2022-07-15 20:45:54.866726,spdorg_cliayn82a00bb6ot9786n562a
+1605,Admin: Per Athlete Fee,,False,False,2022-07-15 20:53:04.579226,2022-07-15 20:53:04.579230,spdorg_cliayn82a00bb6ot9786n562a
+1591,Administrative Expenses,,False,True,2022-07-07 17:00:26.463885,2022-07-15 20:53:04.583809,spdorg_cliayn82a00bb6ot9786n562a
+1606,League Fee,,False,False,2022-07-18 02:30:28.508399,2022-07-18 02:30:28.508404,spdorg_cliayn82a00bb6ot9786n562a
+149,coach_reimbursement,,False,False,2020-08-19 21:56:44.647704,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+1640,Team Bonding/Party/Coaches Gift,,False,False,2022-07-20 00:25:19.341492,2022-07-20 00:25:36.128680,spdorg_cliayn82a00bb6ot9786n562a
+150,administrative_expenses,,False,False,2020-08-19 21:56:44.649047,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+151,travel,,False,False,2020-08-19 21:56:44.650098,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+1324,Gym Rental,,False,False,2021-10-05 17:04:38.950772,2021-10-05 17:04:38.950778,spdorg_cliayn82a00bb6ot9786n562a
+1338,Fundraising-Bingo,,False,False,2021-12-03 18:19:42.226976,2021-12-03 18:19:42.226983,spdorg_cliayn82a00bb6ot9786n562a
+625,Baseballs (Game $50 - Practice $140 3/dozen & bucket),,False,False,2021-01-19 22:11:05.160687,2021-12-29 17:52:32.384729,spdorg_cliayn82a00bb6ot9786n562a
+628,Coaches Stipend,,False,False,2021-01-19 22:11:05.175054,2021-12-29 17:52:32.384733,spdorg_cliayn82a00bb6ot9786n562a
+645,Travel League Fee(s),,False,False,2021-02-28 14:06:22.000271,2021-12-29 17:52:32.384734,spdorg_cliayn82a00bb6ot9786n562a
+647,Back-Up / Loaner Uniforms,,False,False,2021-02-28 14:06:22.009910,2021-12-29 17:52:32.384735,spdorg_cliayn82a00bb6ot9786n562a
+648,"Player/Coach Development (Instructors, etc.)",,False,False,2021-02-28 14:06:22.014803,2021-12-29 17:52:32.384736,spdorg_cliayn82a00bb6ot9786n562a
+649,Contingency,,False,False,2021-02-28 14:06:22.024144,2021-12-29 17:52:32.384737,spdorg_cliayn82a00bb6ot9786n562a
+1399,League Fees,,False,False,2022-01-11 00:37:23.733849,2022-01-11 00:37:23.733852,spdorg_cliayn82a00bb6ot9786n562a
+1431,Miscellaneous,,False,True,2022-04-12 00:55:21.273118,2022-04-16 03:22:38.030336,spdorg_cliayn82a00bb6ot9786n562a
+165,Focusy,,False,True,2020-08-24 18:13:39.213542,2022-05-17 16:28:00.475337,spdorg_cliayn82a00bb6ot9786n562a
+1497,Team Manager Airfare Reimbursement,,False,False,2022-06-06 18:54:21.318234,2022-06-06 18:54:21.318237,spdorg_cliayn82a00bb6ot9786n562a
+1572,Misc,,False,False,2022-06-29 19:07:30.976240,2022-06-29 19:07:30.976245,spdorg_cliayn82a00bb6ot9786n562a
+1641,Uniform Item,,False,False,2022-07-20 14:37:25.898149,2022-07-20 14:37:25.898153,spdorg_cliayn82a00bb6ot9786n562a
+1642,Baseballs,,False,False,2022-07-20 14:37:25.902025,2022-07-20 14:37:25.902029,spdorg_cliayn82a00bb6ot9786n562a
+1271,Club - Feild Lighting - City,,False,False,2021-09-26 23:11:35.511299,2022-07-23 08:07:50.647928,spdorg_cliayn82a00bb6ot9786n562a
+1538,Coach Travel,,False,False,2022-06-16 16:55:55.545532,2022-07-25 01:17:02.569364,spdorg_cliayn82a00bb6ot9786n562a
+1550,Coach Reimbursement,,False,False,2022-06-17 20:47:05.221460,2022-08-04 02:15:40.347646,spdorg_cliayn82a00bb6ot9786n562a
+1540,Administrative Expenses,,False,False,2022-06-16 16:55:55.556575,2022-07-25 01:17:02.569367,spdorg_cliayn82a00bb6ot9786n562a
+1551,Administrative Expenses,,False,False,2022-06-17 20:47:05.225070,2022-08-04 02:15:40.347647,spdorg_cliayn82a00bb6ot9786n562a
+1539,Coach Mileage,,False,False,2022-06-16 16:55:55.552282,2022-07-27 02:28:27.814038,spdorg_cliayn82a00bb6ot9786n562a
+1537,Tournament Registration,,False,False,2022-06-16 16:55:55.538491,2022-07-25 01:12:09.391838,spdorg_cliayn82a00bb6ot9786n562a
+1552,Travel,,False,False,2022-06-17 20:47:05.228673,2022-08-04 02:15:40.347647,spdorg_cliayn82a00bb6ot9786n562a
+1549,Tournament Entry Fees,,False,False,2022-06-17 20:47:05.217394,2022-08-04 02:15:40.347643,spdorg_cliayn82a00bb6ot9786n562a
+1563,Coach Travel,,False,True,2022-06-27 01:28:36.398870,2022-08-15 17:36:37.840812,spdorg_cliayn82a00bb6ot9786n562a
+1597,Club Payment: Do Not Use,,False,False,2022-07-11 21:56:20.154970,2023-03-21 00:35:24.732945,spdorg_cliayn82a00bb6ot9786n562a
+1569,Travel Expenses,,False,False,2022-06-29 17:54:03.580042,2023-06-28 20:01:15.875155,spdorg_cliayn82a00bb6ot9786n562a
+737,Administrative Expenses,,False,True,2021-05-05 20:49:09.417014,2023-08-12 03:33:41.221548,spdorg_cliayn82a00bb6ot9786n562a
+1601,"Entry Fees (Nationals, States etc)",,False,False,2022-07-15 16:00:11.919178,2023-08-18 18:50:09.422698,spdorg_cliayn82a00bb6ot9786n562a
+1643,Coaches Payment,,False,False,2022-07-20 14:37:25.905452,2022-07-20 14:37:25.905456,spdorg_cliayn82a00bb6ot9786n562a
+1644,Gas/Food Stipend,,False,False,2022-07-20 14:37:25.908664,2022-07-20 14:37:25.908668,spdorg_cliayn82a00bb6ot9786n562a
+1645,Snap Spend Fee,,False,False,2022-07-20 14:37:25.911803,2022-07-20 14:37:25.911807,spdorg_cliayn82a00bb6ot9786n562a
+299,coach_reimbursement,,False,False,2020-09-28 16:57:03.142041,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+303,travel,,False,False,2020-09-29 20:51:17.886212,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+1339,Sponsorships - Transferred to Team,,False,False,2021-12-10 05:17:33.529500,2021-12-10 05:17:33.529503,spdorg_cliayn82a00bb6ot9786n562a
+1400,Administration/Copies/Passes/Fees,,False,False,2022-01-11 00:37:49.780302,2022-01-11 00:37:49.780306,spdorg_cliayn82a00bb6ot9786n562a
+1432,Referee Fees,,False,True,2022-04-12 01:11:00.392279,2022-04-16 03:22:38.030337,spdorg_cliayn82a00bb6ot9786n562a
+1458,Administrative Expenses,,False,False,2022-04-19 19:44:37.725809,2022-04-19 19:44:37.725814,spdorg_cliayn82a00bb6ot9786n562a
+1459,Tournament Entry Fees,,False,False,2022-04-19 19:44:37.731276,2022-04-19 19:44:37.731279,spdorg_cliayn82a00bb6ot9786n562a
+1460,Coach Reimbursement,,False,False,2022-04-19 19:44:37.735949,2022-04-19 19:44:37.735952,spdorg_cliayn82a00bb6ot9786n562a
+1461,Travel,,False,False,2022-04-19 19:44:37.739249,2022-04-19 19:44:37.739252,spdorg_cliayn82a00bb6ot9786n562a
+1498,Misc Expense,,False,False,2022-06-06 18:54:37.115882,2022-06-06 18:54:37.115888,spdorg_cliayn82a00bb6ot9786n562a
+1646,Staff Pay,,False,False,2022-07-20 14:42:13.908381,2022-07-20 14:42:13.908385,spdorg_cliayn82a00bb6ot9786n562a
+71,Parties,,False,False,2020-07-10 17:31:49.369091,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+73,travel,,False,False,2020-07-15 16:04:45.927609,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+75,administrative_expenses,,False,False,2020-07-15 16:04:45.950176,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+76,Food,,False,False,2020-07-16 22:07:16.102440,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+77,Airfare,,False,False,2020-07-16 22:07:16.117159,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+78,Hotel,,False,False,2020-07-16 22:07:16.129871,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+74,Tournaments,,False,False,2020-07-15 16:04:45.938874,2020-08-26 13:58:03.503081,spdorg_cliayn82a00bb6ot9786n562a
+462,travel,,False,False,2020-12-14 03:10:32.050333,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+587,coach_reimbursement,,False,False,2021-01-03 02:28:51.746275,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+1326,11. Uniforms,,False,False,2021-10-17 03:29:55.284535,2021-10-17 03:29:55.284540,spdorg_cliayn82a00bb6ot9786n562a
+1143,12. Team Fees Offset,,False,False,2021-08-24 00:10:07.024138,2021-10-17 03:29:55.301392,spdorg_cliayn82a00bb6ot9786n562a
+1144,14. Parent Billings Clearing,,False,False,2021-08-24 00:16:30.699701,2021-10-18 19:30:36.110544,spdorg_cliayn82a00bb6ot9786n562a
+1145,15. Funds Transfer Baltimore Armour/SAC,,False,False,2021-08-24 00:49:15.980244,2021-10-18 19:30:36.110548,spdorg_cliayn82a00bb6ot9786n562a
+1340,Discounts - SCRIP,,False,False,2021-12-10 08:03:38.957530,2021-12-10 08:03:38.957538,spdorg_cliayn82a00bb6ot9786n562a
+1387,Tournament Entry Fees,,False,False,2022-01-07 00:23:02.121584,2022-01-07 00:23:02.121588,spdorg_cliayn82a00bb6ot9786n562a
+1388,Coach Reimbursement,,False,False,2022-01-07 00:23:02.125797,2022-01-07 00:23:02.125801,spdorg_cliayn82a00bb6ot9786n562a
+1389,Travel,,False,False,2022-01-07 00:23:02.129821,2022-01-07 00:23:02.129825,spdorg_cliayn82a00bb6ot9786n562a
+1401,Officials,,False,False,2022-01-11 00:43:21.957399,2022-01-11 00:43:21.957404,spdorg_cliayn82a00bb6ot9786n562a
+1420,Tournament Entry Fees,,False,False,2022-03-15 19:09:25.286753,2022-03-15 19:09:25.286757,spdorg_cliayn82a00bb6ot9786n562a
+1421,Travel,,False,False,2022-03-15 19:09:25.292163,2022-03-15 19:09:25.292166,spdorg_cliayn82a00bb6ot9786n562a
+1422,Coach Reimbursement,,False,False,2022-03-15 19:09:25.295870,2022-03-15 19:09:25.295874,spdorg_cliayn82a00bb6ot9786n562a
+1423,Administrative Expenses,,False,False,2022-03-15 19:09:25.299462,2022-03-15 19:09:25.299466,spdorg_cliayn82a00bb6ot9786n562a
+1433,Car / Gas,,False,False,2022-04-14 15:10:00.821127,2022-04-14 15:10:00.821133,spdorg_cliayn82a00bb6ot9786n562a
+1463,Tournament registration,,False,False,2022-04-24 22:24:53.425559,2022-04-24 22:26:25.205248,spdorg_cliayn82a00bb6ot9786n562a
+1462,Ref Fees,,False,False,2022-04-24 22:24:53.420753,2022-04-24 22:26:57.090452,spdorg_cliayn82a00bb6ot9786n562a
+1479,Reimbursement of Fees,,False,False,2022-05-19 21:20:13.673729,2022-05-19 21:20:13.673732,spdorg_cliayn82a00bb6ot9786n562a
+588,administrative_expenses,,False,False,2021-01-03 02:28:51.751008,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+589,tournament_entry_fees,,False,False,2021-01-03 02:28:51.755920,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+890,Car Rental,,False,False,2021-06-11 21:51:40.318708,2021-06-11 21:51:40.318714,spdorg_cliayn82a00bb6ot9786n562a
+1500,HYSA Team Fee Payment,,False,False,2022-06-06 18:55:12.169790,2022-06-06 18:55:12.169794,spdorg_cliayn82a00bb6ot9786n562a
+1501,Ohana League Player Fee Payment,,False,False,2022-06-06 18:55:12.173272,2022-06-06 18:55:12.173275,spdorg_cliayn82a00bb6ot9786n562a
+907,Ref fees,,False,False,2021-06-14 02:57:18.328007,2021-06-14 02:57:18.328011,spdorg_cliayn82a00bb6ot9786n562a
+908,Coach Travel Fees,,False,False,2021-06-14 02:57:18.334115,2021-06-14 03:06:40.118939,spdorg_cliayn82a00bb6ot9786n562a
+1386,Other Expenses,,False,False,2022-01-07 00:23:02.115843,2022-07-20 00:25:58.629956,spdorg_cliayn82a00bb6ot9786n562a
+1647,Travel,,False,False,2022-07-20 18:07:40.124017,2022-07-20 18:07:40.124019,spdorg_cliayn82a00bb6ot9786n562a
+1648,Coach Reimbursement,,False,False,2022-07-20 18:07:40.132016,2022-07-20 18:07:40.132020,spdorg_cliayn82a00bb6ot9786n562a
+1649,Tournament Entry Fees,,False,False,2022-07-20 18:07:40.136241,2022-07-20 18:07:40.136245,spdorg_cliayn82a00bb6ot9786n562a
+1650,Administrative Expenses,,False,False,2022-07-20 18:07:40.140186,2022-07-20 18:07:40.140189,spdorg_cliayn82a00bb6ot9786n562a
+681,League Fees,,False,False,2021-04-22 16:22:11.491564,2021-06-16 00:46:04.264457,spdorg_cliayn82a00bb6ot9786n562a
+598,coach_reimbursement,,False,False,2021-01-05 00:38:51.051266,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+1327,13. Baltimore Armour Overhead,,False,False,2021-10-18 19:30:51.770437,2021-10-18 19:30:51.770442,spdorg_cliayn82a00bb6ot9786n562a
+1465,Coach Parking Fees,,False,False,2022-05-02 22:24:12.939554,2022-05-02 22:26:40.215405,spdorg_cliayn82a00bb6ot9786n562a
+1480,Team Travel,,False,False,2022-05-19 21:20:37.624645,2022-05-19 21:20:37.624650,spdorg_cliayn82a00bb6ot9786n562a
+1502,Playdates,,False,False,2022-06-08 18:38:56.135923,2022-06-08 18:38:56.135939,spdorg_cliayn82a00bb6ot9786n562a
+1503,Indoor Soccer,,False,False,2022-06-08 18:38:56.140249,2022-06-08 18:38:56.140253,spdorg_cliayn82a00bb6ot9786n562a
+1629,Administrative Expenses,,False,False,2022-07-19 00:13:18.451464,2022-07-19 00:13:18.451467,spdorg_cliayn82a00bb6ot9786n562a
+1630,Tournament Entry Fees,,False,False,2022-07-19 00:13:18.454961,2022-07-19 00:13:18.454964,spdorg_cliayn82a00bb6ot9786n562a
+1627,Umpires,,False,False,2022-07-19 00:13:18.443605,2022-07-20 14:37:25.919571,spdorg_cliayn82a00bb6ot9786n562a
+1628,Hotel Rooms,,False,False,2022-07-19 00:13:18.447607,2022-07-20 14:37:25.919574,spdorg_cliayn82a00bb6ot9786n562a
+1651,Referee Fees,,False,False,2022-07-20 23:00:25.593890,2022-07-20 23:00:25.593894,spdorg_cliayn82a00bb6ot9786n562a
+1652,Field Rentals,,False,False,2022-07-20 23:00:25.601732,2022-07-20 23:00:25.601736,spdorg_cliayn82a00bb6ot9786n562a
+72,Coach Travel,,False,False,2020-07-15 16:04:45.916069,2020-08-26 13:58:19.641825,spdorg_cliayn82a00bb6ot9786n562a
+26,Coach Travel,,False,False,2020-07-07 18:55:22.144772,2020-09-02 00:02:35.018824,spdorg_cliayn82a00bb6ot9786n562a
+1328,Registration Fees - Transfer to Org,,False,False,2021-10-27 15:51:05.033378,2021-10-27 15:51:05.033382,spdorg_cliayn82a00bb6ot9786n562a
+1406,Tournament Entry Fees,,False,False,2022-01-12 17:46:00.275158,2022-01-12 17:46:00.275161,spdorg_cliayn82a00bb6ot9786n562a
+1407,Coach Reimbursement,,False,False,2022-01-12 17:46:00.279747,2022-01-12 17:46:00.279751,spdorg_cliayn82a00bb6ot9786n562a
+1408,Travel,,False,False,2022-01-12 17:46:00.284322,2022-01-12 17:46:00.284326,spdorg_cliayn82a00bb6ot9786n562a
+1409,Administrative Expenses,,False,False,2022-01-12 17:46:00.288646,2022-01-12 17:46:00.288650,spdorg_cliayn82a00bb6ot9786n562a
+1425,Referee Fees,,False,False,2022-03-18 18:18:45.914319,2022-03-18 18:18:45.914323,spdorg_cliayn82a00bb6ot9786n562a
+1427,A La Carte Training Fees,,False,False,2022-03-18 18:18:45.924957,2022-03-18 18:18:45.924961,spdorg_cliayn82a00bb6ot9786n562a
+1394,Coach Reimbursement,,False,True,2022-01-08 02:47:03.502176,2022-04-16 03:22:38.030325,spdorg_cliayn82a00bb6ot9786n562a
+1395,Special Events,,False,True,2022-01-08 02:47:03.508766,2022-04-16 03:22:38.030330,spdorg_cliayn82a00bb6ot9786n562a
+1396,Administrative Expenses,,False,True,2022-01-08 02:47:03.512972,2022-04-16 03:22:38.030332,spdorg_cliayn82a00bb6ot9786n562a
+1397,Tournament Entry Fees,,False,True,2022-01-08 02:47:03.517114,2022-04-16 03:22:38.030334,spdorg_cliayn82a00bb6ot9786n562a
+1467,Tournament Entry Fees,,False,False,2022-05-04 20:54:56.359884,2022-05-04 20:54:56.359888,spdorg_cliayn82a00bb6ot9786n562a
+1426,Uniform/Fan Gear,,False,False,2022-03-18 18:18:45.919471,2022-05-05 17:59:23.701455,spdorg_cliayn82a00bb6ot9786n562a
+1466,Extra Field Use Fees,,False,False,2022-05-04 20:54:56.350060,2022-05-16 18:32:12.036924,spdorg_cliayn82a00bb6ot9786n562a
+1468,Coach Travel Expenses,,False,False,2022-05-04 20:54:56.363611,2022-05-16 18:32:12.036927,spdorg_cliayn82a00bb6ot9786n562a
+1469,Team Travel,,False,False,2022-05-04 20:54:56.367261,2022-05-16 18:32:12.036928,spdorg_cliayn82a00bb6ot9786n562a
+1504,Players,,False,False,2022-06-14 00:19:21.260488,2022-06-14 00:19:21.260493,spdorg_cliayn82a00bb6ot9786n562a
+895,coach_reimbursement,,False,False,2021-06-11 22:42:52.003426,2021-06-11 22:42:52.003430,spdorg_cliayn82a00bb6ot9786n562a
+896,tournament_entry_fees,,False,False,2021-06-11 22:42:52.007534,2021-06-11 22:42:52.007537,spdorg_cliayn82a00bb6ot9786n562a
+871,Team Travel - Meals,,False,False,2021-06-10 19:12:04.028011,2021-06-10 19:17:53.118341,spdorg_cliayn82a00bb6ot9786n562a
+873,Team Travel - Gas,,False,False,2021-06-10 19:12:04.033316,2021-06-10 19:17:53.118344,spdorg_cliayn82a00bb6ot9786n562a
+897,administrative_expenses,,False,False,2021-06-11 22:42:52.011323,2021-06-11 22:42:52.011326,spdorg_cliayn82a00bb6ot9786n562a
+898,travel,,False,False,2021-06-11 22:42:52.015221,2021-06-11 22:42:52.015224,spdorg_cliayn82a00bb6ot9786n562a
+926,tournament_entry_fees,,False,False,2021-06-22 18:04:55.214208,2021-06-22 18:04:55.214212,spdorg_cliayn82a00bb6ot9786n562a
+927,travel,,False,False,2021-06-22 18:04:55.218748,2021-06-22 18:04:55.218751,spdorg_cliayn82a00bb6ot9786n562a
+928,coach_reimbursement,,False,False,2021-06-22 18:04:55.223124,2021-06-22 18:04:55.223127,spdorg_cliayn82a00bb6ot9786n562a
+929,administrative_expenses,,False,False,2021-06-22 18:04:55.227440,2021-06-22 18:04:55.227444,spdorg_cliayn82a00bb6ot9786n562a
+935,coach_reimbursement,,False,False,2021-06-25 14:23:23.955242,2021-06-25 14:23:23.955246,spdorg_cliayn82a00bb6ot9786n562a
+936,travel,,False,False,2021-06-25 14:23:23.959948,2021-06-25 14:23:23.959952,spdorg_cliayn82a00bb6ot9786n562a
+1263,Team Purchase,,False,False,2021-09-20 03:13:28.352969,2021-10-13 23:14:27.112772,spdorg_cliayn82a00bb6ot9786n562a
+921,Administrative Expenses,,False,False,2021-06-21 19:57:49.650685,2021-11-01 17:19:13.037785,spdorg_cliayn82a00bb6ot9786n562a
+1325,Fundraising Expense,,False,True,2021-10-07 22:43:54.761752,2022-08-15 17:38:11.939167,spdorg_cliayn82a00bb6ot9786n562a
+1381,MTA Funds,,False,True,2022-01-05 19:38:25.029682,2022-09-30 02:15:43.979625,spdorg_cliayn82a00bb6ot9786n562a
+1499,Player Refund,,False,False,2022-06-06 18:55:12.165523,2022-12-12 18:54:47.443635,spdorg_cliayn82a00bb6ot9786n562a
+1424,"Coach Travel - Air, Auto, Hotel",,False,False,2022-03-18 04:27:06.355733,2022-08-29 22:59:06.588131,spdorg_cliayn82a00bb6ot9786n562a
+1464,Statecup Referee Fees,,False,False,2022-05-02 22:24:12.934415,2023-03-02 00:58:05.694862,spdorg_cliayn82a00bb6ot9786n562a
+1972,Travel,,False,False,2023-05-18 15:58:31.564295,2023-05-18 15:58:31.564298,spdorg_cliayn82a00bb6ot9786n562a
+1973,Tournament Entry Fees,,False,False,2023-05-18 15:58:31.570484,2023-05-18 15:58:31.570488,spdorg_cliayn82a00bb6ot9786n562a
+1974,Administrative Expenses,,False,False,2023-05-18 15:58:31.574598,2023-05-18 15:58:31.574602,spdorg_cliayn82a00bb6ot9786n562a
+210,MISCELLANEOUS,,False,False,2020-09-02 18:30:21.835346,2023-05-30 19:40:50.958750,spdorg_cliayn82a00bb6ot9786n562a
+1,coach_reimbursement,,False,False,2020-07-07 18:55:21.344429,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+2,travel,,False,False,2020-07-07 18:55:21.364011,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+3,administrative_expenses,,False,False,2020-07-07 18:55:21.379267,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+5,coach_reimbursement,,False,False,2020-07-07 18:55:21.428067,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+7,administrative_expenses,,False,False,2020-07-07 18:55:21.488243,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+8,tournament_entry_fees,,False,False,2020-07-07 18:55:21.511100,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+9,coach_reimbursement,,False,False,2020-07-07 18:55:21.525217,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+10,travel,,False,False,2020-07-07 18:55:21.563284,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+11,administrative_expenses,,False,False,2020-07-07 18:55:21.599058,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+12,tournament_entry_fees,,False,False,2020-07-07 18:55:21.622530,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+13,coach_reimbursement,,False,False,2020-07-07 18:55:21.638484,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+14,travel,,False,False,2020-07-07 18:55:21.885294,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+15,administrative_expenses,,False,False,2020-07-07 18:55:21.910474,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+16,tournament_entry_fees,,False,False,2020-07-07 18:55:21.921939,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+17,coach_reimbursement,,False,False,2020-07-07 18:55:21.935519,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+18,travel,,False,False,2020-07-07 18:55:21.951037,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+19,administrative_expenses,,False,False,2020-07-07 18:55:21.973953,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+20,tournament_entry_fees,,False,False,2020-07-07 18:55:21.996728,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+21,coach_reimbursement,,False,False,2020-07-07 18:55:22.015668,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+23,administrative_expenses,,False,False,2020-07-07 18:55:22.051625,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+24,tournament_entry_fees,,False,False,2020-07-07 18:55:22.074857,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+25,coach_reimbursement,,False,False,2020-07-07 18:55:22.096598,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+27,administrative_expenses,,False,False,2020-07-07 18:55:22.157228,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+29,coach_reimbursement,,False,False,2020-07-07 18:55:22.217013,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+30,travel,,False,False,2020-07-07 18:55:22.235788,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+31,administrative_expenses,,False,False,2020-07-07 18:55:22.251535,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+32,tournament_entry_fees,,False,False,2020-07-07 18:55:22.268279,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+33,coach_reimbursement,,False,False,2020-07-07 18:55:22.287723,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+34,travel,,False,False,2020-07-07 18:55:22.310455,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+36,tournament_entry_fees,,False,False,2020-07-07 18:55:22.335464,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+37,coach_reimbursement,,False,False,2020-07-07 18:55:22.351377,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+38,travel,,False,False,2020-07-07 18:55:22.363303,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+39,administrative_expenses,,False,False,2020-07-07 18:55:22.380578,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+40,tournament_entry_fees,,False,False,2020-07-07 18:55:22.396245,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+42,travel,,False,False,2020-07-07 18:55:22.423863,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+45,coach_reimbursement,,False,False,2020-07-07 18:55:22.482344,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+46,travel,,False,False,2020-07-07 18:55:22.498300,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+47,administrative_expenses,,False,False,2020-07-07 18:55:22.514250,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+48,tournament_entry_fees,,False,False,2020-07-07 18:55:22.528118,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+883,Pizza Parties,,False,False,2021-06-11 21:49:39.348199,2021-06-11 21:49:39.348203,spdorg_cliayn82a00bb6ot9786n562a
+884,Pool Parties,,False,False,2021-06-11 21:49:39.352939,2021-06-11 21:49:39.352943,spdorg_cliayn82a00bb6ot9786n562a
+1259,administrative_expenses,,False,False,2021-09-14 20:54:51.079386,2021-09-14 20:54:51.079390,spdorg_cliayn82a00bb6ot9786n562a
+1260,travel,,False,False,2021-09-14 20:54:51.085970,2021-09-14 20:54:51.085975,spdorg_cliayn82a00bb6ot9786n562a
+1261,tournament_entry_fees,,False,False,2021-09-14 20:54:51.090401,2021-09-14 20:54:51.090405,spdorg_cliayn82a00bb6ot9786n562a
+1262,coach_reimbursement,,False,False,2021-09-14 20:54:51.094974,2021-09-14 20:54:51.094978,spdorg_cliayn82a00bb6ot9786n562a
+1174,Tax/Ohio Charitable Filing Fees,,False,False,2021-09-03 21:10:42.523416,2021-09-20 03:08:21.622065,spdorg_cliayn82a00bb6ot9786n562a
+1264,Discounts - Multi Child,,False,False,2021-09-20 03:13:28.357829,2021-09-20 03:13:28.357832,spdorg_cliayn82a00bb6ot9786n562a
+1265,Uniforms,,False,False,2021-09-20 19:56:55.671067,2021-09-20 19:56:55.671071,spdorg_cliayn82a00bb6ot9786n562a
+1266,Field Rentals,,False,False,2021-09-20 20:48:25.676685,2021-09-20 20:48:25.676689,spdorg_cliayn82a00bb6ot9786n562a
+1267,Donations,,False,False,2021-09-21 21:26:52.746541,2021-09-21 21:26:52.746545,spdorg_cliayn82a00bb6ot9786n562a
+1956,Tournament Entry Fees,,False,False,2023-05-03 20:27:50.028388,2023-05-03 20:27:50.028391,spdorg_cliayn82a00bb6ot9786n562a
+1957,Coach Reimbursement,,False,False,2023-05-03 20:27:50.032220,2023-05-03 20:27:50.032223,spdorg_cliayn82a00bb6ot9786n562a
+1286,Referee Fees,,False,False,2021-09-27 23:11:17.468216,2021-09-27 23:11:17.468220,spdorg_cliayn82a00bb6ot9786n562a
+1288,Secondary League Fee,,False,False,2021-09-27 23:13:19.351418,2021-09-27 23:13:19.351421,spdorg_cliayn82a00bb6ot9786n562a
+1287,Player Awards & Coaches Gifts,,False,False,2021-09-27 23:12:53.632000,2021-09-27 23:13:33.382264,spdorg_cliayn82a00bb6ot9786n562a
+1289,Team Equipment,,False,False,2021-09-27 23:13:49.451861,2021-09-28 08:18:08.120501,spdorg_cliayn82a00bb6ot9786n562a
+22,Travel Fees,,False,False,2020-07-07 18:55:22.033773,2021-06-14 03:06:57.016984,spdorg_cliayn82a00bb6ot9786n562a
+83,travel,,False,False,2020-07-20 20:06:35.626822,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+84,coach_reimbursement,,False,False,2020-07-20 20:06:35.639315,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+85,tournament_entry_fees,,False,False,2020-07-20 20:06:35.650621,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+86,administrative_expenses,,False,False,2020-07-20 20:06:35.661897,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+87,travel,,False,False,2020-07-21 21:02:03.744731,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+88,tournament_entry_fees,,False,False,2020-07-21 21:02:03.763803,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+89,administrative_expenses,,False,False,2020-07-21 21:02:03.779850,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+90,coach_reimbursement,,False,False,2020-07-21 21:02:03.796613,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+91,League Fees,,False,False,2020-07-22 16:16:26.646802,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+92,coach_reimbursement,,False,False,2020-07-23 00:39:44.863216,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+93,travel,,False,False,2020-07-23 00:39:44.875778,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+94,administrative_expenses,,False,False,2020-07-23 00:39:44.887985,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+95,tournament_entry_fees,,False,False,2020-07-23 00:39:44.899541,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+96,travel,,False,False,2020-07-27 16:40:47.382613,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+97,coach_reimbursement,,False,False,2020-07-27 16:40:47.394181,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+98,administrative_expenses,,False,False,2020-07-27 16:40:47.405430,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+99,tournament_entry_fees,,False,False,2020-07-27 16:40:47.416512,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+100,administrative_expenses,,False,False,2020-07-28 16:26:59.577701,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+101,tournament_entry_fees,,False,False,2020-07-28 16:26:59.591417,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+102,travel,,False,False,2020-07-28 16:26:59.607958,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+103,coach_reimbursement,,False,False,2020-07-28 16:26:59.621463,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+104,administrative_expenses,,False,False,2020-07-29 18:36:10.582273,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+105,coach_reimbursement,,False,False,2020-07-29 18:36:10.596038,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+106,tournament_entry_fees,,False,False,2020-07-29 18:36:10.609350,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+107,travel,,False,False,2020-07-29 18:36:10.624555,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+108,administrative_expenses,,False,False,2020-07-30 15:29:22.416739,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+109,coach_reimbursement,,False,False,2020-07-30 15:29:22.431005,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+110,tournament_entry_fees,,False,False,2020-07-30 15:29:22.444729,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+111,travel,,False,False,2020-07-30 15:29:22.458840,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+4,Tournament and Special Event Entry Fees,,False,False,2020-07-07 18:55:21.407333,2020-07-30 16:24:47.742804,spdorg_cliayn82a00bb6ot9786n562a
+112,tournament_entry_fees,,False,False,2020-08-02 17:58:44.607673,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+113,administrative_expenses,,False,False,2020-08-02 17:58:44.617316,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+114,coach_reimbursement,,False,False,2020-08-02 17:58:44.625970,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+115,travel,,False,False,2020-08-02 17:58:44.634940,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+120,travel,,False,False,2020-08-04 19:42:15.605447,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+121,administrative_expenses,,False,False,2020-08-04 19:42:15.619521,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+122,tournament_entry_fees,,False,False,2020-08-04 19:42:15.633125,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+123,coach_reimbursement,,False,False,2020-08-04 19:42:15.646063,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+124,travel,,False,False,2020-08-04 23:46:00.421319,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+125,administrative_expenses,,False,False,2020-08-04 23:46:00.433686,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+126,tournament_entry_fees,,False,False,2020-08-04 23:46:00.445702,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+127,coach_reimbursement,,False,False,2020-08-04 23:46:00.458136,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+128,tournament_entry_fees,,False,False,2020-08-12 21:35:57.574285,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+129,travel,,False,False,2020-08-12 21:35:57.587591,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+1199,Player Scholarships Received From SCU,,False,True,2021-09-04 14:52:57.637428,2022-07-23 07:59:25.759440,spdorg_cliayn82a00bb6ot9786n562a
+1200,Player Scholarships Issued By SCU,,False,True,2021-09-04 14:56:23.080368,2022-07-23 07:59:25.759443,spdorg_cliayn82a00bb6ot9786n562a
+6,Travel,,False,True,2020-07-07 18:55:21.459813,2023-03-07 16:28:29.865599,spdorg_cliayn82a00bb6ot9786n562a
+1960,* US Club State Cup 2023,,False,False,2023-05-09 07:53:23.752289,2023-05-09 07:55:12.790258,spdorg_cliayn82a00bb6ot9786n562a
+1963,* HSA Invitational 2023,,False,False,2023-05-09 07:55:32.688533,2023-05-09 07:55:44.585724,spdorg_cliayn82a00bb6ot9786n562a
+1966,* Crossfire Tournament 2023 (EA),,False,False,2023-05-18 09:04:46.031683,2023-05-18 09:05:08.059990,spdorg_cliayn82a00bb6ot9786n562a
+1975,Coach Reimbursement,,False,False,2023-05-18 15:58:31.578015,2023-05-18 15:58:31.578018,spdorg_cliayn82a00bb6ot9786n562a
+1982,Administrative Expenses,,False,False,2023-05-26 18:05:34.593283,2023-05-26 18:05:34.593287,spdorg_cliayn82a00bb6ot9786n562a
+1984,Coach Reimbursement,,False,False,2023-05-26 18:05:34.601217,2023-05-26 18:05:34.601222,spdorg_cliayn82a00bb6ot9786n562a
+212,HELMET DECALS,,False,False,2020-09-02 18:40:06.967678,2023-05-30 19:40:50.958753,spdorg_cliayn82a00bb6ot9786n562a
+1991,13U EA Dec 9-11 Merryville IN Legue Game,,False,False,2023-06-02 01:20:43.498578,2023-06-02 01:20:43.498584,spdorg_cliayn82a00bb6ot9786n562a
+1772,13U EA April 22-24 Chicago IL,,False,False,2022-10-19 00:46:57.940166,2023-06-04 05:19:24.583137,spdorg_cliayn82a00bb6ot9786n562a
+1774,16U EA April 22-24 Chicago IL,,False,False,2022-10-19 00:46:57.946929,2023-06-04 05:19:24.583140,spdorg_cliayn82a00bb6ot9786n562a
+130,administrative_expenses,,False,False,2020-08-12 21:35:57.598404,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+131,coach_reimbursement,,False,False,2020-08-12 21:35:57.609487,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+132,tournament_entry_fees,,False,False,2020-08-13 17:20:42.883065,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+133,travel,,False,False,2020-08-13 17:20:42.895114,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+134,administrative_expenses,,False,False,2020-08-13 17:20:42.908885,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+135,coach_reimbursement,,False,False,2020-08-13 17:20:42.920730,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+136,tournament_entry_fees,,False,False,2020-08-13 19:13:27.307521,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+137,travel,,False,False,2020-08-13 19:13:27.322855,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+138,administrative_expenses,,False,False,2020-08-13 19:13:27.346084,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+139,coach_reimbursement,,False,False,2020-08-13 19:13:27.360436,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+140,coach_reimbursement,,False,False,2020-08-13 21:26:14.454184,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+141,travel,,False,False,2020-08-13 21:26:14.472685,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+142,administrative_expenses,,False,False,2020-08-13 21:26:14.489474,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+143,tournament_entry_fees,,False,False,2020-08-13 21:26:14.503352,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+35,Team Administrative Expenses,,False,False,2020-07-07 18:55:22.323812,2020-08-14 16:18:41.716502,spdorg_cliayn82a00bb6ot9786n562a
+144,administrative_expenses,,False,False,2020-08-17 17:00:23.369620,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+145,travel,,False,False,2020-08-17 17:00:23.385666,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+146,coach_reimbursement,,False,False,2020-08-17 17:00:23.396917,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+147,tournament_entry_fees,,False,False,2020-08-17 17:00:23.407635,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+148,tournament_entry_fees,,False,False,2020-08-19 21:56:44.646209,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+67,3. Referee Fees,,False,False,2020-07-08 19:49:33.885579,2020-08-25 18:32:14.834340,spdorg_cliayn82a00bb6ot9786n562a
+28,Gaming Fees,,False,False,2020-07-07 18:55:22.206149,2020-09-02 00:02:35.034970,spdorg_cliayn82a00bb6ot9786n562a
+41,Equipment,,False,False,2020-07-07 18:55:22.409408,2020-09-15 00:18:11.844958,spdorg_cliayn82a00bb6ot9786n562a
+43,Bank Fees,,False,False,2020-07-07 18:55:22.447405,2020-09-15 00:18:11.861555,spdorg_cliayn82a00bb6ot9786n562a
+44,Tournament,,False,False,2020-07-07 18:55:22.461707,2020-09-15 00:18:11.877347,spdorg_cliayn82a00bb6ot9786n562a
+152,tournament_entry_fees,,False,False,2020-08-20 15:55:00.331074,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+153,coach_reimbursement,,False,False,2020-08-20 15:55:00.332303,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+154,administrative_expenses,,False,False,2020-08-20 15:55:00.333320,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+155,travel,,False,False,2020-08-20 15:55:00.334904,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+156,tournament_entry_fees,,False,False,2020-08-20 16:00:09.518080,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+157,coach_reimbursement,,False,False,2020-08-20 16:00:09.519478,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+158,administrative_expenses,,False,False,2020-08-20 16:00:09.520768,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+159,travel,,False,False,2020-08-20 16:00:09.522327,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+885,Team Lunch,,False,False,2021-06-11 21:49:53.602757,2021-06-11 21:49:53.602760,spdorg_cliayn82a00bb6ot9786n562a
+886,Team Dinner,,False,False,2021-06-11 21:49:53.608146,2021-06-11 21:49:53.608150,spdorg_cliayn82a00bb6ot9786n562a
+170,4. Additional Trainers (Submit Form for Approval),,False,False,2020-08-25 18:09:57.979044,2021-06-30 14:36:53.410004,spdorg_cliayn82a00bb6ot9786n562a
+68,7. Travel Reimbursements - Coaches,,False,False,2020-07-08 19:49:33.896885,2020-08-25 18:32:14.855545,spdorg_cliayn82a00bb6ot9786n562a
+70,2. League Fees,,False,False,2020-07-08 19:49:33.919041,2020-08-25 18:32:14.876553,spdorg_cliayn82a00bb6ot9786n562a
+80,5. Field Rentals,,False,False,2020-07-20 11:55:06.218454,2020-08-25 18:32:14.897537,spdorg_cliayn82a00bb6ot9786n562a
+81,8. Administrative,,False,False,2020-07-20 11:55:06.229368,2020-08-25 18:32:14.907845,spdorg_cliayn82a00bb6ot9786n562a
+240,tournament_entry_fees,,False,False,2020-09-17 15:24:09.386410,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+69,6. Tournament Entry Fees (Use Approved Form for Budget),,False,False,2020-07-08 19:49:33.907710,2021-06-30 14:41:31.707690,spdorg_cliayn82a00bb6ot9786n562a
+171,9. Miscellaneous,,False,False,2020-08-25 18:10:26.445887,2020-08-25 18:32:14.942070,spdorg_cliayn82a00bb6ot9786n562a
+231,Referee Fees: (only cash transaction allowed),,False,False,2020-09-15 00:19:50.604156,2021-07-01 03:57:28.435839,spdorg_cliayn82a00bb6ot9786n562a
+79,1. SAC Club Fees,,False,False,2020-07-20 11:55:06.206727,2020-08-25 18:34:08.595159,spdorg_cliayn82a00bb6ot9786n562a
+172,tournament_entry_fees,,False,False,2020-08-25 21:12:33.234061,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+173,coach_reimbursement,,False,False,2020-08-25 21:12:33.235300,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+174,travel,,False,False,2020-08-25 21:12:33.236365,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+175,administrative_expenses,,False,False,2020-08-25 21:12:33.237424,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+178,"Equipment - First Aid, Team Tent/Bench (etc)",,False,False,2020-08-26 13:53:02.500279,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+176,Socials,,False,False,2020-08-26 13:53:02.491711,2020-08-26 13:57:14.138953,spdorg_cliayn82a00bb6ot9786n562a
+177,"Uniforms (Guest Kit, Goalie Gear)",,False,False,2020-08-26 13:53:02.496434,2020-08-26 13:57:14.150981,spdorg_cliayn82a00bb6ot9786n562a
+179,Gifts,,False,False,2020-08-26 13:57:29.110069,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+180,Misc Expenses,,False,False,2020-08-26 13:57:43.865263,2020-08-26 13:57:50.930521,spdorg_cliayn82a00bb6ot9786n562a
+181,Winter/Indoor League,,False,False,2020-08-26 13:58:51.271974,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+182,Winter Training/Indoor League Fees,,False,False,2020-08-26 13:58:51.277473,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+183,National Championship,,False,False,2020-08-26 13:59:07.338376,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+184,Referee Fees,,False,False,2020-08-26 14:00:38.326638,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+185,Chaperone Travel,,False,False,2020-08-26 14:00:49.344406,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+187,"Promotional Expenses (brochure-printing, layout/design)",,False,False,2020-08-26 14:01:37.021287,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+186,League Play (2nd league),,False,False,2020-08-26 14:01:37.014712,2020-08-26 14:02:17.318988,spdorg_cliayn82a00bb6ot9786n562a
+188,travel,,False,False,2020-08-27 18:02:29.813089,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+189,tournament_entry_fees,,False,False,2020-08-27 18:02:29.815139,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+190,coach_reimbursement,,False,False,2020-08-27 18:02:29.816594,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+193,travel,,False,False,2020-08-28 13:52:15.382965,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+194,tournament_entry_fees,,False,False,2020-08-28 13:52:15.385210,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+195,coach_reimbursement,,False,False,2020-08-28 13:52:15.387288,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+196,administrative_expenses,,False,False,2020-08-28 13:52:15.389374,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+197,travel,,False,False,2020-09-01 16:59:08.829883,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+198,coach_reimbursement,,False,False,2020-09-01 16:59:08.831646,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+199,administrative_expenses,,False,False,2020-09-01 16:59:08.833227,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+200,tournament_entry_fees,,False,False,2020-09-01 16:59:08.834825,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+201,travel,,False,False,2020-09-01 21:19:40.391173,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+202,coach_reimbursement,,False,False,2020-09-01 21:19:40.392926,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+203,administrative_expenses,,False,False,2020-09-01 21:19:40.394433,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+204,tournament_entry_fees,,False,False,2020-09-01 21:19:40.395951,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+205,Equipment,,False,False,2020-09-02 00:02:35.008705,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+206,tournament_entry_fees,,False,False,2020-09-02 18:04:52.957376,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+207,coach_reimbursement,,False,False,2020-09-02 18:04:52.959015,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+208,travel,,False,False,2020-09-02 18:04:52.960535,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+209,administrative_expenses,,False,False,2020-09-02 18:04:52.961971,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+213,Uniforms,,False,False,2020-09-09 16:45:21.834037,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+214,administrative_expenses,,False,False,2020-09-10 14:53:01.932771,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+215,tournament_entry_fees,,False,False,2020-09-10 14:53:01.934021,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+216,travel,,False,False,2020-09-10 14:53:01.935035,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+217,coach_reimbursement,,False,False,2020-09-10 14:53:01.936185,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+241,administrative_expenses,,False,False,2020-09-17 15:24:09.388076,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+219,travel,,False,False,2020-09-11 22:46:44.833944,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+220,administrative_expenses,,False,False,2020-09-11 22:46:44.835653,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+221,tournament_entry_fees,,False,False,2020-09-11 22:46:44.837119,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+222,coach_reimbursement,,False,False,2020-09-11 22:46:44.838596,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+218,First Aid Kit,,False,False,2020-09-11 20:27:01.216791,2020-09-15 00:18:11.892870,spdorg_cliayn82a00bb6ot9786n562a
+223,Filming/Video,,False,False,2020-09-15 00:18:47.989430,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+224,Parties/Gifts,,False,False,2020-09-15 00:18:47.996295,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+225,Player Cards,,False,False,2020-09-15 00:18:48.002459,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+226,Spring League,,False,False,2020-09-15 00:18:48.008632,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+227,Team Bench,,False,False,2020-09-15 00:18:48.014808,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+228,Team Canopy,,False,False,2020-09-15 00:18:48.020939,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+229,Other,,False,False,2020-09-15 00:18:48.026758,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+230,Team Snap,,False,False,2020-09-15 00:19:08.744525,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+232,travel,,False,False,2020-09-15 22:03:46.203601,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+233,administrative_expenses,,False,False,2020-09-15 22:03:46.204999,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+234,tournament_entry_fees,,False,False,2020-09-15 22:03:46.206086,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+235,coach_reimbursement,,False,False,2020-09-15 22:03:46.207166,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+236,tournament_entry_fees,,False,False,2020-09-16 19:06:55.320268,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+237,administrative_expenses,,False,False,2020-09-16 19:06:55.322011,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+238,travel,,False,False,2020-09-16 19:06:55.323456,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+239,coach_reimbursement,,False,False,2020-09-16 19:06:55.324839,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+242,travel,,False,False,2020-09-17 15:24:09.389546,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+243,coach_reimbursement,,False,False,2020-09-17 15:24:09.391105,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+244,tournament_entry_fees,,False,False,2020-09-17 16:00:15.024515,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+245,administrative_expenses,,False,False,2020-09-17 16:00:15.026085,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+246,travel,,False,False,2020-09-17 16:00:15.027527,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+247,coach_reimbursement,,False,False,2020-09-17 16:00:15.028941,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+248,administrative_expenses,,False,False,2020-09-17 19:00:05.730521,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+249,tournament_entry_fees,,False,False,2020-09-17 19:00:05.731739,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+250,travel,,False,False,2020-09-17 19:00:05.732694,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+251,coach_reimbursement,,False,False,2020-09-17 19:00:05.733674,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+252,tournament_entry_fees,,False,False,2020-09-18 16:54:01.104060,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+253,travel,,False,False,2020-09-18 16:54:01.105262,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+254,administrative_expenses,,False,False,2020-09-18 16:54:01.106193,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+255,coach_reimbursement,,False,False,2020-09-18 16:54:01.107121,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+256,tournament_entry_fees,,False,False,2020-09-18 20:28:27.206351,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+257,travel,,False,False,2020-09-18 20:28:27.207549,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+258,administrative_expenses,,False,False,2020-09-18 20:28:27.208464,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+259,coach_reimbursement,,False,False,2020-09-18 20:28:27.209445,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+289,travel,,False,False,2020-09-24 16:09:15.275534,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+290,tournament_entry_fees,,False,False,2020-09-24 16:09:15.277355,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+291,administrative_expenses,,False,False,2020-09-24 16:09:15.278729,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+292,coach_reimbursement,,False,False,2020-09-24 16:09:15.280085,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+293,tournament_entry_fees,,False,False,2020-09-25 20:16:34.321142,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+294,coach_reimbursement,,False,False,2020-09-25 20:16:34.322766,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+295,travel,,False,False,2020-09-25 20:16:34.324150,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+296,administrative_expenses,,False,False,2020-09-25 20:16:34.325502,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+297,travel,,False,False,2020-09-28 16:57:03.139494,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+298,tournament_entry_fees,,False,False,2020-09-28 16:57:03.140861,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+300,administrative_expenses,,False,False,2020-09-28 16:57:03.143285,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+301,administrative_expenses,,False,False,2020-09-29 20:51:17.883682,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+302,tournament_entry_fees,,False,False,2020-09-29 20:51:17.885106,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+304,coach_reimbursement,,False,False,2020-09-29 20:51:17.887308,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+305,Entertainment,,False,False,2020-09-30 14:52:22.511380,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+191,Ref Fees,,False,False,2020-08-27 18:02:29.817989,2020-09-30 14:52:22.528394,spdorg_cliayn82a00bb6ot9786n562a
+306,tournament_entry_fees,,False,False,2020-10-05 19:33:17.381859,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+307,administrative_expenses,,False,False,2020-10-05 19:33:17.383079,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+308,coach_reimbursement,,False,False,2020-10-05 19:33:17.384128,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+309,travel,,False,False,2020-10-05 19:33:17.385272,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+310,coach_reimbursement,,False,False,2020-10-06 03:50:37.856330,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+311,tournament_entry_fees,,False,False,2020-10-06 03:50:37.857931,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+312,administrative_expenses,,False,False,2020-10-06 03:50:37.859292,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+313,travel,,False,False,2020-10-06 03:50:37.860637,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+314,tournament_entry_fees,,False,False,2020-10-12 23:24:26.029760,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+315,coach_reimbursement,,False,False,2020-10-12 23:24:26.031055,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+316,administrative_expenses,,False,False,2020-10-12 23:24:26.032126,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+317,travel,,False,False,2020-10-12 23:24:26.033213,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+318,travel,,False,False,2020-10-14 00:18:43.003557,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+319,coach_reimbursement,,False,False,2020-10-14 00:18:43.005189,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+320,administrative_expenses,,False,False,2020-10-14 00:18:43.006592,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+321,tournament_entry_fees,,False,False,2020-10-14 00:18:43.008014,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+322,travel,,False,False,2020-10-14 00:49:47.261673,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+323,coach_reimbursement,,False,False,2020-10-14 00:49:47.263330,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+324,administrative_expenses,,False,False,2020-10-14 00:49:47.264752,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+325,tournament_entry_fees,,False,False,2020-10-14 00:49:47.266186,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+326,travel,,False,False,2020-10-15 13:07:28.714947,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+327,tournament_entry_fees,,False,False,2020-10-15 13:07:28.716280,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+328,coach_reimbursement,,False,False,2020-10-15 13:07:28.717378,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+329,administrative_expenses,,False,False,2020-10-15 13:07:28.718420,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+330,travel,,False,False,2020-10-16 15:28:36.393694,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+331,tournament_entry_fees,,False,False,2020-10-16 15:28:36.395305,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+332,coach_reimbursement,,False,False,2020-10-16 15:28:36.396711,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+333,administrative_expenses,,False,False,2020-10-16 15:28:36.398056,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+334,travel,,False,False,2020-10-18 17:19:04.376591,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+335,tournament_entry_fees,,False,False,2020-10-18 17:19:04.378015,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+336,coach_reimbursement,,False,False,2020-10-18 17:19:04.379141,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+337,administrative_expenses,,False,False,2020-10-18 17:19:04.380231,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+338,coach_reimbursement,,False,False,2020-10-22 16:20:30.165688,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+339,tournament_entry_fees,,False,False,2020-10-22 16:20:30.167049,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+340,travel,,False,False,2020-10-22 16:20:30.168235,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+341,administrative_expenses,,False,False,2020-10-22 16:20:30.169360,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+342,administrative_expenses,,False,False,2020-10-23 00:12:50.516582,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+343,coach_reimbursement,,False,False,2020-10-23 00:12:50.518274,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+344,tournament_entry_fees,,False,False,2020-10-23 00:12:50.519799,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+345,travel,,False,False,2020-10-23 00:12:50.521246,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+346,administrative_expenses,,False,False,2020-10-23 17:48:53.400446,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+347,coach_reimbursement,,False,False,2020-10-23 17:48:53.402680,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+348,tournament_entry_fees,,False,False,2020-10-23 17:48:53.408947,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+349,travel,,False,False,2020-10-23 17:48:53.410414,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+350,travel,,False,False,2020-10-27 17:17:40.259803,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+351,administrative_expenses,,False,False,2020-10-27 17:17:40.261178,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+352,coach_reimbursement,,False,False,2020-10-27 17:17:40.262399,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+353,tournament_entry_fees,,False,False,2020-10-27 17:17:40.263547,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+354,travel,,False,False,2020-11-06 20:25:32.508012,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+355,coach_reimbursement,,False,False,2020-11-06 20:25:32.509364,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+356,tournament_entry_fees,,False,False,2020-11-06 20:25:32.510518,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+357,administrative_expenses,,False,False,2020-11-06 20:25:32.511615,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+358,administrative_expenses,,False,False,2020-11-07 21:29:18.879252,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+359,coach_reimbursement,,False,False,2020-11-07 21:29:18.880876,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+360,travel,,False,False,2020-11-07 21:29:18.882275,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+361,tournament_entry_fees,,False,False,2020-11-07 21:29:18.883698,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+362,administrative_expenses,,False,False,2020-11-16 14:45:00.456065,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+363,travel,,False,False,2020-11-16 14:45:00.457700,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+364,tournament_entry_fees,,False,False,2020-11-16 14:45:00.459125,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+365,coach_reimbursement,,False,False,2020-11-16 14:45:00.460554,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+368,coach_reimbursement,,False,False,2020-11-17 00:57:15.301465,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+369,tournament_entry_fees,,False,False,2020-11-17 00:57:15.302842,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+370,coach_reimbursement,,False,False,2020-11-17 22:37:01.808003,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+371,administrative_expenses,,False,False,2020-11-17 22:37:01.809815,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+372,travel,,False,False,2020-11-17 22:37:01.811331,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+373,tournament_entry_fees,,False,False,2020-11-17 22:37:01.812848,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+374,administrative_expenses,,False,False,2020-11-19 21:10:07.537720,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+375,travel,,False,False,2020-11-19 21:10:07.539444,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+376,coach_reimbursement,,False,False,2020-11-19 21:10:07.540943,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+377,tournament_entry_fees,,False,False,2020-11-19 21:10:07.542419,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+378,coach_reimbursement,,False,False,2020-11-24 03:44:20.559102,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+379,tournament_entry_fees,,False,False,2020-11-24 03:44:20.560840,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+380,administrative_expenses,,False,False,2020-11-24 03:44:20.562238,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+381,travel,,False,False,2020-11-24 03:44:20.563664,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+382,coach_reimbursement,,False,False,2020-11-24 05:39:20.274054,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+383,tournament_entry_fees,,False,False,2020-11-24 05:39:20.275659,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+384,administrative_expenses,,False,False,2020-11-24 05:39:20.277129,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+385,travel,,False,False,2020-11-24 05:39:20.278501,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+386,coach_reimbursement,,False,False,2020-11-26 01:27:25.636415,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+387,travel,,False,False,2020-11-26 01:27:25.637691,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+388,administrative_expenses,,False,False,2020-11-26 01:27:25.638837,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+389,tournament_entry_fees,,False,False,2020-11-26 01:27:25.639887,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+390,coach_reimbursement,,False,False,2020-11-26 19:41:11.224506,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+391,tournament_entry_fees,,False,False,2020-11-26 19:41:11.226131,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+392,travel,,False,False,2020-11-26 19:41:11.227514,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+393,administrative_expenses,,False,False,2020-11-26 19:41:11.228894,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+394,Indoor Training,,False,False,2020-12-02 15:23:37.537980,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+395,Misc,,False,False,2020-12-02 15:23:49.330336,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+396,"Travel- Hotel, Vans, Meals etc.",,False,False,2020-12-02 15:24:28.050934,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+366,Travel-Airfare,,False,False,2020-11-17 00:57:15.298410,2020-12-02 15:24:28.057744,spdorg_cliayn82a00bb6ot9786n562a
+400,Field Rental,,False,False,2020-12-02 15:29:07.077849,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+367,Administrative/Office Expenses,,False,False,2020-11-17 00:57:15.300038,2020-12-02 15:29:07.084337,spdorg_cliayn82a00bb6ot9786n562a
+401,travel,,False,False,2020-12-03 18:41:20.500608,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+402,administrative_expenses,,False,False,2020-12-03 18:41:20.502308,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+403,coach_reimbursement,,False,False,2020-12-03 18:41:20.503719,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+404,tournament_entry_fees,,False,False,2020-12-03 18:41:20.505149,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+405,Min Balance,,False,False,2020-12-03 21:42:04.160935,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+887,Car Rental,,False,False,2021-06-11 21:51:40.306491,2021-06-11 21:51:40.306497,spdorg_cliayn82a00bb6ot9786n562a
+888,Airfare,,False,False,2021-06-11 21:51:40.313791,2021-06-11 21:51:40.313796,spdorg_cliayn82a00bb6ot9786n562a
+930,Donations,,False,False,2021-06-23 18:49:47.453889,2021-06-23 18:49:47.453893,spdorg_cliayn82a00bb6ot9786n562a
+1064,tournament_entry_fees,,False,False,2021-07-15 21:10:13.739113,2021-07-15 21:10:13.739118,spdorg_cliayn82a00bb6ot9786n562a
+1065,travel,,False,False,2021-07-15 21:10:13.745659,2021-07-15 21:10:13.745663,spdorg_cliayn82a00bb6ot9786n562a
+1066,administrative_expenses,,False,False,2021-07-15 21:10:13.751324,2021-07-15 21:10:13.751328,spdorg_cliayn82a00bb6ot9786n562a
+1067,coach_reimbursement,,False,False,2021-07-15 21:10:13.756533,2021-07-15 21:10:13.756537,spdorg_cliayn82a00bb6ot9786n562a
+454,tournament_entry_fees,,False,False,2020-12-10 19:18:59.944575,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+455,coach_reimbursement,,False,False,2020-12-10 19:18:59.951811,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+456,administrative_expenses,,False,False,2020-12-10 19:18:59.956698,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+457,travel,,False,False,2020-12-10 19:18:59.961684,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+1080,Coach Travel Expenses,,False,False,2021-07-21 22:40:49.486030,2021-07-21 22:40:49.486034,spdorg_cliayn82a00bb6ot9786n562a
+1084,Uniform Expense,,False,False,2021-07-21 22:42:36.306346,2021-07-21 22:42:36.306350,spdorg_cliayn82a00bb6ot9786n562a
+1097,League Fees,,False,False,2021-07-30 16:17:54.278290,2021-07-30 16:17:54.278302,spdorg_cliayn82a00bb6ot9786n562a
+1105,administrative_expenses,,False,False,2021-08-05 17:59:57.827985,2021-08-05 17:59:57.827991,spdorg_cliayn82a00bb6ot9786n562a
+1106,coach_reimbursement,,False,False,2021-08-05 17:59:57.837264,2021-08-05 17:59:57.837270,spdorg_cliayn82a00bb6ot9786n562a
+1107,tournament_entry_fees,,False,False,2021-08-05 17:59:57.865872,2021-08-05 17:59:57.865879,spdorg_cliayn82a00bb6ot9786n562a
+1108,travel,,False,False,2021-08-05 17:59:57.902493,2021-08-05 17:59:57.902500,spdorg_cliayn82a00bb6ot9786n562a
+889,Car Rental,,False,False,2021-06-11 21:51:40.318187,2021-06-11 21:51:40.318193,spdorg_cliayn82a00bb6ot9786n562a
+463,coach_reimbursement,,False,False,2020-12-14 03:10:32.057430,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+464,tournament_entry_fees,,False,False,2020-12-14 03:10:32.062152,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+465,administrative_expenses,,False,False,2020-12-14 03:10:32.066815,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+904,administrative_expenses,,False,False,2021-06-12 20:32:09.308379,2021-06-12 20:32:09.308383,spdorg_cliayn82a00bb6ot9786n562a
+905,travel,,False,False,2021-06-12 20:32:09.312166,2021-06-12 20:32:09.312169,spdorg_cliayn82a00bb6ot9786n562a
+918,tournament_entry_fees,,False,False,2021-06-21 19:57:49.636157,2021-06-21 19:57:49.636160,spdorg_cliayn82a00bb6ot9786n562a
+470,travel,,False,False,2020-12-14 19:27:22.729396,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+471,coach_reimbursement,,False,False,2020-12-14 19:27:22.734632,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+472,tournament_entry_fees,,False,False,2020-12-14 19:27:22.739784,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+473,administrative_expenses,,False,False,2020-12-14 19:27:22.744628,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+919,travel,,False,False,2021-06-21 19:57:49.642349,2021-06-21 19:57:49.642353,spdorg_cliayn82a00bb6ot9786n562a
+920,coach_reimbursement,,False,False,2021-06-21 19:57:49.646645,2021-06-21 19:57:49.646648,spdorg_cliayn82a00bb6ot9786n562a
+931,Equipment,,False,False,2021-06-23 18:50:19.868186,2021-06-23 18:50:19.868191,spdorg_cliayn82a00bb6ot9786n562a
+478,travel,,False,False,2020-12-14 19:41:09.490967,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+479,coach_reimbursement,,False,False,2020-12-14 19:41:09.495834,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+480,tournament_entry_fees,,False,False,2020-12-14 19:41:09.500656,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+481,administrative_expenses,,False,False,2020-12-14 19:41:09.505562,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+486,tournament_entry_fees,,False,False,2020-12-17 21:37:43.373546,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+487,travel,,False,False,2020-12-17 21:37:43.380829,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+488,coach_reimbursement,,False,False,2020-12-17 21:37:43.385870,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+489,administrative_expenses,,False,False,2020-12-17 21:37:43.390718,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+963,Donations/Fundraisers,,False,False,2021-06-30 14:28:08.977077,2021-06-30 14:28:08.977081,spdorg_cliayn82a00bb6ot9786n562a
+964,Other Income,,False,False,2021-06-30 14:28:08.981731,2021-06-30 14:28:08.981734,spdorg_cliayn82a00bb6ot9786n562a
+494,coach_reimbursement,,False,False,2020-12-19 02:03:18.851697,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+495,tournament_entry_fees,,False,False,2020-12-19 02:03:18.857486,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+496,travel,,False,False,2020-12-19 02:03:18.862744,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+497,administrative_expenses,,False,False,2020-12-19 02:03:18.867739,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+502,coach_reimbursement,,False,False,2020-12-19 21:13:42.003415,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+503,tournament_entry_fees,,False,False,2020-12-19 21:13:42.010585,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+504,travel,,False,False,2020-12-19 21:13:42.015574,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+505,administrative_expenses,,False,False,2020-12-19 21:13:42.020470,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+985,administrative_expenses,,False,False,2021-06-30 19:11:02.596881,2021-06-30 19:11:02.596885,spdorg_cliayn82a00bb6ot9786n562a
+986,coach_reimbursement,,False,False,2021-06-30 19:11:02.603244,2021-06-30 19:11:02.603248,spdorg_cliayn82a00bb6ot9786n562a
+987,travel,,False,False,2021-06-30 19:11:02.607689,2021-06-30 19:11:02.607692,spdorg_cliayn82a00bb6ot9786n562a
+988,tournament_entry_fees,,False,False,2021-06-30 19:11:02.612192,2021-06-30 19:11:02.612195,spdorg_cliayn82a00bb6ot9786n562a
+510,travel,,False,False,2020-12-22 16:11:02.827853,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+511,tournament_entry_fees,,False,False,2020-12-22 16:11:02.834897,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+512,coach_reimbursement,,False,False,2020-12-22 16:11:02.839987,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+513,administrative_expenses,,False,False,2020-12-22 16:11:02.844812,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+997,Referee Fees,,False,False,2021-07-01 01:12:20.638770,2021-07-01 01:12:20.638775,spdorg_cliayn82a00bb6ot9786n562a
+998,Training Expenses,,False,False,2021-07-01 01:12:20.643494,2021-07-01 01:12:20.643499,spdorg_cliayn82a00bb6ot9786n562a
+999,Equipment,,False,False,2021-07-01 01:12:20.647740,2021-07-01 01:12:20.647744,spdorg_cliayn82a00bb6ot9786n562a
+1000,Team Events & Entertainment,,False,False,2021-07-01 01:12:20.651889,2021-07-01 01:12:20.651893,spdorg_cliayn82a00bb6ot9786n562a
+518,travel,,False,False,2020-12-22 18:07:47.287610,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+519,tournament_entry_fees,,False,False,2020-12-22 18:07:47.292748,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+520,coach_reimbursement,,False,False,2020-12-22 18:07:47.297461,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+521,administrative_expenses,,False,False,2020-12-22 18:07:47.302164,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+1001,Miscellaneous Expenses,,False,False,2021-07-01 01:12:20.656262,2021-07-01 01:12:20.656265,spdorg_cliayn82a00bb6ot9786n562a
+1002,Other Expenses,,False,False,2021-07-01 01:12:20.660257,2021-07-01 01:12:20.660261,spdorg_cliayn82a00bb6ot9786n562a
+1011,Jersey,,False,False,2021-07-03 07:35:30.662034,2021-07-03 07:35:30.662038,spdorg_cliayn82a00bb6ot9786n562a
+906,State Cup,,False,False,2021-06-12 20:32:09.316784,2022-03-16 05:10:37.094261,spdorg_cliayn82a00bb6ot9786n562a
+1014,Field Fees,,False,False,2021-07-06 18:47:41.804469,2021-07-06 18:47:41.804474,spdorg_cliayn82a00bb6ot9786n562a
+526,tournament_entry_fees,,False,False,2020-12-23 16:49:36.348912,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+527,travel,,False,False,2020-12-23 16:49:36.354709,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+528,coach_reimbursement,,False,False,2020-12-23 16:49:36.360305,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+529,administrative_expenses,,False,False,2020-12-23 16:49:36.365529,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+1081,Misc Team Expenses,,False,False,2021-07-21 22:41:16.641132,2021-07-21 22:41:16.641136,spdorg_cliayn82a00bb6ot9786n562a
+1085,tournament_entry_fees,,False,False,2021-07-26 16:47:37.031143,2021-07-26 16:47:37.031146,spdorg_cliayn82a00bb6ot9786n562a
+1020,"Entertainment (Meals, Parties, Gifts)",,False,False,2021-07-06 22:18:30.372527,2021-07-09 16:09:48.282073,spdorg_cliayn82a00bb6ot9786n562a
+534,tournament_entry_fees,,False,False,2020-12-23 22:54:38.334253,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+535,travel,,False,False,2020-12-23 22:54:38.344515,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+536,coach_reimbursement,,False,False,2020-12-23 22:54:38.349626,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+537,administrative_expenses,,False,False,2020-12-23 22:54:38.354844,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+1023,Miscellaneous Expenses,,False,False,2021-07-09 21:19:15.112524,2021-07-09 21:19:15.112529,spdorg_cliayn82a00bb6ot9786n562a
+397,Pictures/Video,,False,False,2020-12-02 15:24:42.908692,2021-07-12 18:01:58.970838,spdorg_cliayn82a00bb6ot9786n562a
+398,Coach/Manager Gifts,,False,False,2020-12-02 15:24:55.081000,2021-07-12 18:01:58.970840,spdorg_cliayn82a00bb6ot9786n562a
+399,Travel Misc,,False,False,2020-12-02 15:25:05.161877,2021-07-12 18:01:58.970842,spdorg_cliayn82a00bb6ot9786n562a
+1028,League,,False,False,2021-07-14 03:08:46.531639,2021-07-14 03:08:46.531645,spdorg_cliayn82a00bb6ot9786n562a
+1029,Ref Fees,,False,False,2021-07-14 03:08:46.536366,2021-07-14 03:08:46.536370,spdorg_cliayn82a00bb6ot9786n562a
+1086,administrative_expenses,,False,False,2021-07-26 16:47:37.038163,2021-07-26 16:47:37.038166,spdorg_cliayn82a00bb6ot9786n562a
+1087,travel,,False,False,2021-07-26 16:47:37.042778,2021-07-26 16:47:37.042782,spdorg_cliayn82a00bb6ot9786n562a
+550,administrative_expenses,,False,False,2020-12-28 18:40:44.572578,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+551,coach_reimbursement,,False,False,2020-12-28 18:40:44.577727,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+552,tournament_entry_fees,,False,False,2020-12-28 18:40:44.584744,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+553,travel,,False,False,2020-12-28 18:40:44.589520,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+1088,coach_reimbursement,,False,False,2021-07-26 16:47:37.047375,2021-07-26 16:47:37.047379,spdorg_cliayn82a00bb6ot9786n562a
+558,travel,,False,False,2020-12-29 22:28:01.385303,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+559,coach_reimbursement,,False,False,2020-12-29 22:28:01.397659,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+560,administrative_expenses,,False,False,2020-12-29 22:28:01.404225,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+561,tournament_entry_fees,,False,False,2020-12-29 22:28:01.410803,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+1109,Team Uniforms/Costumes,,False,False,2021-08-06 05:04:51.333099,2021-08-06 05:04:51.333103,spdorg_cliayn82a00bb6ot9786n562a
+1110,Team Food,,False,False,2021-08-06 05:04:51.339859,2021-08-06 05:04:51.339863,spdorg_cliayn82a00bb6ot9786n562a
+1111,Food/Parties,,False,False,2021-08-06 05:04:51.346507,2021-08-06 05:04:51.346511,spdorg_cliayn82a00bb6ot9786n562a
+566,coach_reimbursement,,False,False,2020-12-30 20:57:02.280389,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+567,tournament_entry_fees,,False,False,2020-12-30 20:57:02.285211,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+568,administrative_expenses,,False,False,2020-12-30 20:57:02.289614,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+569,travel,,False,False,2020-12-30 20:57:02.293957,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+1121,Miscellaneous Expenses,,False,False,2021-08-12 01:35:02.710658,2021-08-12 01:35:02.710662,spdorg_cliayn82a00bb6ot9786n562a
+574,coach_reimbursement,,False,False,2020-12-31 15:24:32.605762,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+575,tournament_entry_fees,,False,False,2020-12-31 15:24:32.610480,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+576,administrative_expenses,,False,False,2020-12-31 15:24:32.614909,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+577,travel,,False,False,2020-12-31 15:24:32.619305,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+578,travel,,False,False,2021-01-02 01:56:39.243090,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+579,coach_reimbursement,,False,False,2021-01-02 01:56:39.253608,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+580,tournament_entry_fees,,False,False,2021-01-02 01:56:39.259774,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+581,administrative_expenses,,False,False,2021-01-02 01:56:39.265983,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+1138,travel,,False,False,2021-08-18 18:48:00.677418,2021-08-18 18:48:00.677421,spdorg_cliayn82a00bb6ot9786n562a
+1139,administrative_expenses,,False,False,2021-08-18 18:48:00.681896,2021-08-18 18:48:00.681900,spdorg_cliayn82a00bb6ot9786n562a
+586,travel,,False,False,2021-01-03 02:28:51.740718,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+1140,coach_reimbursement,,False,False,2021-08-18 18:48:00.686162,2021-08-18 18:48:00.686165,spdorg_cliayn82a00bb6ot9786n562a
+1141,tournament_entry_fees,,False,False,2021-08-18 18:48:00.691855,2021-08-18 18:48:00.691858,spdorg_cliayn82a00bb6ot9786n562a
+760,09. Tournament Entry Fees,,False,False,2021-05-17 14:08:03.088486,2021-08-24 00:16:30.748679,spdorg_cliayn82a00bb6ot9786n562a
+761,05. Miscellaneous,,False,False,2021-05-17 14:08:03.094185,2021-08-24 00:16:30.748680,spdorg_cliayn82a00bb6ot9786n562a
+762,10. Travel Reimbursements,,False,False,2021-05-17 14:08:03.099929,2021-08-24 00:16:30.748681,spdorg_cliayn82a00bb6ot9786n562a
+1170,Stipends,,False,False,2021-09-03 20:44:05.431664,2021-09-03 20:44:05.431667,spdorg_cliayn82a00bb6ot9786n562a
+599,administrative_expenses,,False,False,2021-01-05 00:38:51.058917,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+600,tournament_entry_fees,,False,False,2021-01-05 00:38:51.064157,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+601,travel,,False,False,2021-01-05 00:38:51.069749,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+602,Uniforms/Apparel,,False,False,2021-01-06 21:01:45.774128,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+693,Coach Per Diem and Mileage,,False,False,2021-04-28 15:35:21.490107,2021-06-18 18:38:48.758011,spdorg_cliayn82a00bb6ot9786n562a
+924,Equipment,,False,False,2021-06-21 20:50:42.091391,2021-06-21 20:50:42.091395,spdorg_cliayn82a00bb6ot9786n562a
+607,administrative_expenses,,False,False,2021-01-06 23:39:18.582307,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+608,travel,,False,False,2021-01-06 23:39:18.588633,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+609,tournament_entry_fees,,False,False,2021-01-06 23:39:18.593535,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+610,coach_reimbursement,,False,False,2021-01-06 23:39:18.598215,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+611,Equipment- balls etc,,False,False,2021-01-12 16:00:23.986976,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+612,Team Events,,False,False,2021-01-12 16:00:23.992322,2021-10-14 15:42:00.079246,spdorg_cliayn82a00bb6ot9786n562a
+682,Fundraising,,False,False,2021-04-22 16:22:11.499019,2021-06-23 18:54:30.421639,spdorg_cliayn82a00bb6ot9786n562a
+683,Reimbursements,,False,False,2021-04-22 16:22:11.506988,2021-06-28 17:31:39.539873,spdorg_cliayn82a00bb6ot9786n562a
+675,Team Travel,,False,False,2021-04-05 18:01:45.269219,2021-07-01 01:12:20.665743,spdorg_cliayn82a00bb6ot9786n562a
+759,07. Referees,,False,False,2021-05-17 14:08:03.081048,2021-08-24 00:16:30.748676,spdorg_cliayn82a00bb6ot9786n562a
+633,travel,,False,False,2021-01-27 19:24:13.185838,2021-01-27 19:24:13.185843,spdorg_cliayn82a00bb6ot9786n562a
+634,coach_reimbursement,,False,False,2021-01-27 19:24:13.192868,2021-01-27 19:24:13.192872,spdorg_cliayn82a00bb6ot9786n562a
+635,tournament_entry_fees,,False,False,2021-01-27 19:24:13.197522,2021-01-27 19:24:13.197527,spdorg_cliayn82a00bb6ot9786n562a
+636,administrative_expenses,,False,False,2021-01-27 19:24:13.202308,2021-01-27 19:24:13.202313,spdorg_cliayn82a00bb6ot9786n562a
+637,Ice Fees,,False,False,2021-02-19 01:48:36.994791,2021-02-19 01:48:36.994796,spdorg_cliayn82a00bb6ot9786n562a
+638,Hair/Makeup Supplies,,False,False,2021-02-19 01:48:37.001886,2021-02-19 01:48:37.001891,spdorg_cliayn82a00bb6ot9786n562a
+639,"Tights, Skate Tape",,False,False,2021-02-19 01:48:37.008000,2021-02-19 01:48:37.008005,spdorg_cliayn82a00bb6ot9786n562a
+640,Pilates/Zoom Dance,,False,False,2021-02-19 01:48:37.014098,2021-02-19 01:48:37.014103,spdorg_cliayn82a00bb6ot9786n562a
+641,Competition Dress,,False,False,2021-02-19 01:48:37.020144,2021-02-19 01:48:37.020148,spdorg_cliayn82a00bb6ot9786n562a
+642,Inspire Apparel,,False,False,2021-02-19 01:48:37.026201,2021-02-19 01:48:37.026205,spdorg_cliayn82a00bb6ot9786n562a
+626,Winter/Off-Season Training Expenses,,False,False,2021-01-19 22:11:05.165548,2021-02-28 14:06:22.047407,spdorg_cliayn82a00bb6ot9786n562a
+617,Tournament Entry Fees,,False,False,2021-01-12 22:52:52.628331,2021-03-03 18:42:58.635867,spdorg_cliayn82a00bb6ot9786n562a
+618,Registration Fees,,False,False,2021-01-12 22:52:52.634831,2021-03-03 18:42:58.635871,spdorg_cliayn82a00bb6ot9786n562a
+619,Tournament Expense,,False,False,2021-01-12 22:52:52.639131,2021-03-03 18:42:58.635872,spdorg_cliayn82a00bb6ot9786n562a
+620,Coach Reimbursement,,False,False,2021-01-12 22:52:52.643677,2021-03-03 18:42:58.635874,spdorg_cliayn82a00bb6ot9786n562a
+650,Transfer of Funds,,False,False,2021-03-17 14:01:51.461910,2021-03-17 14:01:51.461915,spdorg_cliayn82a00bb6ot9786n562a
+655,administrative_expenses,,False,False,2021-03-26 20:20:59.591441,2021-03-26 20:20:59.591446,spdorg_cliayn82a00bb6ot9786n562a
+656,tournament_entry_fees,,False,False,2021-03-26 20:20:59.597511,2021-03-26 20:20:59.597516,spdorg_cliayn82a00bb6ot9786n562a
+658,travel,,False,False,2021-03-26 20:20:59.609088,2021-03-26 20:20:59.609092,spdorg_cliayn82a00bb6ot9786n562a
+659,Refund- Player,,False,False,2021-03-28 18:22:15.318157,2021-03-28 18:22:15.318162,spdorg_cliayn82a00bb6ot9786n562a
+665,tournament_entry_fees,,False,False,2021-03-31 01:37:51.516801,2021-03-31 01:37:51.516806,spdorg_cliayn82a00bb6ot9786n562a
+672,administrative_expenses,,False,False,2021-04-05 18:01:45.250890,2021-04-05 18:01:45.250895,spdorg_cliayn82a00bb6ot9786n562a
+673,coach_reimbursement,,False,False,2021-04-05 18:01:45.257321,2021-04-05 18:01:45.257326,spdorg_cliayn82a00bb6ot9786n562a
+674,tournament_entry_fees,,False,False,2021-04-05 18:01:45.263359,2021-04-05 18:01:45.263364,spdorg_cliayn82a00bb6ot9786n562a
+676,tournament_entry_fees,,False,False,2021-04-08 00:19:09.973446,2021-04-08 00:19:09.973450,spdorg_cliayn82a00bb6ot9786n562a
+627,Team Equipment,,False,False,2021-01-19 22:11:05.170352,2021-12-29 17:55:15.178324,spdorg_cliayn82a00bb6ot9786n562a
+643,Tournament Registration Fees,,False,False,2021-02-28 14:06:21.989895,2021-12-29 17:55:15.178327,spdorg_cliayn82a00bb6ot9786n562a
+644,Coaches Attire,,False,False,2021-02-28 14:06:21.995271,2021-12-29 17:55:15.178328,spdorg_cliayn82a00bb6ot9786n562a
+646,Umpire Fees,,False,False,2021-02-28 14:06:22.005102,2021-12-29 17:55:15.178329,spdorg_cliayn82a00bb6ot9786n562a
+657,Coach Reimbursement,,False,False,2021-03-26 20:20:59.603285,2022-05-05 17:59:23.701451,spdorg_cliayn82a00bb6ot9786n562a
+903,Coach Expenses,,False,False,2021-06-12 20:32:09.304097,2022-06-17 23:32:18.893912,spdorg_cliayn82a00bb6ot9786n562a
+677,administrative_expenses,,False,False,2021-04-08 00:19:09.981508,2021-04-08 00:19:09.981513,spdorg_cliayn82a00bb6ot9786n562a
+678,travel,,False,False,2021-04-08 00:19:09.986865,2021-04-08 00:19:09.986870,spdorg_cliayn82a00bb6ot9786n562a
+679,coach_reimbursement,,False,False,2021-04-08 00:19:09.992650,2021-04-08 00:19:09.992655,spdorg_cliayn82a00bb6ot9786n562a
+680,Income Transfer,,False,False,2021-04-20 14:23:08.286164,2021-04-20 14:23:08.286173,spdorg_cliayn82a00bb6ot9786n562a
+684,administrative_expenses,,False,False,2021-04-22 16:22:11.512825,2021-04-22 16:22:11.512830,spdorg_cliayn82a00bb6ot9786n562a
+685,Team Social Events,,False,False,2021-04-22 20:04:30.214415,2021-04-22 20:04:30.214420,spdorg_cliayn82a00bb6ot9786n562a
+666,Misc. Equipment/Supplies,,False,False,2021-03-31 01:37:51.522129,2021-04-22 20:04:30.221423,spdorg_cliayn82a00bb6ot9786n562a
+686,Coach Reimbursement - Meals,,False,False,2021-04-23 17:36:58.020073,2021-04-23 17:36:58.020086,spdorg_cliayn82a00bb6ot9786n562a
+664,Coach Reimbursement - Travel,,False,False,2021-03-31 01:37:51.508730,2021-04-23 17:36:58.056185,spdorg_cliayn82a00bb6ot9786n562a
+667,"Administrative Expenses (bank fees, chargebacks)",,False,False,2021-03-31 01:37:51.527657,2021-04-23 17:36:58.056188,spdorg_cliayn82a00bb6ot9786n562a
+688,Season Installment Payment,,False,False,2021-04-23 20:51:11.242935,2021-04-23 20:51:11.242943,spdorg_cliayn82a00bb6ot9786n562a
+694,tournament_entry_fees,,False,False,2021-04-28 15:35:21.498171,2021-04-28 15:35:21.498176,spdorg_cliayn82a00bb6ot9786n562a
+696,travel,,False,False,2021-04-28 15:35:21.516991,2021-04-28 15:35:21.516996,spdorg_cliayn82a00bb6ot9786n562a
+738,administrative_expenses,,False,False,2021-05-11 20:46:15.226730,2021-05-11 20:46:15.226734,spdorg_cliayn82a00bb6ot9786n562a
+739,tournament_entry_fees,,False,False,2021-05-11 20:46:15.233900,2021-05-11 20:46:15.233905,spdorg_cliayn82a00bb6ot9786n562a
+740,coach_reimbursement,,False,False,2021-05-11 20:46:15.238857,2021-05-11 20:46:15.238862,spdorg_cliayn82a00bb6ot9786n562a
+741,travel,,False,False,2021-05-11 20:46:15.243747,2021-05-11 20:46:15.243752,spdorg_cliayn82a00bb6ot9786n562a
+746,administrative_expenses,,False,False,2021-05-12 00:39:48.823481,2021-05-12 00:39:48.823486,spdorg_cliayn82a00bb6ot9786n562a
+747,tournament_entry_fees,,False,False,2021-05-12 00:39:48.830777,2021-05-12 00:39:48.830782,spdorg_cliayn82a00bb6ot9786n562a
+748,coach_reimbursement,,False,False,2021-05-12 00:39:48.836185,2021-05-12 00:39:48.836189,spdorg_cliayn82a00bb6ot9786n562a
+750,administrative_expenses,,False,False,2021-05-12 19:48:37.674443,2021-05-12 19:48:37.674448,spdorg_cliayn82a00bb6ot9786n562a
+751,tournament_entry_fees,,False,False,2021-05-12 19:48:37.679658,2021-05-12 19:48:37.679662,spdorg_cliayn82a00bb6ot9786n562a
+752,coach_reimbursement,,False,False,2021-05-12 19:48:37.684753,2021-05-12 19:48:37.684758,spdorg_cliayn82a00bb6ot9786n562a
+753,travel,,False,False,2021-05-12 19:48:37.691825,2021-05-12 19:48:37.691830,spdorg_cliayn82a00bb6ot9786n562a
+754,Field Rental,,False,False,2021-05-12 20:35:56.770396,2021-05-12 20:35:56.770404,spdorg_cliayn82a00bb6ot9786n562a
+769,Futsal,,False,False,2021-05-19 19:57:01.129875,2021-05-19 19:57:01.129880,spdorg_cliayn82a00bb6ot9786n562a
+774,travel,,False,False,2021-05-19 20:16:41.691504,2021-05-19 20:16:41.691508,spdorg_cliayn82a00bb6ot9786n562a
+775,tournament_entry_fees,,False,False,2021-05-19 20:16:41.702010,2021-05-19 20:16:41.702015,spdorg_cliayn82a00bb6ot9786n562a
+777,administrative_expenses,,False,False,2021-05-19 20:16:41.715406,2021-05-19 20:16:41.715411,spdorg_cliayn82a00bb6ot9786n562a
+695,Minimum Balance/Miscellaneous Expenses,,False,False,2021-04-28 15:35:21.511861,2021-05-22 17:15:03.256128,spdorg_cliayn82a00bb6ot9786n562a
+778,Testing,,False,False,2021-05-22 17:37:11.217012,2021-05-22 17:37:11.217018,spdorg_cliayn82a00bb6ot9786n562a
+909,Insurance,,False,False,2021-06-16 00:46:04.257677,2021-06-16 00:46:04.257682,spdorg_cliayn82a00bb6ot9786n562a
+783,administrative_expenses,,False,False,2021-05-24 15:49:19.294852,2021-05-24 15:49:19.294857,spdorg_cliayn82a00bb6ot9786n562a
+784,tournament_entry_fees,,False,False,2021-05-24 15:49:19.303763,2021-05-24 15:49:19.303768,spdorg_cliayn82a00bb6ot9786n562a
+785,travel,,False,False,2021-05-24 15:49:19.309638,2021-05-24 15:49:19.309644,spdorg_cliayn82a00bb6ot9786n562a
+786,coach_reimbursement,,False,False,2021-05-24 15:49:19.315827,2021-05-24 15:49:19.315832,spdorg_cliayn82a00bb6ot9786n562a
+787,Video,,False,False,2021-05-24 16:10:49.827853,2021-05-24 16:10:49.827870,spdorg_cliayn82a00bb6ot9786n562a
+788,Training,,False,False,2021-05-25 17:51:23.097487,2021-05-25 17:51:23.097493,spdorg_cliayn82a00bb6ot9786n562a
+789,Tournament Entry Fees,,False,False,2021-05-29 14:10:09.160765,2021-05-29 14:10:09.160777,spdorg_cliayn82a00bb6ot9786n562a
+790,Misc,,False,False,2021-05-29 14:10:09.168810,2021-05-29 14:10:09.168818,spdorg_cliayn82a00bb6ot9786n562a
+791,Travel,,False,False,2021-05-29 14:10:09.193630,2021-05-29 14:10:09.193643,spdorg_cliayn82a00bb6ot9786n562a
+792,Tournament Entry Fees,,False,False,2021-05-29 14:11:09.703818,2021-05-29 14:11:09.703823,spdorg_cliayn82a00bb6ot9786n562a
+793,Misc,,False,False,2021-05-29 14:11:09.706958,2021-05-29 14:11:09.706963,spdorg_cliayn82a00bb6ot9786n562a
+794,Travel,,False,False,2021-05-29 14:11:09.709874,2021-05-29 14:11:09.709878,spdorg_cliayn82a00bb6ot9786n562a
+795,Tournament Entry Fees,,False,False,2021-05-29 14:27:54.645668,2021-05-29 14:27:54.645678,spdorg_cliayn82a00bb6ot9786n562a
+796,Misc,,False,False,2021-05-29 14:27:54.651590,2021-05-29 14:27:54.651600,spdorg_cliayn82a00bb6ot9786n562a
+797,Travel,,False,False,2021-05-29 14:27:54.658839,2021-05-29 14:27:54.658850,spdorg_cliayn82a00bb6ot9786n562a
+798,Tournament Entry Fees,,False,False,2021-05-29 14:28:51.857763,2021-05-29 14:28:51.857769,spdorg_cliayn82a00bb6ot9786n562a
+799,Misc,,False,False,2021-05-29 14:28:51.861658,2021-05-29 14:28:51.861667,spdorg_cliayn82a00bb6ot9786n562a
+800,Travel,,False,False,2021-05-29 14:28:51.865364,2021-05-29 14:28:51.865369,spdorg_cliayn82a00bb6ot9786n562a
+801,Tournament Entry Fees,,False,False,2021-05-29 14:45:34.639684,2021-05-29 14:45:34.639689,spdorg_cliayn82a00bb6ot9786n562a
+802,Misc,,False,False,2021-05-29 14:45:34.643184,2021-05-29 14:45:34.643188,spdorg_cliayn82a00bb6ot9786n562a
+1958,Misc.,,False,True,2023-05-04 23:07:48.992210,2023-05-18 09:05:08.058524,spdorg_cliayn82a00bb6ot9786n562a
+1985,MID AM FEES,,False,False,2023-05-31 03:19:40.651270,2023-05-31 03:19:40.651275,spdorg_cliayn82a00bb6ot9786n562a
+735,Tournament Entry Fees,,False,True,2021-05-05 20:49:09.405704,2023-08-12 03:33:41.220556,spdorg_cliayn82a00bb6ot9786n562a
+736,Gate Fees,,False,True,2021-05-05 20:49:09.411555,2023-08-12 03:33:41.221546,spdorg_cliayn82a00bb6ot9786n562a
+803,Travel,,False,False,2021-05-29 14:45:34.646594,2021-05-29 14:45:34.646599,spdorg_cliayn82a00bb6ot9786n562a
+804,Tournament Entry Fees,,False,False,2021-05-29 14:46:32.893141,2021-05-29 14:46:32.893153,spdorg_cliayn82a00bb6ot9786n562a
+805,Misc,,False,False,2021-05-29 14:46:32.898539,2021-05-29 14:46:32.898549,spdorg_cliayn82a00bb6ot9786n562a
+806,Travel,,False,False,2021-05-29 14:46:32.907166,2021-05-29 14:46:32.907179,spdorg_cliayn82a00bb6ot9786n562a
+807,Tournament Entry Fees,,False,False,2021-05-29 15:03:24.609378,2021-05-29 15:03:24.609387,spdorg_cliayn82a00bb6ot9786n562a
+808,Misc,,False,False,2021-05-29 15:03:24.614918,2021-05-29 15:03:24.614927,spdorg_cliayn82a00bb6ot9786n562a
+809,Travel,,False,False,2021-05-29 15:03:24.620769,2021-05-29 15:03:24.620778,spdorg_cliayn82a00bb6ot9786n562a
+925,Referee fees,,False,False,2021-06-21 20:50:42.095123,2021-06-21 20:50:42.095127,spdorg_cliayn82a00bb6ot9786n562a
+933,Uniforms,,False,False,2021-06-23 18:54:30.395074,2021-06-23 18:54:30.395079,spdorg_cliayn82a00bb6ot9786n562a
+934,Merchandise,,False,False,2021-06-23 18:54:30.399437,2021-06-23 18:54:30.399441,spdorg_cliayn82a00bb6ot9786n562a
+932,Travel,,False,False,2021-06-23 18:54:30.390443,2021-06-23 18:54:47.640520,spdorg_cliayn82a00bb6ot9786n562a
+959,tournament_entry_fees,,False,False,2021-06-29 17:18:15.915862,2021-06-29 17:18:15.915866,spdorg_cliayn82a00bb6ot9786n562a
+960,coach_reimbursement,,False,False,2021-06-29 17:18:15.922258,2021-06-29 17:18:15.922263,spdorg_cliayn82a00bb6ot9786n562a
+961,travel,,False,False,2021-06-29 17:18:15.926850,2021-06-29 17:18:15.926854,spdorg_cliayn82a00bb6ot9786n562a
+962,administrative_expenses,,False,False,2021-06-29 17:18:15.931350,2021-06-29 17:18:15.931354,spdorg_cliayn82a00bb6ot9786n562a
+989,administrative_expenses,,False,False,2021-06-30 19:21:53.068899,2021-06-30 19:21:53.068903,spdorg_cliayn82a00bb6ot9786n562a
+991,travel,,False,False,2021-06-30 19:21:53.079672,2021-06-30 19:21:53.079675,spdorg_cliayn82a00bb6ot9786n562a
+992,tournament_entry_fees,,False,False,2021-06-30 19:21:53.083983,2021-06-30 19:21:53.083986,spdorg_cliayn82a00bb6ot9786n562a
+1012,Club,,False,False,2021-07-03 07:35:43.646902,2021-07-03 07:35:43.646907,spdorg_cliayn82a00bb6ot9786n562a
+990,Training Fee,,False,False,2021-06-30 19:21:53.074956,2021-07-03 07:48:24.472081,spdorg_cliayn82a00bb6ot9786n562a
+1015,tournament_entry_fees,,False,False,2021-07-06 20:07:41.068003,2021-07-06 20:07:41.068006,spdorg_cliayn82a00bb6ot9786n562a
+1016,travel,,False,False,2021-07-06 20:07:41.072617,2021-07-06 20:07:41.072621,spdorg_cliayn82a00bb6ot9786n562a
+1017,administrative_expenses,,False,False,2021-07-06 20:07:41.076876,2021-07-06 20:07:41.076879,spdorg_cliayn82a00bb6ot9786n562a
+1018,coach_reimbursement,,False,False,2021-07-06 20:07:41.081309,2021-07-06 20:07:41.081312,spdorg_cliayn82a00bb6ot9786n562a
+1021,Equipment,,False,False,2021-07-09 14:58:46.078384,2021-07-09 14:58:46.078388,spdorg_cliayn82a00bb6ot9786n562a
+1024,Gifts for your Coach!!!,,False,False,2021-07-09 22:57:25.139842,2021-07-09 22:57:25.139846,spdorg_cliayn82a00bb6ot9786n562a
+1026,Pass thru/Suspense Acct,,False,False,2021-07-13 22:34:28.024652,2021-07-13 22:34:28.024658,spdorg_cliayn82a00bb6ot9786n562a
+866,Tournament Registration Fee,,False,False,2021-06-08 18:38:22.538890,2021-07-21 22:39:59.754712,spdorg_cliayn82a00bb6ot9786n562a
+867,Coach Per Diem,,False,False,2021-06-08 18:38:22.545414,2021-07-21 22:40:19.785833,spdorg_cliayn82a00bb6ot9786n562a
+858,tournament_entry_fees,,False,False,2021-06-08 18:30:34.270805,2021-06-08 18:30:34.270808,spdorg_cliayn82a00bb6ot9786n562a
+859,coach_reimbursement,,False,False,2021-06-08 18:30:34.275779,2021-06-08 18:30:34.275783,spdorg_cliayn82a00bb6ot9786n562a
+860,travel,,False,False,2021-06-08 18:30:34.280051,2021-06-08 18:30:34.280054,spdorg_cliayn82a00bb6ot9786n562a
+861,administrative_expenses,,False,False,2021-06-08 18:30:34.285722,2021-06-08 18:30:34.285726,spdorg_cliayn82a00bb6ot9786n562a
+868,Referee Fee,,False,False,2021-06-08 18:38:22.549784,2021-07-21 22:40:33.211314,spdorg_cliayn82a00bb6ot9786n562a
+1082,Team Events/Parties,,False,False,2021-07-21 22:41:47.390885,2021-07-21 22:41:47.390889,spdorg_cliayn82a00bb6ot9786n562a
+1089,tournament_entry_fees,,False,False,2021-07-28 17:46:34.846893,2021-07-28 17:46:34.846898,spdorg_cliayn82a00bb6ot9786n562a
+1090,coach_reimbursement,,False,False,2021-07-28 17:46:34.853067,2021-07-28 17:46:34.853072,spdorg_cliayn82a00bb6ot9786n562a
+869,administrative_expenses,,False,False,2021-06-08 18:38:22.554111,2021-06-08 18:38:22.554115,spdorg_cliayn82a00bb6ot9786n562a
+870,Team Travel - Hotel,,False,False,2021-06-10 19:11:39.452008,2021-06-10 19:11:39.452012,spdorg_cliayn82a00bb6ot9786n562a
+1091,administrative_expenses,,False,False,2021-07-28 17:46:34.858464,2021-07-28 17:46:34.858468,spdorg_cliayn82a00bb6ot9786n562a
+872,Team Travel - Airfare,,False,False,2021-06-10 19:12:04.031382,2021-06-10 19:12:04.031386,spdorg_cliayn82a00bb6ot9786n562a
+1092,travel,,False,False,2021-07-28 17:46:34.863204,2021-07-28 17:46:34.863209,spdorg_cliayn82a00bb6ot9786n562a
+874,Team Travel - Car Rental,,False,False,2021-06-10 19:12:04.036773,2021-06-10 19:12:04.036778,spdorg_cliayn82a00bb6ot9786n562a
+875,Team Travel - Social Event,,False,False,2021-06-10 19:17:53.085460,2021-06-10 19:17:53.085467,spdorg_cliayn82a00bb6ot9786n562a
+879,Coach Reimbursement - Gas,,False,False,2021-06-10 19:17:53.093164,2021-06-10 19:17:53.093171,spdorg_cliayn82a00bb6ot9786n562a
+1102,League Registrations,,False,False,2021-08-03 18:34:50.287048,2021-08-03 18:34:50.287051,spdorg_cliayn82a00bb6ot9786n562a
+1103,Trace,,False,False,2021-08-03 18:34:50.291939,2021-08-03 18:34:50.291943,spdorg_cliayn82a00bb6ot9786n562a
+1906,Coach Reimbursement,,False,False,2023-04-10 13:51:16.832498,2023-04-10 13:51:16.832501,spdorg_cliayn82a00bb6ot9786n562a
+1907,Travel,,False,False,2023-04-10 13:51:16.836713,2023-04-10 13:51:16.836716,spdorg_cliayn82a00bb6ot9786n562a
+1908,Administrative Expenses,,False,False,2023-04-10 13:51:16.840132,2023-04-10 13:51:16.840135,spdorg_cliayn82a00bb6ot9786n562a
+1909,Tournament Entry Fees,,False,False,2023-04-10 13:51:16.843400,2023-04-10 13:51:16.843403,spdorg_cliayn82a00bb6ot9786n562a
+1130,administrative_expenses,,False,False,2021-08-16 01:54:01.687497,2021-08-16 01:54:01.687500,spdorg_cliayn82a00bb6ot9786n562a
+1131,tournament_entry_fees,,False,False,2021-08-16 01:54:01.691940,2021-08-16 01:54:01.691943,spdorg_cliayn82a00bb6ot9786n562a
+1132,travel,,False,False,2021-08-16 01:54:01.696233,2021-08-16 01:54:01.696237,spdorg_cliayn82a00bb6ot9786n562a
+1133,coach_reimbursement,,False,False,2021-08-16 01:54:01.700436,2021-08-16 01:54:01.700440,spdorg_cliayn82a00bb6ot9786n562a
+1142,Winter Futsal,,False,False,2021-08-23 19:52:00.257033,2021-08-23 19:52:00.257037,spdorg_cliayn82a00bb6ot9786n562a
+764,04. Medical Trainers,,False,False,2021-05-17 19:58:21.435621,2021-08-24 00:16:30.748683,spdorg_cliayn82a00bb6ot9786n562a
+765,03. Filming Fees,,False,False,2021-05-17 19:58:21.441310,2021-08-24 00:16:30.748684,spdorg_cliayn82a00bb6ot9786n562a
+766,08. Scholarships,,False,False,2021-05-17 19:58:21.446739,2021-08-24 00:16:30.748685,spdorg_cliayn82a00bb6ot9786n562a
+768,02. Field/Facility Rental,,False,False,2021-05-17 19:59:10.378602,2021-08-24 00:16:30.748688,spdorg_cliayn82a00bb6ot9786n562a
+1159,tournament_entry_fees,,False,False,2021-08-27 17:33:59.481081,2021-08-27 17:33:59.481085,spdorg_cliayn82a00bb6ot9786n562a
+1160,administrative_expenses,,False,False,2021-08-27 17:33:59.488481,2021-08-27 17:33:59.488485,spdorg_cliayn82a00bb6ot9786n562a
+1161,coach_reimbursement,,False,False,2021-08-27 17:33:59.493486,2021-08-27 17:33:59.493489,spdorg_cliayn82a00bb6ot9786n562a
+1171,Discretionary,,False,False,2021-09-03 20:45:12.661653,2021-09-03 20:45:12.661656,spdorg_cliayn82a00bb6ot9786n562a
+1162,Travel Expense,,False,False,2021-08-27 17:33:59.498319,2021-09-27 23:13:49.463771,spdorg_cliayn82a00bb6ot9786n562a
+937,administrative_expenses,,False,False,2021-06-25 14:23:23.964515,2021-06-25 14:23:23.964519,spdorg_cliayn82a00bb6ot9786n562a
+938,tournament_entry_fees,,False,False,2021-06-25 14:23:23.968727,2021-06-25 14:23:23.968731,spdorg_cliayn82a00bb6ot9786n562a
+1150,Ice Time,,False,False,2021-08-25 22:02:58.804547,2021-08-30 03:26:27.619310,spdorg_cliayn82a00bb6ot9786n562a
+82,Team Fee Related Items,,False,False,2020-07-20 11:55:06.240314,2021-06-30 14:41:31.707694,spdorg_cliayn82a00bb6ot9786n562a
+969,administrative_expenses,,False,False,2021-06-30 14:48:55.492133,2021-06-30 14:48:55.492136,spdorg_cliayn82a00bb6ot9786n562a
+970,coach_reimbursement,,False,False,2021-06-30 14:48:55.498525,2021-06-30 14:48:55.498529,spdorg_cliayn82a00bb6ot9786n562a
+971,travel,,False,False,2021-06-30 14:48:55.502772,2021-06-30 14:48:55.502775,spdorg_cliayn82a00bb6ot9786n562a
+972,tournament_entry_fees,,False,False,2021-06-30 14:48:55.507188,2021-06-30 14:48:55.507192,spdorg_cliayn82a00bb6ot9786n562a
+993,administrative_expenses,,False,False,2021-06-30 19:31:03.292652,2021-06-30 19:31:03.292656,spdorg_cliayn82a00bb6ot9786n562a
+996,tournament_entry_fees,,False,False,2021-06-30 19:31:03.306060,2021-06-30 19:31:03.306064,spdorg_cliayn82a00bb6ot9786n562a
+1007,administrative_expenses,,False,False,2021-07-01 21:07:18.664036,2021-07-01 21:07:18.664040,spdorg_cliayn82a00bb6ot9786n562a
+1008,tournament_entry_fees,,False,False,2021-07-01 21:07:18.669819,2021-07-01 21:07:18.669822,spdorg_cliayn82a00bb6ot9786n562a
+1009,travel,,False,False,2021-07-01 21:07:18.674830,2021-07-01 21:07:18.674834,spdorg_cliayn82a00bb6ot9786n562a
+1010,coach_reimbursement,,False,False,2021-07-01 21:07:18.679689,2021-07-01 21:07:18.679692,spdorg_cliayn82a00bb6ot9786n562a
+1013,Referee Fees,,False,False,2021-07-06 18:45:46.479099,2021-07-06 18:45:46.479103,spdorg_cliayn82a00bb6ot9786n562a
+1151,Reimbursement,,False,False,2021-08-25 22:02:58.811377,2021-08-30 03:26:27.619313,spdorg_cliayn82a00bb6ot9786n562a
+1152,Referee Fees,,False,False,2021-08-25 22:02:58.815774,2021-08-30 03:26:27.619314,spdorg_cliayn82a00bb6ot9786n562a
+1172,Administrative Expenses,,False,False,2021-09-03 21:10:42.514241,2021-09-03 21:10:42.514244,spdorg_cliayn82a00bb6ot9786n562a
+995,"Travel Reimbursement (Mileage, Hotels)",,False,False,2021-06-30 19:31:03.301671,2021-07-09 16:10:13.535402,spdorg_cliayn82a00bb6ot9786n562a
+1019,Field Rental (Spring & August),,False,False,2021-07-06 22:17:48.408066,2021-07-09 16:11:35.337730,spdorg_cliayn82a00bb6ot9786n562a
+1022,Goalkeeper Training,,False,False,2021-07-09 16:12:34.800796,2021-07-09 16:12:34.800800,spdorg_cliayn82a00bb6ot9786n562a
+994,"Coach Payroll (Training, Games, Evaluations)",,False,False,2021-06-30 19:31:03.297250,2021-07-09 16:13:27.713230,spdorg_cliayn82a00bb6ot9786n562a
+1025,Travel- Coach Expenses,,False,False,2021-07-12 13:59:32.024767,2021-07-12 13:59:32.024771,spdorg_cliayn82a00bb6ot9786n562a
+1027,Tournaments,,False,False,2021-07-14 03:08:33.020475,2021-07-14 03:08:33.020481,spdorg_cliayn82a00bb6ot9786n562a
+1076,coach_reimbursement,,False,False,2021-07-21 14:06:45.469996,2021-07-21 14:06:45.469999,spdorg_cliayn82a00bb6ot9786n562a
+1077,tournament_entry_fees,,False,False,2021-07-21 14:06:45.476676,2021-07-21 14:06:45.476680,spdorg_cliayn82a00bb6ot9786n562a
+1078,administrative_expenses,,False,False,2021-07-21 14:06:45.481368,2021-07-21 14:06:45.481372,spdorg_cliayn82a00bb6ot9786n562a
+1079,travel,,False,False,2021-07-21 14:06:45.486031,2021-07-21 14:06:45.486035,spdorg_cliayn82a00bb6ot9786n562a
+1083,Team/Coach Gifts,,False,False,2021-07-21 22:42:09.786672,2021-07-21 22:42:09.786676,spdorg_cliayn82a00bb6ot9786n562a
+1094,administrative_expenses,,False,False,2021-07-29 17:51:16.302634,2021-07-29 17:51:16.302637,spdorg_cliayn82a00bb6ot9786n562a
+1093,Referee Fees,,False,False,2021-07-29 17:51:16.296263,2021-08-03 18:34:50.305580,spdorg_cliayn82a00bb6ot9786n562a
+1095,Tournament Registration,,False,False,2021-07-29 17:51:16.308017,2021-08-03 18:34:50.305584,spdorg_cliayn82a00bb6ot9786n562a
+1096,Coaches Travel,,False,False,2021-07-29 17:51:16.312508,2021-08-03 18:34:50.305585,spdorg_cliayn82a00bb6ot9786n562a
+1104,Team Equipment,,False,False,2021-08-05 04:53:42.704146,2021-08-05 04:53:42.704150,spdorg_cliayn82a00bb6ot9786n562a
+734,Player Fees,,False,True,2021-05-05 20:49:09.399825,2023-08-12 03:33:41.219567,spdorg_cliayn82a00bb6ot9786n562a
+1173,Banking Charges,,False,False,2021-09-03 21:10:42.519006,2021-09-03 21:10:42.519010,spdorg_cliayn82a00bb6ot9786n562a
+1113,Tournament Entry Fees,,False,False,2021-08-06 15:27:47.534598,2022-08-15 17:38:11.926611,spdorg_cliayn82a00bb6ot9786n562a
+1115,Referee Fees,,False,True,2021-08-06 15:27:47.543038,2022-08-15 17:38:11.929175,spdorg_cliayn82a00bb6ot9786n562a
+1116,Scrimmage Fields & Refs,,False,False,2021-08-12 01:34:01.646288,2022-08-15 17:38:11.933796,spdorg_cliayn82a00bb6ot9786n562a
+1123,Team Travel (vehicle),,False,True,2021-08-14 19:42:37.863960,2022-08-29 18:33:12.249595,spdorg_cliayn82a00bb6ot9786n562a
+1114,Team Travel /Misc,,False,False,2021-08-06 15:27:47.538797,2022-08-29 23:01:38.014039,spdorg_cliayn82a00bb6ot9786n562a
+1117,Team Travel /Chaperone Expense,,False,False,2021-08-12 01:34:01.650764,2022-08-29 23:01:38.014041,spdorg_cliayn82a00bb6ot9786n562a
+1154,Team Travel /Meals,,False,False,2021-08-26 01:36:55.458567,2022-08-29 23:01:38.014043,spdorg_cliayn82a00bb6ot9786n562a
+1125,Team Events,,False,False,2021-08-14 19:46:12.890824,2021-08-14 19:46:12.890832,spdorg_cliayn82a00bb6ot9786n562a
+1153,tournament_entry_fees,,False,False,2021-08-25 22:02:58.820012,2021-08-25 22:02:58.820016,spdorg_cliayn82a00bb6ot9786n562a
+1163,EMT Fees,,False,False,2021-08-30 03:26:27.574934,2021-08-30 03:26:27.574938,spdorg_cliayn82a00bb6ot9786n562a
+1164,Playoff/ODSET Fees,,False,False,2021-08-30 03:26:27.580253,2021-08-30 03:26:27.580257,spdorg_cliayn82a00bb6ot9786n562a
+1165,PAHL Player Fees,,False,False,2021-08-30 03:26:27.585230,2021-08-30 03:26:27.585234,spdorg_cliayn82a00bb6ot9786n562a
+1166,PYHA Player Fees,,False,False,2021-08-30 03:26:27.589973,2021-08-30 03:26:27.589977,spdorg_cliayn82a00bb6ot9786n562a
+1167,Fundraising,,False,False,2021-08-30 03:26:27.594705,2021-08-30 03:26:27.594709,spdorg_cliayn82a00bb6ot9786n562a
+1168,Equipment,,False,False,2021-08-30 03:26:27.599391,2021-08-30 03:26:27.599394,spdorg_cliayn82a00bb6ot9786n562a
+1169,Apparel,,False,False,2021-08-30 03:26:27.604064,2021-08-30 03:26:27.604068,spdorg_cliayn82a00bb6ot9786n562a
+1177,Coaching Credentials (USA Hockey #),,False,False,2021-09-03 21:10:42.535718,2021-09-03 21:10:42.535721,spdorg_cliayn82a00bb6ot9786n562a
+1178,Background Check,,False,False,2021-09-03 21:10:42.539775,2021-09-03 21:10:42.539778,spdorg_cliayn82a00bb6ot9786n562a
+1179,Sponsorship Expense,,False,False,2021-09-03 21:10:42.543891,2021-09-03 21:10:42.543894,spdorg_cliayn82a00bb6ot9786n562a
+1180,"Office Supplies (Stamps, Envelopes, Paper, Ink, Scoresheets, etc.)",,False,False,2021-09-03 21:10:42.548149,2021-09-03 21:10:42.548152,spdorg_cliayn82a00bb6ot9786n562a
+1181,Skills/Little Pens/Little Phantoms,,False,False,2021-09-03 21:10:42.552078,2021-09-03 21:10:42.552081,spdorg_cliayn82a00bb6ot9786n562a
+1183,"Outside Coaching (Skating, Goalie, Etc.)",,False,False,2021-09-03 21:10:42.559967,2021-09-03 21:10:42.559970,spdorg_cliayn82a00bb6ot9786n562a
+1184,"Software and Subscriptions (TeamSnap, Groundwork, QuickBooks, MyHockey)",,False,False,2021-09-03 21:10:42.563852,2021-09-03 21:10:42.563855,spdorg_cliayn82a00bb6ot9786n562a
+1210,Equipment,,False,False,2021-09-13 16:45:13.247139,2021-09-13 16:45:13.247143,spdorg_cliayn82a00bb6ot9786n562a
+1176,"Training And Education (CEP, ASM)",,False,False,2021-09-03 21:10:42.531630,2021-10-04 17:32:41.989744,spdorg_cliayn82a00bb6ot9786n562a
+767,01. Club Fee/Payroll Allocations,,False,False,2021-05-17 19:59:10.372871,2021-10-17 03:29:55.301389,spdorg_cliayn82a00bb6ot9786n562a
+1175,Discounts - 10% Pay in Full,,False,False,2021-09-03 21:10:42.527596,2021-09-20 03:13:28.363415,spdorg_cliayn82a00bb6ot9786n562a
+1290,Sportsplex Indoor Soccer Fees,,False,False,2021-09-28 08:18:54.489430,2021-09-28 08:18:54.489434,spdorg_cliayn82a00bb6ot9786n562a
+1182,Team Expenses Paid by Org,,False,False,2021-09-03 21:10:42.556037,2021-10-14 01:13:31.316739,spdorg_cliayn82a00bb6ot9786n562a
+1283,Club - Scholarships,,False,False,2021-09-26 23:13:40.471295,2022-01-10 03:00:59.251663,spdorg_cliayn82a00bb6ot9786n562a
+1947,Travel,,False,False,2023-05-03 00:10:50.592391,2023-05-03 00:10:50.592395,spdorg_cliayn82a00bb6ot9786n562a
+1410,Commitment Fees (Transfer to TEAMS),,False,False,2022-02-14 21:50:48.856260,2022-02-14 21:50:48.856264,spdorg_cliayn82a00bb6ot9786n562a
+1470,Local/Indoor Leagues,,False,False,2022-05-05 17:59:23.657718,2022-05-05 17:59:23.657723,spdorg_cliayn82a00bb6ot9786n562a
+1485,Coach Reimbursement,,False,False,2022-05-24 21:02:39.620318,2022-05-24 21:02:39.620321,spdorg_cliayn82a00bb6ot9786n562a
+1486,Travel,,False,False,2022-05-24 21:02:39.625400,2022-05-24 21:02:39.625404,spdorg_cliayn82a00bb6ot9786n562a
+1488,Administrative Expenses,,False,False,2022-05-24 21:02:39.632622,2022-05-24 21:02:39.632626,spdorg_cliayn82a00bb6ot9786n562a
+1686,Team Breakfast,,False,False,2022-07-22 02:59:46.262776,2022-07-22 02:59:46.262780,spdorg_cliayn82a00bb6ot9786n562a
+1948,Tournament Entry Fees,,False,False,2023-05-03 00:10:50.595674,2023-05-03 00:10:50.595678,spdorg_cliayn82a00bb6ot9786n562a
+1099,Team - Uniform Income,,False,True,2021-08-03 08:28:44.096084,2022-07-23 07:54:44.858361,spdorg_cliayn82a00bb6ot9786n562a
+1187,Bank Interest Income,,False,True,2021-09-04 14:46:59.644716,2022-07-23 07:54:44.858364,spdorg_cliayn82a00bb6ot9786n562a
+1193,Other Income,,False,True,2021-09-04 14:48:16.778302,2022-07-23 07:54:44.858368,spdorg_cliayn82a00bb6ot9786n562a
+1197,Scholarships Received From SCU,,False,True,2021-09-04 14:51:21.630943,2022-07-23 07:54:44.858371,spdorg_cliayn82a00bb6ot9786n562a
+1202,Team Events,,False,True,2021-09-04 14:56:23.096164,2022-07-23 07:54:44.858374,spdorg_cliayn82a00bb6ot9786n562a
+1428,Other Expenses,,False,False,2022-03-18 23:16:39.687664,2022-08-29 22:59:06.588133,spdorg_cliayn82a00bb6ot9786n562a
+1961,* ALBION Cup 2023,,False,False,2023-05-09 07:53:43.663575,2023-05-09 07:54:59.246933,spdorg_cliayn82a00bb6ot9786n562a
+1964,* Surf Cup 2023,,False,False,2023-05-09 07:55:58.062021,2023-05-09 07:55:58.062026,spdorg_cliayn82a00bb6ot9786n562a
+1967,* Sounders Cup 2023,,False,False,2023-05-18 09:05:37.257773,2023-05-18 09:05:37.257777,spdorg_cliayn82a00bb6ot9786n562a
+1635,DPL March 2023 - FL (10-09),,False,False,2022-07-19 01:42:43.730972,2022-09-21 23:44:40.226648,spdorg_cliayn82a00bb6ot9786n562a
+1098,Referee Fees,,False,False,2021-08-03 08:28:44.088328,2022-07-23 08:07:50.647908,spdorg_cliayn82a00bb6ot9786n562a
+1100,Player Dues Received,,False,True,2021-08-03 08:28:44.100505,2022-07-23 08:07:50.647911,spdorg_cliayn82a00bb6ot9786n562a
+1101,Travel Expense,,False,False,2021-08-03 08:28:44.104911,2022-07-23 08:07:50.647911,spdorg_cliayn82a00bb6ot9786n562a
+1185,Administrative Fees Incl. Bank Fees,,False,False,2021-09-04 14:44:52.650462,2022-07-23 08:07:50.647912,spdorg_cliayn82a00bb6ot9786n562a
+1186,Donations Received,,False,False,2021-09-04 14:44:52.655969,2022-07-23 08:07:50.647913,spdorg_cliayn82a00bb6ot9786n562a
+1188,Equipment Expense,,False,False,2021-09-04 14:46:59.649839,2022-07-23 08:07:50.647914,spdorg_cliayn82a00bb6ot9786n562a
+1189,Paid Coach / Trainer Fees,,False,False,2021-09-04 14:48:16.740208,2022-07-23 08:07:50.647914,spdorg_cliayn82a00bb6ot9786n562a
+1190,League Registration Fees,,False,False,2021-09-04 14:48:16.763570,2022-07-23 08:07:50.647915,spdorg_cliayn82a00bb6ot9786n562a
+1191,Office Supplies/checks/etc.,,False,False,2021-09-04 14:48:16.769399,2022-07-23 08:07:50.647916,spdorg_cliayn82a00bb6ot9786n562a
+1192,Other Expense,,False,False,2021-09-04 14:48:16.774006,2022-07-23 08:07:50.647917,spdorg_cliayn82a00bb6ot9786n562a
+1194,Player Registration Fees,,False,False,2021-09-04 14:51:21.610592,2022-07-23 08:07:50.647917,spdorg_cliayn82a00bb6ot9786n562a
+1195,Refund,,False,False,2021-09-04 14:51:21.615537,2022-07-23 08:07:50.647918,spdorg_cliayn82a00bb6ot9786n562a
+1196,Scholarships Issued By SCU,,False,False,2021-09-04 14:51:21.625122,2022-07-23 08:07:50.647919,spdorg_cliayn82a00bb6ot9786n562a
+1198,Club - DOC Fees,,False,False,2021-09-04 14:52:57.609058,2022-07-23 08:07:50.647920,spdorg_cliayn82a00bb6ot9786n562a
+1201,SCU Fees,,False,False,2021-09-04 14:56:23.091630,2022-07-23 08:07:50.647920,spdorg_cliayn82a00bb6ot9786n562a
+1203,Facility Rental Fees,,False,False,2021-09-04 14:56:23.100705,2022-07-23 08:07:50.647921,spdorg_cliayn82a00bb6ot9786n562a
+1204,Team Events Expense,,False,False,2021-09-04 14:56:23.105093,2022-07-23 08:07:50.647922,spdorg_cliayn82a00bb6ot9786n562a
+1205,Tournament Registration Fees,,False,False,2021-09-04 14:56:23.109549,2022-07-23 08:07:50.647922,spdorg_cliayn82a00bb6ot9786n562a
+1206,Transfer In,,False,False,2021-09-04 14:56:23.113977,2022-07-23 08:07:50.647923,spdorg_cliayn82a00bb6ot9786n562a
+1207,Transfer Out,,False,False,2021-09-04 14:56:23.118412,2022-07-23 08:07:50.647924,spdorg_cliayn82a00bb6ot9786n562a
+1208,Uniform Expense,,False,False,2021-09-04 14:56:23.124816,2022-07-23 08:07:50.647925,spdorg_cliayn82a00bb6ot9786n562a
+1268,Club - Field Maintenance & Lining,,False,False,2021-09-26 23:11:35.497779,2022-07-23 08:07:50.647925,spdorg_cliayn82a00bb6ot9786n562a
+1269,Club - Equipment,,False,False,2021-09-26 23:11:35.502241,2022-07-23 08:07:50.647926,spdorg_cliayn82a00bb6ot9786n562a
+1270,Club - Field Use - City,,False,False,2021-09-26 23:11:35.507283,2022-07-23 08:07:50.647927,spdorg_cliayn82a00bb6ot9786n562a
+1636,DPL Jan 2023 - NM (10-04),,False,False,2022-07-19 01:42:43.737009,2022-09-21 23:44:40.226651,spdorg_cliayn82a00bb6ot9786n562a
+1637,DPL Jan 2023 - FL (08-04),,False,False,2022-07-19 01:42:43.740804,2022-09-21 23:44:40.226652,spdorg_cliayn82a00bb6ot9786n562a
+1638,EA Jan 2022 - NV (10-04),,False,False,2022-07-19 01:42:43.744432,2022-09-21 23:52:56.663299,spdorg_cliayn82a00bb6ot9786n562a
+1487,Tournament Entry Fee,,False,False,2022-05-24 21:02:39.628860,2022-12-12 18:54:47.443632,spdorg_cliayn82a00bb6ot9786n562a
+1475,Travel,,False,False,2022-05-19 20:27:59.395273,2023-05-21 23:26:00.422706,spdorg_cliayn82a00bb6ot9786n562a
+1476,Administrative Expenses,,False,False,2022-05-19 20:27:59.398514,2023-05-21 23:26:00.422709,spdorg_cliayn82a00bb6ot9786n562a
+1477,Tournament Entry Fees,,False,False,2022-05-19 20:27:59.405692,2023-05-21 23:26:00.422710,spdorg_cliayn82a00bb6ot9786n562a
+1478,Coach Reimbursement,,False,False,2022-05-19 20:27:59.408999,2023-05-21 23:26:00.422711,spdorg_cliayn82a00bb6ot9786n562a
+1561,Field/Indoor Rentals,,False,False,2022-06-23 20:23:53.738303,2023-05-21 23:26:00.422712,spdorg_cliayn82a00bb6ot9786n562a
+1562,Equipment,,False,False,2022-06-23 20:23:53.742396,2023-05-21 23:26:00.422713,spdorg_cliayn82a00bb6ot9786n562a
+1976,League,,False,False,2023-05-21 23:18:18.614250,2023-05-21 23:26:00.422714,spdorg_cliayn82a00bb6ot9786n562a
+1775,14U EA April 22-24 Chicago IL,,False,False,2022-10-19 00:46:57.950389,2023-06-04 05:19:24.583141,spdorg_cliayn82a00bb6ot9786n562a
+167,INDEPENDENT NEUTRAL GAMES (ICE),,False,False,2020-08-24 19:24:43.124686,2023-05-30 19:40:50.958748,spdorg_cliayn82a00bb6ot9786n562a
+168,INDEPENDENT NEUTRAL GAMES (REFS + EMT),,False,False,2020-08-24 19:24:43.125732,2023-05-30 19:40:50.958749,spdorg_cliayn82a00bb6ot9786n562a
+1986,BLUE STRIPES FOR HELMET,,False,False,2023-05-31 03:19:40.661161,2023-05-31 03:19:40.661168,spdorg_cliayn82a00bb6ot9786n562a
+166,COACHES TRAVEL,,False,False,2020-08-24 19:24:43.123463,2023-05-31 03:19:40.683903,spdorg_cliayn82a00bb6ot9786n562a
+169,TEAM BONDING | MEALS,,False,False,2020-08-24 19:24:43.126806,2023-05-31 03:19:40.685155,spdorg_cliayn82a00bb6ot9786n562a
+211,TOURNAMENT | SHOWCASE | PLAYOFFS,,False,False,2020-09-02 18:30:21.842126,2023-05-31 03:19:40.686158,spdorg_cliayn82a00bb6ot9786n562a
+1988,17U EA Dec 9-11 Merryville IN Legue Game,,False,False,2023-06-02 01:20:43.483584,2023-06-02 01:22:15.106894,spdorg_cliayn82a00bb6ot9786n562a
+1989,16U EA Dec 9-11 Merryville IN Legue Game,,False,False,2023-06-02 01:20:43.489450,2023-06-02 01:22:15.106897,spdorg_cliayn82a00bb6ot9786n562a
+1990,14U EA Dec 9-11 Merryville IN Legue Game,,False,False,2023-06-02 01:20:43.494009,2023-06-02 01:22:15.106898,spdorg_cliayn82a00bb6ot9786n562a
+2002,Tournament Entry Fees,,False,False,2023-06-05 19:39:25.884418,2023-06-05 19:39:25.884422,spdorg_cliayn82a00bb6ot9786n562a
+2004,Administrative Expenses,,False,False,2023-06-05 19:39:25.891798,2023-06-05 19:39:25.891802,spdorg_cliayn82a00bb6ot9786n562a
+2017,Gifts,,False,False,2023-06-14 05:18:50.070487,2023-06-14 05:18:50.070491,spdorg_cliayn82a00bb6ot9786n562a
+2018,Other,,False,False,2023-06-14 05:18:50.075785,2023-06-14 05:18:50.075789,spdorg_cliayn82a00bb6ot9786n562a
+2021,* Hawaii International Cup 2023,,False,False,2023-06-20 21:13:51.442472,2023-06-20 21:13:51.442476,spdorg_cliayn82a00bb6ot9786n562a
+2003,Coach Expenses,,False,False,2023-06-05 19:39:25.888298,2023-06-20 22:56:53.102513,spdorg_cliayn82a00bb6ot9786n562a
+2023,Team Equipment,,False,False,2023-06-20 22:57:25.441616,2023-06-20 22:57:25.441619,spdorg_cliayn82a00bb6ot9786n562a
+2025,Bank Fees,,False,False,2023-06-21 13:34:36.786012,2023-06-21 20:39:23.305435,spdorg_cliayn82a00bb6ot9786n562a
+2001,Referees,,False,True,2023-06-05 19:39:25.878449,2023-06-22 16:02:17.483165,spdorg_cliayn82a00bb6ot9786n562a
+1209,Uniform,,False,True,2021-09-07 20:42:52.420849,2023-08-12 03:33:41.221549,spdorg_cliayn82a00bb6ot9786n562a
+1272,Club - Field Lighting - City,,False,False,2021-09-26 23:11:35.515256,2022-07-23 08:07:50.647928,spdorg_cliayn82a00bb6ot9786n562a
+1273,Club - Field Use - School District,,False,False,2021-09-26 23:11:35.519176,2022-07-23 08:07:50.647929,spdorg_cliayn82a00bb6ot9786n562a
+1274,Club - GK Training,,False,False,2021-09-26 23:13:40.435688,2022-07-23 08:07:50.647930,spdorg_cliayn82a00bb6ot9786n562a
+1275,Club - Tryouts,,False,False,2021-09-26 23:13:40.440300,2022-07-23 08:07:50.647931,spdorg_cliayn82a00bb6ot9786n562a
+1276,Club - Ref Classes,,False,False,2021-09-26 23:13:40.444271,2022-07-23 08:07:50.647931,spdorg_cliayn82a00bb6ot9786n562a
+1277,Club - Ref Mentoring,,False,False,2021-09-26 23:13:40.448210,2022-07-23 08:07:50.647932,spdorg_cliayn82a00bb6ot9786n562a
+1278,Club - Player And Coach Pass Registration,,False,False,2021-09-26 23:13:40.452278,2022-07-23 08:07:50.647933,spdorg_cliayn82a00bb6ot9786n562a
+1279,Club - Uniforms & Apparel,,False,False,2021-09-26 23:13:40.456125,2022-07-23 08:07:50.647934,spdorg_cliayn82a00bb6ot9786n562a
+1280,Club - Website,,False,False,2021-09-26 23:13:40.459946,2022-07-23 08:07:50.647934,spdorg_cliayn82a00bb6ot9786n562a
+1281,"Club - Insurance - Liability, D&O",,False,False,2021-09-26 23:13:40.463748,2022-07-23 08:07:50.647935,spdorg_cliayn82a00bb6ot9786n562a
+1282,Club - Meeting Fees,,False,False,2021-09-26 23:13:40.467517,2022-07-23 08:07:50.647936,spdorg_cliayn82a00bb6ot9786n562a
+1284,Club - QuickBooks,,False,False,2021-09-26 23:13:40.475350,2022-07-23 08:07:50.647936,spdorg_cliayn82a00bb6ot9786n562a
+1285,"Club - Tax Filing, 1099 Fees, Etc.",,False,False,2021-09-26 23:14:48.780481,2022-07-23 08:07:50.647937,spdorg_cliayn82a00bb6ot9786n562a
+1398,Club - Organizational Registration Fees,,False,False,2022-01-10 04:32:01.451753,2022-07-23 08:07:50.647938,spdorg_cliayn82a00bb6ot9786n562a
+1687,Referee Fees,,False,False,2022-07-25 00:57:20.242966,2022-07-25 01:17:02.569368,spdorg_cliayn82a00bb6ot9786n562a
+1688,Coach Per Diem,,False,False,2022-07-25 00:57:51.293497,2022-07-25 01:17:02.569369,spdorg_cliayn82a00bb6ot9786n562a
+1777,16U EA March 23-26 Arizona Showcase,,False,False,2022-10-31 20:26:21.561666,2023-04-07 23:04:04.636894,spdorg_cliayn82a00bb6ot9786n562a
+1766,Travel Expenses,,False,False,2022-10-11 21:37:34.304013,2023-06-21 01:49:33.937848,spdorg_cliayn82a00bb6ot9786n562a
+1915,Administrative Expenses,,False,False,2023-04-19 16:01:26.460299,2023-04-19 16:01:26.460302,spdorg_cliayn82a00bb6ot9786n562a
+1693,Administrative Expenses,,False,False,2022-07-25 13:15:51.232417,2022-07-25 13:15:51.232419,spdorg_cliayn82a00bb6ot9786n562a
+1694,Coach Reimbursement,,False,False,2022-07-25 13:15:51.237069,2022-07-25 13:15:51.237072,spdorg_cliayn82a00bb6ot9786n562a
+1695,Tournament Entry Fees,,False,False,2022-07-25 13:15:51.240199,2022-07-25 13:15:51.240202,spdorg_cliayn82a00bb6ot9786n562a
+1696,Travel,,False,False,2022-07-25 13:15:51.243302,2022-07-25 13:15:51.243306,spdorg_cliayn82a00bb6ot9786n562a
+1916,Tournament Entry Fees,,False,False,2023-04-19 16:01:26.463700,2023-04-19 16:01:26.463704,spdorg_cliayn82a00bb6ot9786n562a
+1917,Travel,,False,False,2023-04-19 16:01:26.467041,2023-04-19 16:01:26.467045,spdorg_cliayn82a00bb6ot9786n562a
+1914,Coach Per Diem,,False,False,2023-04-19 16:01:26.453672,2023-04-21 22:36:59.557117,spdorg_cliayn82a00bb6ot9786n562a
+1701,Coach Reimbursement,,False,False,2022-07-26 17:51:01.542853,2022-07-26 17:51:01.542858,spdorg_cliayn82a00bb6ot9786n562a
+1702,Tournament Entry Fees,,False,False,2022-07-26 17:51:01.569716,2022-07-26 17:51:01.569723,spdorg_cliayn82a00bb6ot9786n562a
+1703,Travel,,False,False,2022-07-26 17:51:01.577957,2022-07-26 17:51:01.577964,spdorg_cliayn82a00bb6ot9786n562a
+1704,Administrative Expenses,,False,False,2022-07-26 17:51:01.590040,2022-07-26 17:51:01.590047,spdorg_cliayn82a00bb6ot9786n562a
+1705,Tournament Prepay/Reimbursement,,False,False,2022-07-30 11:22:24.480321,2022-07-30 11:22:24.480326,spdorg_cliayn82a00bb6ot9786n562a
+1710,Bonus,,False,False,2022-08-03 22:04:48.794575,2022-08-03 22:04:48.794580,spdorg_cliayn82a00bb6ot9786n562a
+1711,Meals,,False,False,2022-08-04 03:08:33.513566,2022-08-04 03:08:33.513569,spdorg_cliayn82a00bb6ot9786n562a
+1735,Nationals July 2023 - KS (05/06G),,False,False,2022-09-07 17:41:47.035142,2023-06-26 18:49:02.082712,spdorg_cliayn82a00bb6ot9786n562a
+1118,"Coach Travel -Air,Auto,Hotel, Meals per diem",,False,False,2021-08-12 01:34:01.654996,2023-08-23 15:17:20.766197,spdorg_cliayn82a00bb6ot9786n562a
+1716,Coach Reimbursement,,False,False,2022-08-08 01:13:12.204548,2022-08-08 01:13:12.204551,spdorg_cliayn82a00bb6ot9786n562a
+1717,Administrative Expenses,,False,False,2022-08-08 01:13:12.211809,2022-08-08 01:13:12.211813,spdorg_cliayn82a00bb6ot9786n562a
+1719,Travel,,False,False,2022-08-08 01:13:12.217963,2022-08-08 01:13:12.217966,spdorg_cliayn82a00bb6ot9786n562a
+1112,Coach Travel (Air),,False,True,2021-08-06 15:27:47.528084,2022-08-15 17:36:37.840805,spdorg_cliayn82a00bb6ot9786n562a
+1120,Coach Travel (Auto),,False,True,2021-08-12 01:35:02.703646,2022-08-15 17:36:37.840811,spdorg_cliayn82a00bb6ot9786n562a
+1124,Winter League,,False,False,2021-08-14 19:46:02.284679,2022-08-15 17:38:17.410578,spdorg_cliayn82a00bb6ot9786n562a
+1718,League/Tournament Entry Fees,,False,False,2022-08-08 01:13:12.214836,2022-08-18 17:10:37.089462,spdorg_cliayn82a00bb6ot9786n562a
+1724,Administrative Expenses,,False,False,2022-08-18 20:46:34.027021,2022-08-18 20:46:34.027024,spdorg_cliayn82a00bb6ot9786n562a
+1725,Coach Reimbursement,,False,False,2022-08-18 20:46:34.030619,2022-08-18 20:46:34.030622,spdorg_cliayn82a00bb6ot9786n562a
+1726,Travel,,False,False,2022-08-18 20:46:34.033929,2022-08-18 20:46:34.033932,spdorg_cliayn82a00bb6ot9786n562a
+1727,Tournament Entry Fees,,False,False,2022-08-18 20:46:34.037064,2022-08-18 20:46:34.037067,spdorg_cliayn82a00bb6ot9786n562a
+1728,Fall League,,False,False,2022-08-19 14:27:14.628104,2022-08-19 14:27:14.628107,spdorg_cliayn82a00bb6ot9786n562a
+1729,State Cup,,False,False,2022-08-19 14:27:31.403468,2022-08-19 14:27:31.403472,spdorg_cliayn82a00bb6ot9786n562a
+1730,Club Reimbursement,,False,False,2022-08-23 02:22:54.366083,2022-08-23 02:22:54.366087,spdorg_cliayn82a00bb6ot9786n562a
+1731,Coach Travel / Meals,,False,False,2022-08-23 02:33:52.869135,2022-08-23 02:33:52.869140,spdorg_cliayn82a00bb6ot9786n562a
+1732,TRACE,,False,False,2022-08-26 16:02:58.467300,2022-08-26 16:02:58.467304,spdorg_cliayn82a00bb6ot9786n562a
+1119,Coach Travel - Meals per diem,,False,False,2021-08-12 01:34:01.658980,2022-08-29 22:59:06.587086,spdorg_cliayn82a00bb6ot9786n562a
+1733,Team Equipment,,False,False,2022-08-30 02:56:41.919223,2022-08-30 02:56:41.919227,spdorg_cliayn82a00bb6ot9786n562a
+1741,ECNL Jan 2023 - NM (10-04),,False,False,2022-09-07 17:41:47.069987,2022-09-21 23:45:18.852272,spdorg_cliayn82a00bb6ot9786n562a
+1742,ECNL Feb 2023 - UT (10-04),,False,False,2022-09-07 17:41:47.073351,2022-09-21 23:45:18.852275,spdorg_cliayn82a00bb6ot9786n562a
+1749,ECNL June 2023 - Playoffs NC (TBD),,False,False,2022-09-07 17:41:47.106896,2022-09-21 23:45:18.852276,spdorg_cliayn82a00bb6ot9786n562a
+1752,ECNL April 2023 - TX (08-06),,False,False,2022-09-07 17:41:47.119463,2022-09-21 23:45:18.852276,spdorg_cliayn82a00bb6ot9786n562a
+1760,Tournament Entry Fees,,False,False,2022-10-10 20:02:35.181481,2022-10-10 20:02:35.181485,spdorg_cliayn82a00bb6ot9786n562a
+1122,Personal Travel Expenses Pd thru Team- Hotel,,False,False,2021-08-14 19:41:58.036938,2022-09-13 00:23:19.713358,spdorg_cliayn82a00bb6ot9786n562a
+1706,ECNL Dec 2022 - MO (08-04),,False,False,2022-08-02 17:02:54.846114,2022-09-21 23:44:40.226654,spdorg_cliayn82a00bb6ot9786n562a
+1707,EA Dec 2022 - FL (08-04),,False,False,2022-08-02 17:02:54.850192,2022-09-21 23:44:40.226655,spdorg_cliayn82a00bb6ot9786n562a
+1708,DPL March 2023 - UT (08-04),,False,False,2022-08-02 17:02:54.860084,2022-09-21 23:44:40.226655,spdorg_cliayn82a00bb6ot9786n562a
+1709,DPL June 23 - Finals (TBD),,False,False,2022-08-02 17:02:54.880076,2022-09-21 23:44:40.226656,spdorg_cliayn82a00bb6ot9786n562a
+1734,EA Oct 2022 - CA (09-10),,False,False,2022-09-07 17:41:47.020385,2022-09-21 23:44:40.226657,spdorg_cliayn82a00bb6ot9786n562a
+1761,Administrative Expenses,,False,False,2022-10-10 20:02:35.186507,2022-10-10 20:02:35.186510,spdorg_cliayn82a00bb6ot9786n562a
+1736,EA Jan 2023 - UT (10-04),,False,False,2022-09-07 17:41:47.044233,2022-09-21 23:44:40.226659,spdorg_cliayn82a00bb6ot9786n562a
+1762,Coach Reimbursement,,False,False,2022-10-10 20:02:35.189543,2022-10-10 20:02:35.189546,spdorg_cliayn82a00bb6ot9786n562a
+1763,Travel,,False,False,2022-10-10 20:02:35.192619,2022-10-10 20:02:35.192623,spdorg_cliayn82a00bb6ot9786n562a
+1764,Coach Reimbursement,,False,False,2022-10-11 21:37:34.296993,2022-10-11 21:37:34.296996,spdorg_cliayn82a00bb6ot9786n562a
+1765,Tournament Entry Fees,,False,False,2022-10-11 21:37:34.300837,2022-10-11 21:37:34.300840,spdorg_cliayn82a00bb6ot9786n562a
+1767,Administrative Expenses,,False,False,2022-10-11 21:37:34.307100,2022-10-11 21:37:34.307104,spdorg_cliayn82a00bb6ot9786n562a
+1743,ECNL March 2023 - AZ (10-04),,False,False,2022-09-07 17:41:47.080207,2022-09-21 23:44:40.226664,spdorg_cliayn82a00bb6ot9786n562a
+1747,EA June 2023 - Finals (TBD),,False,False,2022-09-07 17:41:47.098127,2022-09-21 23:44:40.226667,spdorg_cliayn82a00bb6ot9786n562a
+1751,EA April 2023 - AZ (10-04),,False,False,2022-09-07 17:41:47.115495,2022-09-21 23:44:40.226670,spdorg_cliayn82a00bb6ot9786n562a
+1773,Travel,,False,False,2022-10-19 00:46:57.943629,2022-10-19 00:46:57.943632,spdorg_cliayn82a00bb6ot9786n562a
+1753,EA March 2023 - AZ (08-06),,False,False,2022-09-07 17:41:47.124255,2022-09-21 23:44:40.226671,spdorg_cliayn82a00bb6ot9786n562a
+1755,ECNL July 2023 - Finals (TBD),,False,False,2022-09-07 17:41:47.130755,2022-09-21 23:44:40.226673,spdorg_cliayn82a00bb6ot9786n562a
+1737,DPL April 2023 - UT (10-09),,False,False,2022-09-07 17:41:47.052227,2022-09-21 23:52:56.663302,spdorg_cliayn82a00bb6ot9786n562a
+1738,X-DO NOT USE,,False,True,2022-09-07 17:41:47.057110,2022-09-21 23:53:43.959805,spdorg_cliayn82a00bb6ot9786n562a
+1739,X-DO NOT USE,,False,True,2022-09-07 17:41:47.061062,2022-09-21 23:53:43.959806,spdorg_cliayn82a00bb6ot9786n562a
+1740,X-DO NOT USE,,False,True,2022-09-07 17:41:47.065867,2022-09-21 23:53:43.959806,spdorg_cliayn82a00bb6ot9786n562a
+1744,X-DO NOT USE,,False,True,2022-09-07 17:41:47.085258,2022-09-21 23:53:43.959807,spdorg_cliayn82a00bb6ot9786n562a
+1745,X-DO NOT USE,,False,True,2022-09-07 17:41:47.089001,2022-09-21 23:53:43.959808,spdorg_cliayn82a00bb6ot9786n562a
+1746,X-DO NOT USE,,False,True,2022-09-07 17:41:47.092655,2022-09-21 23:53:43.959809,spdorg_cliayn82a00bb6ot9786n562a
+1748,X-DO NOT USE,,False,True,2022-09-07 17:41:47.102624,2022-09-21 23:53:43.959809,spdorg_cliayn82a00bb6ot9786n562a
+1750,X-DO NOT USE,,False,True,2022-09-07 17:41:47.110871,2022-09-21 23:53:43.959810,spdorg_cliayn82a00bb6ot9786n562a
+1754,X-DO NOT USE,,False,True,2022-09-07 17:41:47.127467,2022-09-21 23:53:43.959811,spdorg_cliayn82a00bb6ot9786n562a
+776,Coach Reimbursement,,False,True,2021-05-19 20:16:41.706921,2022-09-22 14:13:42.692583,spdorg_cliayn82a00bb6ot9786n562a
+192,!@#$%^&*() +-,,False,False,2020-08-27 19:45:49.333441,2022-09-28 04:18:08.309439,spdorg_cliayn82a00bb6ot9786n562a
+1776,Bank Service Fees,,False,False,2022-10-21 18:59:57.008434,2022-10-21 18:59:57.008437,spdorg_cliayn82a00bb6ot9786n562a
+1778,Referee Fees,,False,False,2022-11-01 18:25:07.255349,2022-11-01 18:25:07.255353,spdorg_cliayn82a00bb6ot9786n562a
+1779,Referee Fees Reimbursement,,False,False,2022-11-01 18:25:07.259648,2022-11-01 18:25:07.259652,spdorg_cliayn82a00bb6ot9786n562a
+1780,Rentals,,False,False,2022-11-27 18:11:15.430401,2022-11-27 18:11:15.430406,spdorg_cliayn82a00bb6ot9786n562a
+1787,Administrative Expenses,,False,False,2022-12-01 22:39:52.294934,2022-12-01 22:39:52.294939,spdorg_cliayn82a00bb6ot9786n562a
+1789,Awards & Recognitions,,False,False,2022-12-27 20:12:00.837666,2022-12-27 20:12:00.837670,spdorg_cliayn82a00bb6ot9786n562a
+1790,Recruiting,,False,False,2022-12-27 20:12:00.841542,2022-12-27 20:12:00.841546,spdorg_cliayn82a00bb6ot9786n562a
+1785,Uniforms,,False,False,2022-12-01 22:39:52.286748,2022-12-27 20:12:00.851379,spdorg_cliayn82a00bb6ot9786n562a
+1786,Games,,False,False,2022-12-01 22:39:52.290971,2022-12-27 21:16:52.011656,spdorg_cliayn82a00bb6ot9786n562a
+1788,Equipment,,False,False,2022-12-01 22:39:52.299036,2022-12-27 20:12:00.851382,spdorg_cliayn82a00bb6ot9786n562a
+1791,Practices & Training,,False,False,2022-12-27 20:14:43.860471,2022-12-27 21:16:52.011658,spdorg_cliayn82a00bb6ot9786n562a
+1832,17U EA March 23-26 Arizona Showcase,,False,False,2023-01-26 19:58:24.927741,2023-04-07 23:04:04.636897,spdorg_cliayn82a00bb6ot9786n562a
+1918,Administrative Expenses,,False,False,2023-04-23 05:06:58.905695,2023-04-23 05:06:58.905698,spdorg_cliayn82a00bb6ot9786n562a
+1919,Coach Reimbursement,,False,False,2023-04-23 05:06:58.911218,2023-04-23 05:06:58.911222,spdorg_cliayn82a00bb6ot9786n562a
+1920,Tournament Entry Fees,,False,False,2023-04-23 05:06:58.914594,2023-04-23 05:06:58.914597,spdorg_cliayn82a00bb6ot9786n562a
+1796,Coach Reimbursement,,False,False,2023-01-04 14:35:19.397959,2023-01-04 14:35:19.397962,spdorg_cliayn82a00bb6ot9786n562a
+1797,Administrative Expenses,,False,False,2023-01-04 14:35:19.402035,2023-01-04 14:35:19.402038,spdorg_cliayn82a00bb6ot9786n562a
+1798,Tournament Entry Fees,,False,False,2023-01-04 14:35:19.405574,2023-01-04 14:35:19.405577,spdorg_cliayn82a00bb6ot9786n562a
+1799,Travel,,False,False,2023-01-04 14:35:19.409093,2023-01-04 14:35:19.409096,spdorg_cliayn82a00bb6ot9786n562a
+1800,Uniforms,,False,False,2023-01-09 19:05:59.269884,2023-01-09 19:05:59.269888,spdorg_cliayn82a00bb6ot9786n562a
+1801,Training,,False,False,2023-01-11 17:41:50.304449,2023-01-11 17:41:50.304453,spdorg_cliayn82a00bb6ot9786n562a
+1802,Insurance,,False,False,2023-01-12 20:57:46.274148,2023-01-12 20:57:46.274151,spdorg_cliayn82a00bb6ot9786n562a
+1921,Travel,,False,False,2023-04-23 05:06:58.917929,2023-04-23 05:06:58.917932,spdorg_cliayn82a00bb6ot9786n562a
+1811,Coach Reimbursement,,False,False,2023-01-14 05:18:32.978901,2023-01-14 05:18:32.978904,spdorg_cliayn82a00bb6ot9786n562a
+1812,Administrative Expenses,,False,False,2023-01-14 05:18:32.982414,2023-01-14 05:18:32.982418,spdorg_cliayn82a00bb6ot9786n562a
+1813,Tournament Entry Fees,,False,False,2023-01-14 05:18:32.985653,2023-01-14 05:18:32.985656,spdorg_cliayn82a00bb6ot9786n562a
+1814,Travel,,False,False,2023-01-14 05:18:32.988834,2023-01-14 05:18:32.988837,spdorg_cliayn82a00bb6ot9786n562a
+1959,* HYSA State Cup 2023,,False,False,2023-05-09 07:52:56.894271,2023-05-09 07:54:59.246929,spdorg_cliayn82a00bb6ot9786n562a
+2019,Video Analysis,,False,False,2023-06-20 21:09:10.864153,2023-06-20 21:09:10.864157,spdorg_cliayn82a00bb6ot9786n562a
+1962,* Memorial Day Tournament 2023,,False,False,2023-05-09 07:54:08.156478,2023-05-09 07:56:19.486661,spdorg_cliayn82a00bb6ot9786n562a
+1965,FWR June 2023 - ID (05/06G),,False,False,2023-05-12 23:03:47.945868,2023-05-12 23:03:47.945872,spdorg_cliayn82a00bb6ot9786n562a
+1819,Administrative Expenses,,False,False,2023-01-23 21:19:44.294930,2023-01-23 21:19:44.294933,spdorg_cliayn82a00bb6ot9786n562a
+1820,Tournament Entry Fees,,False,False,2023-01-23 21:19:44.299097,2023-01-23 21:19:44.299100,spdorg_cliayn82a00bb6ot9786n562a
+1823,Banking Platform,,False,False,2023-01-25 16:17:27.549677,2023-01-25 16:17:27.549681,spdorg_cliayn82a00bb6ot9786n562a
+1828,Travel,,False,False,2023-01-25 20:43:17.864671,2023-01-25 20:43:17.864674,spdorg_cliayn82a00bb6ot9786n562a
+1829,Administrative Expenses,,False,False,2023-01-25 20:43:17.868613,2023-01-25 20:43:17.868617,spdorg_cliayn82a00bb6ot9786n562a
+1830,Coach Reimbursement,,False,False,2023-01-25 20:43:17.871999,2023-01-25 20:43:17.872002,spdorg_cliayn82a00bb6ot9786n562a
+1831,Tournament Entry Fees,,False,False,2023-01-25 20:43:17.875201,2023-01-25 20:43:17.875204,spdorg_cliayn82a00bb6ot9786n562a
+1833,Equipment,,False,False,2023-01-28 21:58:18.283225,2023-01-28 21:58:18.283231,spdorg_cliayn82a00bb6ot9786n562a
+1834,Facilities,,False,False,2023-01-28 21:58:18.289786,2023-01-28 21:58:18.289791,spdorg_cliayn82a00bb6ot9786n562a
+1821,Player Expenses,,False,False,2023-01-23 21:19:44.301680,2023-01-28 21:58:18.298588,spdorg_cliayn82a00bb6ot9786n562a
+1822,Coach Hotel,,False,False,2023-01-23 21:19:44.304181,2023-01-28 21:58:18.298590,spdorg_cliayn82a00bb6ot9786n562a
+1835,Early Access Repayment,,False,False,2023-02-01 23:14:35.352113,2023-02-02 21:55:34.294418,spdorg_cliayn82a00bb6ot9786n562a
+1836,Equipment,,False,False,2023-02-10 20:05:31.277688,2023-02-10 20:05:31.277692,spdorg_cliayn82a00bb6ot9786n562a
+1837,Travel,,False,False,2023-02-19 18:53:44.260238,2023-02-19 18:53:44.260241,spdorg_cliayn82a00bb6ot9786n562a
+1838,Tournament Entry Fees,,False,False,2023-02-19 18:53:44.264375,2023-02-19 18:53:44.264378,spdorg_cliayn82a00bb6ot9786n562a
+1839,Coach Reimbursement,,False,False,2023-02-19 18:53:44.267614,2023-02-19 18:53:44.267619,spdorg_cliayn82a00bb6ot9786n562a
+1840,Administrative Expenses,,False,False,2023-02-19 18:53:44.271004,2023-02-19 18:53:44.271007,spdorg_cliayn82a00bb6ot9786n562a
+1845,Travel,,False,False,2023-02-20 22:28:51.155897,2023-02-20 22:28:51.155900,spdorg_cliayn82a00bb6ot9786n562a
+1846,Tournament Entry Fees,,False,False,2023-02-20 22:28:51.161340,2023-02-20 22:28:51.161344,spdorg_cliayn82a00bb6ot9786n562a
+1847,Administrative Expenses,,False,False,2023-02-20 22:28:51.164690,2023-02-20 22:28:51.164693,spdorg_cliayn82a00bb6ot9786n562a
+1848,Coach Reimbursement,,False,False,2023-02-20 22:28:51.167898,2023-02-20 22:28:51.167901,spdorg_cliayn82a00bb6ot9786n562a
+1849,Team Apparel,,False,False,2023-03-03 20:57:51.998486,2023-03-03 20:57:51.998490,spdorg_cliayn82a00bb6ot9786n562a
+1987,Year End Funds Transferred to Scholarship Funds,,False,False,2023-06-01 18:55:40.854710,2023-06-01 18:55:40.854714,spdorg_cliayn82a00bb6ot9786n562a
+1993,14U EA Dec 1-4 Bradenton FL Showcase,,False,False,2023-06-02 21:24:41.631167,2023-06-02 21:24:41.631170,spdorg_cliayn82a00bb6ot9786n562a
+1994,16U EA Dec 1-4 Bradenton FL Showcase,,False,False,2023-06-02 21:24:41.634291,2023-06-02 21:24:41.634295,spdorg_cliayn82a00bb6ot9786n562a
+1854,Coach Reimbursement,,False,False,2023-03-10 19:39:35.651261,2023-03-10 19:39:35.651264,spdorg_cliayn82a00bb6ot9786n562a
+1855,Administrative Expenses,,False,False,2023-03-10 19:39:35.654702,2023-03-10 19:39:35.654705,spdorg_cliayn82a00bb6ot9786n562a
+1856,Travel,,False,False,2023-03-10 19:39:35.657795,2023-03-10 19:39:35.657798,spdorg_cliayn82a00bb6ot9786n562a
+1857,Tournament Entry Fees,,False,False,2023-03-10 19:39:35.660733,2023-03-10 19:39:35.660736,spdorg_cliayn82a00bb6ot9786n562a
+1858,Gothia Cup Expense,,False,False,2023-03-15 17:38:48.178741,2023-03-15 17:38:48.178744,spdorg_cliayn82a00bb6ot9786n562a
+1995,17U EA Dec 1-4 Bradenton FL Showcase,,False,False,2023-06-02 21:24:41.637305,2023-06-02 21:24:41.637309,spdorg_cliayn82a00bb6ot9786n562a
+1996,13U EA Dec 1-4 Bradenton FL Showcase,,False,False,2023-06-02 21:24:41.640333,2023-06-02 21:24:41.640336,spdorg_cliayn82a00bb6ot9786n562a
+2020,State Cup Fee,,False,False,2023-06-20 21:09:10.867913,2023-06-20 21:09:10.867917,spdorg_cliayn82a00bb6ot9786n562a
+1992,17U EA April 22-24 Chicago IL,,False,False,2023-06-02 21:24:41.627179,2023-06-04 05:19:24.583142,spdorg_cliayn82a00bb6ot9786n562a
+1863,Administrative Expenses,,False,False,2023-03-19 22:30:02.373482,2023-03-19 22:30:02.373486,spdorg_cliayn82a00bb6ot9786n562a
+1864,Coach Reimbursement,,False,False,2023-03-19 22:30:02.380352,2023-03-19 22:30:02.380357,spdorg_cliayn82a00bb6ot9786n562a
+1865,Tournament Entry Fees,,False,False,2023-03-19 22:30:02.385243,2023-03-19 22:30:02.385248,spdorg_cliayn82a00bb6ot9786n562a
+1866,Travel,,False,False,2023-03-19 22:30:02.391216,2023-03-19 22:30:02.391221,spdorg_cliayn82a00bb6ot9786n562a
+1867,For Club Use Only - Fees & Expenses,,False,False,2023-03-27 23:54:16.684989,2023-03-27 23:54:16.684992,spdorg_cliayn82a00bb6ot9786n562a
+1868,Uniform,,False,False,2023-03-29 18:38:57.405500,2023-03-29 18:38:57.405504,spdorg_cliayn82a00bb6ot9786n562a
+1869,League Fee,,False,False,2023-03-29 18:38:57.409801,2023-03-29 18:38:57.409804,spdorg_cliayn82a00bb6ot9786n562a
+2008,Team: Misc Fees,,False,False,2023-06-10 12:30:28.223136,2023-06-10 12:30:28.223140,spdorg_cliayn82a00bb6ot9786n562a
+1981,League Registration Fees,,False,False,2023-05-26 18:05:34.586893,2023-06-10 12:30:28.244598,spdorg_cliayn82a00bb6ot9786n562a
+1983,Tournament Registration Fees,,False,False,2023-05-26 18:05:34.597269,2023-06-10 12:33:47.441093,spdorg_cliayn82a00bb6ot9786n562a
+2007,SnapSpend,,False,False,2023-06-10 12:30:28.213138,2023-06-10 12:33:47.441096,spdorg_cliayn82a00bb6ot9786n562a
+2005,Referee Fees,,False,False,2023-06-10 12:30:28.197329,2023-06-10 12:34:39.566813,spdorg_cliayn82a00bb6ot9786n562a
+2006,Travel Expenses,,False,False,2023-06-10 12:30:28.201439,2023-06-10 12:34:39.566816,spdorg_cliayn82a00bb6ot9786n562a
+2022,Spring League Fee,,False,False,2023-06-20 22:56:53.093247,2023-06-20 22:56:53.093251,spdorg_cliayn82a00bb6ot9786n562a
+2024,Other,,False,False,2023-06-20 22:59:19.154518,2023-06-20 22:59:19.154523,spdorg_cliayn82a00bb6ot9786n562a
+2027,Income Transferred to Alliance Operating Account,,False,False,2023-06-24 16:20:51.368297,2023-06-24 16:20:51.368300,spdorg_cliayn82a00bb6ot9786n562a
+2046,Referee,,False,False,2023-06-28 20:01:15.866282,2023-06-28 20:01:15.866285,spdorg_cliayn82a00bb6ot9786n562a
+2013,Team Bonding,,False,False,2023-06-13 19:52:44.468867,2023-06-26 18:38:26.870772,spdorg_cliayn82a00bb6ot9786n562a
+2015,League,,False,False,2023-06-13 19:52:44.478286,2023-06-26 18:38:26.870775,spdorg_cliayn82a00bb6ot9786n562a
+2016,Misc,,False,False,2023-06-13 19:52:44.482562,2023-06-26 18:38:26.870777,spdorg_cliayn82a00bb6ot9786n562a
+2014,Tournaments,,False,False,2023-06-13 19:52:44.473836,2023-06-26 18:39:05.120279,spdorg_cliayn82a00bb6ot9786n562a
+2032,Tournament Entry Fees,,False,False,2023-06-27 18:08:49.813250,2023-06-27 18:08:49.813253,spdorg_cliayn82a00bb6ot9786n562a
+2033,Travel,,False,False,2023-06-27 18:08:49.816339,2023-06-27 18:08:49.816343,spdorg_cliayn82a00bb6ot9786n562a
+2034,Coach Reimbursement,,False,False,2023-06-27 18:08:49.819225,2023-06-27 18:08:49.819228,spdorg_cliayn82a00bb6ot9786n562a
+2035,Administrative Expenses,,False,False,2023-06-27 18:08:49.822060,2023-06-27 18:08:49.822063,spdorg_cliayn82a00bb6ot9786n562a
+2040,Tournament Entry Fees,,False,False,2023-06-27 22:14:39.899853,2023-06-27 22:14:39.899857,spdorg_cliayn82a00bb6ot9786n562a
+2041,Coach Reimbursement,,False,False,2023-06-27 22:14:39.903901,2023-06-27 22:14:39.903905,spdorg_cliayn82a00bb6ot9786n562a
+2042,Travel,,False,False,2023-06-27 22:14:39.907502,2023-06-27 22:14:39.907506,spdorg_cliayn82a00bb6ot9786n562a
+2043,Administrative Expenses,,False,False,2023-06-27 22:14:39.911072,2023-06-27 22:14:39.911076,spdorg_cliayn82a00bb6ot9786n562a
+2044,League Fees,,False,False,2023-06-28 20:01:15.860153,2023-06-28 20:01:15.860156,spdorg_cliayn82a00bb6ot9786n562a
+2045,Raffle,,False,False,2023-06-28 20:01:15.863528,2023-06-28 20:01:15.863532,spdorg_cliayn82a00bb6ot9786n562a
+2047,Referees,,False,False,2023-06-28 20:01:15.868870,2023-06-28 20:01:15.868874,spdorg_cliayn82a00bb6ot9786n562a
+2048,Rentals,,False,False,2023-06-28 20:01:15.871507,2023-06-28 20:01:15.871510,spdorg_cliayn82a00bb6ot9786n562a
+2049,Team Party,,False,False,2023-07-03 19:25:29.985971,2023-07-03 19:25:29.985974,spdorg_cliayn82a00bb6ot9786n562a
+749,Travel (hotel),,False,True,2021-05-12 00:39:48.841079,2023-07-05 18:47:04.477135,spdorg_cliayn82a00bb6ot9786n562a
+922,Travel (mileage),,False,True,2021-06-21 20:50:42.082841,2023-07-05 18:47:04.477139,spdorg_cliayn82a00bb6ot9786n562a
+923,Travel (meals),,False,True,2021-06-21 20:50:42.087331,2023-07-05 18:47:04.477140,spdorg_cliayn82a00bb6ot9786n562a
+2026,"Travel (Hotel, Meals, Mileage)",,False,False,2023-06-24 16:20:51.360834,2023-07-05 18:48:36.859893,spdorg_cliayn82a00bb6ot9786n562a
+2050,Roll over from 22.23 funds,,False,False,2023-07-19 16:00:04.416130,2023-07-19 16:00:04.416134,spdorg_cliayn82a00bb6ot9786n562a
+2055,Coach Reimbursement,,False,False,2023-07-19 19:39:09.452442,2023-07-19 19:39:09.452445,spdorg_cliayn82a00bb6ot9786n562a
+2056,Administrative Expenses,,False,False,2023-07-19 19:39:09.459110,2023-07-19 19:39:09.459115,spdorg_cliayn82a00bb6ot9786n562a
+2057,Travel,,False,False,2023-07-19 19:39:09.463304,2023-07-19 19:39:09.463309,spdorg_cliayn82a00bb6ot9786n562a
+2058,Tournament Entry Fees,,False,False,2023-07-19 19:39:09.467168,2023-07-19 19:39:09.467173,spdorg_cliayn82a00bb6ot9786n562a
+1946,Equipment,,False,False,2023-05-03 00:10:50.588321,2023-07-20 22:10:50.521842,spdorg_cliayn82a00bb6ot9786n562a
+1949,Coach Reimbursement,,False,True,2023-05-03 00:10:50.598936,2023-07-20 22:10:50.523458,spdorg_cliayn82a00bb6ot9786n562a
+2059,Instructional Coaching,,False,False,2023-07-21 13:52:25.764220,2023-07-21 13:52:25.764225,spdorg_cliayn82a00bb6ot9786n562a
+2060,Income Budget,,False,False,2023-07-24 17:10:58.413348,2023-07-24 17:10:58.413352,spdorg_cliayn82a00bb6ot9786n562a
+2061,Expense Budget,,False,False,2023-07-24 17:10:58.420700,2023-07-24 17:10:58.420704,spdorg_cliayn82a00bb6ot9786n562a
+2062,League Registration,,False,False,2023-07-30 01:56:14.564295,2023-07-30 01:56:14.564298,spdorg_cliayn82a00bb6ot9786n562a
+2063,Player Passes,,False,False,2023-07-30 01:56:14.568275,2023-07-30 01:56:14.568278,spdorg_cliayn82a00bb6ot9786n562a
+2064,Team Equipment,,False,False,2023-08-01 15:07:53.745872,2023-08-01 15:07:53.745875,spdorg_cliayn82a00bb6ot9786n562a
+2065,Deferred Funds- McDonald 23/24,,False,True,2023-08-03 14:46:22.518669,2023-08-03 14:48:35.929552,spdorg_cliayn82a00bb6ot9786n562a
+2066,Credits In PlayMetrics- Returning Players,,False,True,2023-08-03 14:46:22.522799,2023-08-03 14:48:35.930840,spdorg_cliayn82a00bb6ot9786n562a
+2071,Tournament Entry Fees,,False,False,2023-08-09 17:20:59.824005,2023-08-09 17:20:59.824007,spdorg_cliayn82a00bb6ot9786n562a
+2072,Administrative Expenses,,False,False,2023-08-09 17:20:59.828890,2023-08-09 17:20:59.828894,spdorg_cliayn82a00bb6ot9786n562a
+2073,Travel,,False,False,2023-08-09 17:20:59.832010,2023-08-09 17:20:59.832014,spdorg_cliayn82a00bb6ot9786n562a
+2074,Coach Reimbursement,,False,False,2023-08-09 17:20:59.835031,2023-08-09 17:20:59.835035,spdorg_cliayn82a00bb6ot9786n562a
+2083,Equipment,,False,False,2023-08-10 20:41:42.876086,2023-08-10 20:41:42.876094,spdorg_cliayn82a00bb6ot9786n562a
+2084,Coaches Travel,,False,False,2023-08-10 20:41:42.884894,2023-08-10 20:41:42.884901,spdorg_cliayn82a00bb6ot9786n562a
+2085,Uniforms/Gear,,False,False,2023-08-10 20:41:42.892054,2023-08-10 20:41:42.892061,spdorg_cliayn82a00bb6ot9786n562a
+2086,,,False,False,2023-08-13 16:58:41.685612,2023-08-13 16:58:41.685616,spdorg_cliayn82a00bb6ot9786n562a
+2087,EA/MLS/DPL Team Travel,,False,False,2023-08-13 16:58:41.690521,2023-08-13 16:58:41.690526,spdorg_cliayn82a00bb6ot9786n562a
+2092,Team Expense,,False,False,2023-08-18 18:50:09.416536,2023-08-18 18:50:09.416540,spdorg_cliayn82a00bb6ot9786n562a
+2102,Team/Building Activities,,False,True,2023-08-24 16:27:43.053297,2023-08-24 16:32:11.276493,spdorg_cliayn82a00bb6ot9786n562a
+2088,Travel,,False,True,2023-08-15 18:51:50.526757,2023-08-24 16:34:41.954992,spdorg_cliayn82a00bb6ot9786n562a
+2089,Tournament Entry Fees,,False,False,2023-08-15 18:51:50.531389,2023-08-24 16:34:41.954995,spdorg_cliayn82a00bb6ot9786n562a
+2090,Administrative Expenses,,False,False,2023-08-15 18:51:50.535202,2023-08-24 16:34:41.954996,spdorg_cliayn82a00bb6ot9786n562a
+2091,Coach Reimbursement,,False,True,2023-08-15 18:51:50.538866,2023-08-24 16:34:41.954997,spdorg_cliayn82a00bb6ot9786n562a
+2093,Leave Blank,,False,True,2023-08-24 16:27:43.022192,2023-08-24 16:34:41.954998,spdorg_cliayn82a00bb6ot9786n562a
+2094,Indoor/Outdoor Practice Field Rental,,False,False,2023-08-24 16:27:43.027795,2023-08-24 16:34:41.954999,spdorg_cliayn82a00bb6ot9786n562a
+2095,Game Field Rental,,False,False,2023-08-24 16:27:43.031153,2023-08-24 16:34:41.955000,spdorg_cliayn82a00bb6ot9786n562a
+2096,League Fees,,False,False,2023-08-24 16:27:43.034216,2023-08-24 16:34:41.955001,spdorg_cliayn82a00bb6ot9786n562a
+2097,Umpire Fees,,False,False,2023-08-24 16:27:43.037328,2023-08-24 16:34:41.955003,spdorg_cliayn82a00bb6ot9786n562a
+2098,Equipment,,False,False,2023-08-24 16:27:43.040392,2023-08-24 16:34:41.955004,spdorg_cliayn82a00bb6ot9786n562a
+2099,Coach Apparel,,False,False,2023-08-24 16:27:43.043416,2023-08-24 16:34:41.955005,spdorg_cliayn82a00bb6ot9786n562a
+2100,Team Building Activities,,False,False,2023-08-24 16:27:43.046650,2023-08-24 16:34:41.955006,spdorg_cliayn82a00bb6ot9786n562a
+2101,Skill Building Activities,,False,False,2023-08-24 16:27:43.049769,2023-08-24 16:34:41.955007,spdorg_cliayn82a00bb6ot9786n562a
+2103,Miscellaneous,,False,False,2023-08-24 16:27:43.056561,2023-08-24 16:34:41.955008,spdorg_cliayn82a00bb6ot9786n562a
