@@ -5,7 +5,7 @@ from _database.engine_db_legacy import engine
 
 session_pool = sessionmaker(engine)
 
-with open('organizations/organization_test_data_dump.csv', 'w', newline='') as outfile:
+with open('new_spend_tables/organizations/organization_test_data_dump.csv', 'w', newline='') as outfile:
     outcsv = csv.writer(outfile, delimiter=',')
     outcsv.writerow([
         'id',
