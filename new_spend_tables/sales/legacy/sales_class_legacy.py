@@ -16,7 +16,7 @@ class Base(DeclarativeBase):
 
 
 class Sales(Base):
-    __tablename__ = "organization"
+    __tablename__ = "sales"
     id: Mapped[pk]
     name: Mapped[str_64]
     created_at: Mapped[date]
