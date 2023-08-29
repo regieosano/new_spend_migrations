@@ -5,10 +5,6 @@ from _database.engine_db_legacy import engine
 
 session_pool = sessionmaker(engine)
 
-# MISSING FIELDS (Present in legacy but not in new spend)
-# type
-# is_hidden
-
 with open('categories/category_test_data_dump.csv', 'w', newline='') as outfile:
     outcsv = csv.writer(outfile, delimiter=',')
     outcsv.writerow([

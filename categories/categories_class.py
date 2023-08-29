@@ -10,6 +10,14 @@ str_pk = Annotated[
     mapped_column(String, primary_key=True)
 ]
 
+# NEW FIELDS (Not in legacy)
+# type
+# is_default
+
+# RENAMED FIELDS
+# hidden -> is_hidden
+# org_id -> organization_id
+
 
 class Base(DeclarativeBase):
     pass
