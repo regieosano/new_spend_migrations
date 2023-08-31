@@ -7,7 +7,8 @@ import json
 
 session_pool = sessionmaker(engine)
 
-category_id_lookup_file = open('new_spend_tables/categories/categories_id_lookup.json')
+category_id_lookup_file = open(
+    'new_spend_tables/categories/categories_id_lookup.json')
 season_id_lookup_file = open('new_spend_tables/seasons/seasons_id_lookup.json')
 category_id_lookup = json.load(category_id_lookup_file)
 season_id_lookup = json.load(season_id_lookup_file)
@@ -29,12 +30,12 @@ with open('new_spend_tables/budget_items/budget_items_data_dump.csv', 'w+', newl
         for col in records:
             season_id = None
             try:
-               season_id =season_id_lookup["%i" % col.season_id]
+                season_id = season_id_lookup["%i" % col.season_id]
             except:
                 pass
             category_id = None
             try:
-               category_id = category_id_lookup["%i" % col.category_id]
+                category_id = category_id_lookup["%i" % col.category_id]
             except:
                 pass
             id = 'spdbud_%s' % cuid()
