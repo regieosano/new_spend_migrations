@@ -7,7 +7,7 @@ import json
 
 session_pool = sessionmaker(engine)
 
-with open('new_spend_tables/transactions/transaction_test_data_dump.csv', 'w+', newline='') as outfile:
+with open('new_spend_tables/transactions/transaction_test_data_dump.csv', 'w+', encoding='UTF-8', newline='') as outfile:
     outcsv = csv.writer(outfile, delimiter=',')
     outcsv.writerow([
         'id',
