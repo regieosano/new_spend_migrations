@@ -75,6 +75,12 @@ docs/_build/
 .pybuilder/
 target/
 
+# CSV Files
+.csv
+
+# JSON Files
+.json
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
