@@ -76,10 +76,10 @@ docs/_build/
 target/
 
 # CSV Files
-.csv
+*.csv
 
 # JSON Files
-.json
+*.json
 
 # Jupyter Notebook
 .ipynb_checkpoints
