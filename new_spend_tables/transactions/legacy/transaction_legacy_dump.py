@@ -1,4 +1,5 @@
 import csv
+from zipfile import ZipFile
 from transaction_class_legacy import Transaction
 from sqlalchemy.orm import Session, sessionmaker
 from _database.engine_db_legacy import engine
@@ -90,3 +91,9 @@ with open('new_spend_tables/transactions/transaction_test_data_dump.csv', 'w+', 
         with open('new_spend_tables/transactions/transaction_id_lookup.json', 'w+') as id_lookup_file:
             json.dump(id_lookup, id_lookup_file)
     outfile.close()
+
+with ZipFile('new_spend_tables/transactions/transaction_csv_json_.zip', 'w') as zipObj:
+    zipObj.write(
+        'new_spend_tables/transactions/transaction_test_data_dump.csv')
+    zipObj.write('new_spend_tables/transactions/transaction_id_lookup.json')
+    zipObj.close()

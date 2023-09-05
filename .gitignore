@@ -81,6 +81,9 @@ target/
 # JSON Files
 *.json
 
+# Zip Files
+*.zip
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
