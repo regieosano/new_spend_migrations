@@ -16,7 +16,6 @@ with open('new_spend_tables/sales/sales_test_data_dump.csv', 'w', newline='') as
     ])
     with Session(engine) as session:
         records = session.query(Sales).all()
-        print(records)
         for col in records:
             outcsv.writerow([
                 col.id,
