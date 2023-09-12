@@ -1,4 +1,5 @@
 import csv
+from zipfile import ZipFile
 from category_class_legacy import Category
 from sqlalchemy.orm import Session, sessionmaker
 from _database.engine_db_legacy import engine
@@ -7,7 +8,7 @@ import json
 
 session_pool = sessionmaker(engine)
 
-with open('new_spend_tables/categories/category_test_data_dump.csv', 'w+', newline='') as outfile:
+with open('new_spend_tables/categories/legacy/dump/category_data_dump.csv', 'w+', newline='') as outfile:
     outcsv = csv.writer(outfile, delimiter=',')
     outcsv.writerow([
         'id',
@@ -18,8 +19,6 @@ with open('new_spend_tables/categories/category_test_data_dump.csv', 'w+', newli
         'created_at',
         'updated_at',
         'organization_id',
-
-
     ])
     id_lookup = {}
     with Session(engine) as session:
@@ -41,7 +40,6 @@ with open('new_spend_tables/categories/category_test_data_dump.csv', 'w+', newli
                 updated_at,
                 'spdorg_cliayn82a00bb6ot9786n562a',
             ])
-        with open('new_spend_tables/categories/categories_id_lookup.json', 'w+') as id_lookup_file:
+        with open('new_spend_tables/categories/idlookup/categories_id_lookup.json', 'w+') as id_lookup_file:
             json.dump(id_lookup, id_lookup_file)
-
     outfile.close()

@@ -1,7 +1,10 @@
 import csv
+from zipfile import ZipFile
 from invoice_class_legacy import Invoice
 from sqlalchemy.orm import Session, sessionmaker
 from _database.engine_db_legacy import engine
+from cuid import cuid
+import json
 
 session_pool = sessionmaker(engine)
 
@@ -36,11 +39,14 @@ with open('new_spend_tables/invoices/invoice_test_data_dump.csv', 'w+', encoding
         'memo',
         'budget_item_id'
     ])
+    id_lookup = {}
     with Session(engine) as session:
         records = session.query(Invoice).all()
         for col in records:
+            id = 'spdinv_%s' % cuid()
+            id_lookup[col.invoice_id] = id
             outcsv.writerow([
-                col.invoice_id,
+                id,
                 col.team_player_id,
                 col.description,
                 col.due_date,
@@ -68,5 +74,12 @@ with open('new_spend_tables/invoices/invoice_test_data_dump.csv', 'w+', encoding
                 col.memo,
                 col.budget_item_id
             ])
-
+        with open('new_spend_tables/invoices/invoice_id_lookup.json', 'w+') as id_lookup_file:
+            json.dump(id_lookup, id_lookup_file)
     outfile.close()
+
+with ZipFile('new_spend_tables/invoices/invoice_csv_json_.zip', 'w') as zipObj:
+    zipObj.write(
+        'new_spend_tables/invoices/invoice_test_data_dump.csv')
+    zipObj.write('new_spend_tables/invoices/invoice_id_lookup.json')
+    zipObj.close()

@@ -9,7 +9,7 @@ from _database.engine_db import engine as new_spend_db_engine
 from _database.engine_db_legacy import engine as legacy_engine
 
 
-source_csv_file = "new_spend_tables/transactions/transaction_test_data_dump.csv"
+source_csv_file = "new_spend_tables/transactions/legacy/dump/transaction_test_data_dump.csv"
 legacy_session = Session(legacy_engine)
 
 
@@ -19,18 +19,15 @@ with open(source_csv_file, newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         # Query a table to get the invoice_id
-        stmt = select(Invoice_Transaction).where(
-            Invoice_Transaction.id == Transaction.id)
-        result = legacy_session.execute(stmt).fetchall()
-        print(result)
-        # transaction = Transactions(
-        #     id=row['id'],
-        #     source=row['source_id'],
-        #     external_id=row['external_id'],
-        #     invoice_id='1',
-        #     is_reconciled=False,
-        # )
 
-        # with Session(new_spend_db_engine) as session:
-        #     session.add(transaction)
-        #     session.commit()
+        transaction = Transactions(
+            id=row['id'],
+            source=row['source_id'],
+            external_id=row['external_id'],
+            invoice_id='spdinv_cliuh16ub00bj0jbv65wg5h2w',
+            is_reconciled=False,
+        )
+
+        with Session(new_spend_db_engine) as session:
+            session.add(transaction)
+            session.commit()
