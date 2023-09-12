@@ -4,7 +4,7 @@ from budget_items_class import Budget_Items
 from _database.engine_db import engine
 
 
-source_csv_file = "budget_items/budget_items_data_dump.csv"
+source_csv_file = "new_spend_tables/budget_items/budget_items_data_dump.csv"
 
 
 session_pool = sessionmaker(engine)

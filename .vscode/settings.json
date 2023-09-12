@@ -3,5 +3,27 @@
   "[python]": {
     "editor.defaultFormatter": "ms-python.autopep8"
   },
-  "python.formatting.provider": "none"
+  "python.formatting.provider": "none",
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "PostgreSpend",
+      "database": "testuser",
+      "username": "testuser",
+      "password": "testpassword"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5434,
+      "driver": "PostgreSQL",
+      "name": "SpendPostgres",
+      "database": "spend-api-db",
+      "username": "regie",
+      "password": "regiespend"
+    }
+  ]
 }

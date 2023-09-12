@@ -1,4 +1,5 @@
 import csv
+from zipfile import ZipFile
 from budget_item_class_legacy import BudgetItem
 from sqlalchemy.orm import Session, sessionmaker
 from _database.engine_db_legacy import engine
@@ -13,7 +14,7 @@ season_id_lookup_file = open('new_spend_tables/seasons/seasons_id_lookup.json')
 category_id_lookup = json.load(category_id_lookup_file)
 season_id_lookup = json.load(season_id_lookup_file)
 
-with open('new_spend_tables/budget_items/budget_items_data_dump.csv', 'w+', newline='') as outfile:
+with open('new_spend_tables/budget_items/legacy/dump/budget_items_data_dump.csv', 'w+', newline='') as outfile:
     outcsv = csv.writer(outfile, delimiter=',')
     outcsv.writerow([
         'id',
@@ -49,7 +50,13 @@ with open('new_spend_tables/budget_items/budget_items_data_dump.csv', 'w+', newl
                 col.created_at,
                 col.updated_at,
             ])
-        with open('new_spend_tables/budget_items/budget_items_id_lookup.json', 'w+') as id_lookup_file:
+        with open('new_spend_tables/budget_items/idlookup/budget_items_id_lookup.json', 'w+') as id_lookup_file:
             json.dump(id_lookup, id_lookup_file)
-
     outfile.close()
+
+with ZipFile('new_spend_tables/budget_items/zipped/budget_items_csv_json.zip', 'w') as zipObj:
+    zipObj.write(
+        'new_spend_tables/budget_items/legacy/dump/budget_items_data_dump.csv')
+    zipObj.write(
+        'new_spend_tables/budget_items/idlookup/budget_items_id_lookup.json')
+    zipObj.close()

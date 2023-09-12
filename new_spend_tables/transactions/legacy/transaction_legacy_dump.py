@@ -8,7 +8,7 @@ import json
 
 session_pool = sessionmaker(engine)
 
-with open('new_spend_tables/transactions/transaction_test_data_dump.csv', 'w+', encoding='UTF-8', newline='') as outfile:
+with open('new_spend_tables/transactions/legacy/dump/transaction_data_dump.csv', 'w+', encoding='UTF-8', newline='') as outfile:
     outcsv = csv.writer(outfile, delimiter=',')
     outcsv.writerow([
         'id',
@@ -88,12 +88,13 @@ with open('new_spend_tables/transactions/transaction_test_data_dump.csv', 'w+', 
                 col.memo,
                 col.destination_note,
             ])
-        with open('new_spend_tables/transactions/transaction_id_lookup.json', 'w+') as id_lookup_file:
+        with open('new_spend_tables/transactions/idlookup/transaction_id_lookup.json', 'w+') as id_lookup_file:
             json.dump(id_lookup, id_lookup_file)
     outfile.close()
 
-with ZipFile('new_spend_tables/transactions/transaction_csv_json_.zip', 'w') as zipObj:
+with ZipFile('new_spend_tables/transactions/zipped/transaction_csv_json_.zip', 'w') as zipObj:
     zipObj.write(
-        'new_spend_tables/transactions/transaction_test_data_dump.csv')
-    zipObj.write('new_spend_tables/transactions/transaction_id_lookup.json')
+        'new_spend_tables/transactions/legacy/dump/transaction_data_dump.csv')
+    zipObj.write(
+        'new_spend_tables/transactions/idlookup/transaction_id_lookup.json')
     zipObj.close()
