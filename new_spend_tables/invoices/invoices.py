@@ -12,7 +12,7 @@ with open(source_csv_file, newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         invoice = Invoices(
-            id='spdinv_%s' % cuid(),
+            id=row['invoice_id'],
             paid=True,
             amount=row['amount_due'],
             note=row['note'],

@@ -8,7 +8,7 @@ import json
 
 session_pool = sessionmaker(engine)
 
-with open('new_spend_tables/invoices/invoice_test_data_dump.csv', 'w+', encoding='UTF-8', newline='') as outfile:
+with open('new_spend_tables/invoices/legacy/dump/invoice_data_dump.csv', 'w+', encoding='UTF-8', newline='') as outfile:
     outcsv = csv.writer(outfile, delimiter=',')
     outcsv.writerow([
         'invoice_id',
@@ -74,12 +74,12 @@ with open('new_spend_tables/invoices/invoice_test_data_dump.csv', 'w+', encoding
                 col.memo,
                 col.budget_item_id
             ])
-        with open('new_spend_tables/invoices/invoice_id_lookup.json', 'w+') as id_lookup_file:
+        with open('new_spend_tables/invoices/idlookup/invoice_id_lookup.json', 'w+') as id_lookup_file:
             json.dump(id_lookup, id_lookup_file)
     outfile.close()
 
 with ZipFile('new_spend_tables/invoices/invoice_csv_json_.zip', 'w') as zipObj:
     zipObj.write(
-        'new_spend_tables/invoices/invoice_test_data_dump.csv')
-    zipObj.write('new_spend_tables/invoices/invoice_id_lookup.json')
+        'new_spend_tables/invoices/legacy/dump/invoice_data_dump.csv')
+    zipObj.write('new_spend_tables/invoices/idlookup/invoice_id_lookup.json')
     zipObj.close()
