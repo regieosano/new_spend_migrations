@@ -8,9 +8,10 @@ source_csv_file = "new_spend_tables/invoices/legacy/dump/invoice_data_dump.csv"
 
 session_pool = sessionmaker(engine)
 
-with open(source_csv_file, newline='') as csvfile:
+with open(source_csv_file, encoding='UTF-8', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
+        # Temporary values for empty date fields and others
         created_at_value = '2023-01-01 00:00:00.000000' if row['created_at'] == '' else row['created_at']
         updated_at_value = '2023-01-01 00:00:00.000000' if row['updated_at'] == '' else row['updated_at']
         due_date_value = '2023-01-01 00:00:00.000000' if row['due_date'] == '' else row['due_date']
