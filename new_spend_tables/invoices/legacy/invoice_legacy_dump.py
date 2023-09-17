@@ -78,7 +78,7 @@ with open('new_spend_tables/invoices/legacy/dump/invoice_data_dump.csv', 'w+', e
             json.dump(id_lookup, id_lookup_file)
     outfile.close()
 
-with ZipFile('new_spend_tables/invoices/invoice_csv_json_.zip', 'w') as zipObj:
+with ZipFile('new_spend_tables/invoices/zipped/invoice_csv_json_.zip', 'w') as zipObj:
     zipObj.write(
         'new_spend_tables/invoices/legacy/dump/invoice_data_dump.csv')
     zipObj.write('new_spend_tables/invoices/idlookup/invoice_id_lookup.json')
