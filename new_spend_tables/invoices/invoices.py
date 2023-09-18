@@ -2,11 +2,11 @@ import csv
 from cuid import cuid
 from sqlalchemy.orm import Session, sessionmaker
 from invoices_class import Invoices
-from _database.engine_db import engine
+from _database.engine_db import engine as new_spend_db_engine
 
 source_csv_file = "new_spend_tables/invoices/legacy/dump/invoice_data_dump.csv"
 
-session_pool = sessionmaker(engine)
+session_pool = sessionmaker(new_spend_db_engine)
 
 with open(source_csv_file, encoding='UTF-8', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
@@ -44,6 +44,6 @@ with open(source_csv_file, encoding='UTF-8', newline='') as csvfile:
             is_archived=False,
         )
 
-        with Session(engine) as session:
+        with Session(new_spend_db_engine) as session:
             session.add(invoice)
             session.commit()
