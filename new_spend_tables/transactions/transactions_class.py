@@ -6,7 +6,7 @@ from sqlalchemy import VARCHAR, String
 str_255 = Annotated[str, mapped_column(VARCHAR(255))]
 
 str_pk = Annotated[
-    int,
+    str,
     mapped_column(String, primary_key=True)
 ]
 
