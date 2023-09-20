@@ -1,6 +1,6 @@
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 from typing_extensions import Annotated
-from sqlalchemy import VARCHAR, String
+from sqlalchemy import String
 from datetime import date
 
 str_pk = Annotated[
@@ -13,14 +13,12 @@ class Base(DeclarativeBase):
     pass
 
 
-class Groups(Base):
-    __tablename__ = "groups"
+class Cron_Jobs(Base):
+    __tablename__ = "cron_jobs"
     id: Mapped[str_pk]
     name: Mapped[str]
-    vault_id: Mapped[str]
-    prog_id: Mapped[str]
-    is_archived: Mapped[bool]
+    status: Mapped[str]
+    last_run_time: Mapped[date]
+    is_active: Mapped[bool]
     created_at: Mapped[date]
-    archived_at: Mapped[date]
-    organization_id: Mapped[str]
-    account_id: Mapped[str]
+    updated_at: Mapped[date]

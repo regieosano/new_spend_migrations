@@ -13,4 +13,4 @@ url = URL.create(
     database=env.str("NEW_SPEND_PROD1_DATABASE"),
 )
 
-engine = create_engine(url, echo=True)
+prod_engine = create_engine(url, echo=True)

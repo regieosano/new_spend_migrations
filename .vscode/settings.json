@@ -24,6 +24,16 @@
       "database": "spend-api-db",
       "username": "regie",
       "password": "regiespend"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "spend-new-postgres",
+      "database": "new-spend2.0-db",
+      "username": "spend-prod",
+      "password": "kzGW0:Qr2+x]"
     }
   ]
 }

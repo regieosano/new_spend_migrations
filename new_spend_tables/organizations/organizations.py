@@ -5,7 +5,7 @@ from sqlalchemy.orm import Session, sessionmaker
 from organizations_class import Organizations
 from _database.engine_db import engine
 
-source_csv_file = "organizations/organization_test_data_dump.csv"
+source_csv_file = "new_spend_tables/organizations/legacy/dump/organization_data_dump.csv"
 
 session_pool = sessionmaker(engine)
 

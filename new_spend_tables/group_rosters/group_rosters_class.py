@@ -1,6 +1,6 @@
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 from typing_extensions import Annotated
-from sqlalchemy import VARCHAR, String
+from sqlalchemy import String
 from datetime import date
 
 str_pk = Annotated[
@@ -13,14 +13,16 @@ class Base(DeclarativeBase):
     pass
 
 
-class Groups(Base):
-    __tablename__ = "groups"
+class Group_Rosters(Base):
+    __tablename__ = "group_rosters"
     id: Mapped[str_pk]
-    name: Mapped[str]
-    vault_id: Mapped[str]
-    prog_id: Mapped[str]
+    roster_id: Mapped[str]
+    user_id: Mapped[str]
+    group_id: Mapped[str]
+    invite_id: Mapped[str]
+    season_id: Mapped[str]
     is_archived: Mapped[bool]
-    created_at: Mapped[date]
     archived_at: Mapped[date]
-    organization_id: Mapped[str]
-    account_id: Mapped[str]
+    joined_at: Mapped[date]
+    is_member_initiated: Mapped[bool]
+    created_at: Mapped[date]
