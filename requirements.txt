@@ -3,6 +3,6 @@
 #  install the latest version
 
 psycopg2-binary
-asyncpg==0.25.0
+asyncpg
 SQLAlchemy
 cuid
