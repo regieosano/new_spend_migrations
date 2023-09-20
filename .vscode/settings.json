@@ -8,12 +8,12 @@
     {
       "previewLimit": 50,
       "server": "localhost",
-      "port": 5432,
+      "port": 5433,
       "driver": "PostgreSQL",
-      "name": "New Spend Prod",
-      "database": "new-spend2.0-db",
-      "username": "regie30",
-      "password": "kzGW0:Qr2+x]"
+      "name": "New Spend Prod for Staging",
+      "database": "legacy-stage-to-new-spend2.0-db",
+      "username": "regie31",
+      "password": "jaHX1:Rsr3-y}"
     }
   ]
 }
