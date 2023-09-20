@@ -1,13 +1,14 @@
 import csv
 from sqlalchemy.orm import Session, sessionmaker
 from budget_items_class import Budget_Items
-from _database.engine_db import engine
+from _database.engine_db import engine as prod_engine
+# from _prod_database.prod_engine_db import prod_engine
 
 
 source_csv_file = "new_spend_tables/budget_items/legacy/dump/budget_items_data_dump.csv"
 
 
-session_pool = sessionmaker(engine)
+session_pool = sessionmaker(prod_engine)
 
 with open(source_csv_file, newline='') as csvfile:
     reader = csv.DictReader(csvfile)
@@ -28,6 +29,6 @@ with open(source_csv_file, newline='') as csvfile:
             description=row['description'],
         )
 
-        with Session(engine) as session:
+        with Session(prod_engine) as session:
             session.add(budget_item)
             session.commit()
