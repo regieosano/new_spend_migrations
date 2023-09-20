@@ -10,29 +10,9 @@
       "server": "localhost",
       "port": 5432,
       "driver": "PostgreSQL",
-      "name": "PostgreSpend",
-      "database": "testuser",
-      "username": "testuser",
-      "password": "testpassword"
-    },
-    {
-      "previewLimit": 50,
-      "server": "localhost",
-      "port": 5434,
-      "driver": "PostgreSQL",
-      "name": "SpendPostgres",
-      "database": "spend-api-db",
-      "username": "regie",
-      "password": "regiespend"
-    },
-    {
-      "previewLimit": 50,
-      "server": "localhost",
-      "port": 5432,
-      "driver": "PostgreSQL",
-      "name": "spend-new-postgres",
+      "name": "New Spend Prod",
       "database": "new-spend2.0-db",
-      "username": "spend-prod",
+      "username": "regie30",
       "password": "kzGW0:Qr2+x]"
     }
   ]
