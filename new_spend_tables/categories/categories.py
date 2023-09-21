@@ -13,8 +13,9 @@ with open(source_csv_file, newline='') as csvfile:
     for row in reader:
         is_default_value = True if row['is_default'] == 'TRUE' else False
         is_hidden_value = True if row['is_hidden'] == 'TRUE' else False
-        updated_at_value = '2023-01-01 00:00:00.00000' if row['updated_at'] == '' else row['updated_at']
-        organization_id_value = 'spdorg_clmgc6vab00002v15vr2l22jy' if row[
+        created_at_value = None if row['created_at'] == '' else row['created_at']
+        updated_at_value = None if row['updated_at'] == '' else row['updated_at']
+        organization_id_value = 'spdorg_clmsygor50000j8ny54q0b140' if row[
             'organization_id'] == '' else row['organization_id']
         category = Categories(
             id=row['id'],
@@ -22,9 +23,9 @@ with open(source_csv_file, newline='') as csvfile:
             type=row['type'],
             is_default=is_default_value,
             is_hidden=is_hidden_value,
-            created_at=row['created_at'],
+            created_at=created_at_value,
             updated_at=updated_at_value,
-            organization_id=organization_id_value,
+            organization_id=organization_id_value
         )
 
         with Session(engine) as session:

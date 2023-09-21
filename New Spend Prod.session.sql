@@ -1,1 +1,1 @@
-delete from organizations
+delete from categories

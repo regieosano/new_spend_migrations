@@ -1,11 +1,14 @@
 import csv
+from zipfile import ZipFile
 from organization_class_legacy import Organization
 from sqlalchemy.orm import Session, sessionmaker
 from _database.engine_db_legacy import engine
+from cuid import cuid
+import json
 
 session_pool = sessionmaker(engine)
 
-with open('new_spend_tables/organizations/organization_data_dump.csv', 'w', newline='') as outfile:
+with open('new_spend_tables/organizations/legacy/dump/organization_data_dump.csv', 'w+', encoding='UTF-8', newline='') as outfile:
     outcsv = csv.writer(outfile, delimiter=',')
     outcsv.writerow([
         'id',
@@ -58,11 +61,14 @@ with open('new_spend_tables/organizations/organization_data_dump.csv', 'w', newl
         'cip',
         'external_transfer_out_enabled'
     ])
+    id_lookup = {}
     with Session(engine) as session:
         records = session.query(Organization).all()
         for col in records:
+            id = 'spdorg_%s' % cuid()
+            id_lookup[col.id] = id
             outcsv.writerow([
-                col.id,
+                id,
                 col.payment_method_id,
                 col.hash,
                 col.legal_name,
@@ -112,5 +118,13 @@ with open('new_spend_tables/organizations/organization_data_dump.csv', 'w', newl
                 col.cip,
                 col.external_transfer_out_enabled
             ])
-
+        with open('new_spend_tables/organizations/idlookup/organization_id_lookup.json', 'w+') as outfile:
+            json.dump(id_lookup, outfile)
     outfile.close()
+
+with ZipFile('new_spend_tables/organizations/zipped/organization_csv_json.zip', 'w') as zipObj:
+    zipObj.write(
+        'new_spend_tables/organizations/legacy/dump/organization_data_dump.csv')
+    zipObj.write(
+        'new_spend_tables/organizations/idlookup/organization_id_lookup.json')
+    zipObj.close()
