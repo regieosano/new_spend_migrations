@@ -19,7 +19,7 @@ with open(source_csv_file, newline='') as csvfile:
             email=row['email'],
             phone=row['phone'],
             # verify street
-            street='No street',
+            street='',
             city=row['city'],
             state=row['state'],
             zip=row['zip'],
@@ -27,7 +27,7 @@ with open(source_csv_file, newline='') as csvfile:
             logo=row['logo_url'],
             is_verified=verified_value,
             # verify user_id
-            user_id='No user_id',
+            user_id='',
             # verify org_id
             org_id=uuid.uuid4(),
             external_id=uuid.uuid4(),
