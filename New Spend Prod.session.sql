@@ -1,1 +1,1 @@
-delete from categories
+delete from budget_items

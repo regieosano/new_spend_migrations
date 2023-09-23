@@ -1,6 +1,6 @@
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 from typing_extensions import Annotated
-from sqlalchemy import VARCHAR, String
+from sqlalchemy import String
 from datetime import date
 
 str_pk = Annotated[

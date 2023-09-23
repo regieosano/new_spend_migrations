@@ -24,7 +24,7 @@ with open(source_csv_file, newline='') as csvfile:
             is_archived=archived_value,
             created_at=created_at_value,
             archived_at='2023-01-01 00:00:00.000000',
-            organization_id=organization_id_value,
+            organization_id='spdorg_clmsygor50000j8ny54q0b140',
             account_id=row['account_id'],
         )
 

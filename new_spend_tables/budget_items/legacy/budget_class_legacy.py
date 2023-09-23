@@ -15,13 +15,12 @@ class Base(DeclarativeBase):
     pass
 
 
-class BudgetItem(Base):
+class Budget(Base):
     __tablename__ = "budget"
     id: Mapped[pk]
     description: Mapped[str_255]
     target_amount: Mapped[int]
-    season_id:Mapped[int]
+    season_id: Mapped[int]
     category_id: Mapped[int]
     created_at: Mapped[date]
     updated_at: Mapped[date]
-

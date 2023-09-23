@@ -16,7 +16,7 @@ class Base(DeclarativeBase):
     pass
 
 
-class Seasons(Base):
+class Season(Base):
     __tablename__ = "season"
     created_at: Mapped[date]
     updated_at: Mapped[date]
