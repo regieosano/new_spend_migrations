@@ -17,10 +17,8 @@ class Groups(Base):
     __tablename__ = "groups"
     id: Mapped[str_pk]
     name: Mapped[str]
-    vault_id: Mapped[str]
     prog_id: Mapped[str]
     is_archived: Mapped[bool]
     created_at: Mapped[date]
-    archived_at: Mapped[date]
     organization_id: Mapped[str]
     account_id: Mapped[str]
