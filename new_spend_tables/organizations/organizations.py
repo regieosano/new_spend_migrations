@@ -10,7 +10,7 @@ session_pool = sessionmaker(engine)
 
 data = pd.read_csv(source_csv_file)
 
-LENGTH_OF_DATA = len(data) - 1
+LENGTH_OF_DATA = len(data)
 
 for i in range(LENGTH_OF_DATA):
     record = data.to_dict()
