@@ -4,7 +4,7 @@ from sqlalchemy import String
 from datetime import date
 
 str_pk = Annotated[
-    int,
+    str,
     mapped_column(String, primary_key=True)
 ]
 
@@ -15,7 +15,7 @@ class Base(DeclarativeBase):
 
 class Invites(Base):
     __tablename__ = "invites"
-    id: Mapped[str]
+    id: Mapped[str_pk]
     first_name: Mapped[str]
     last_name: Mapped[str]
     email: Mapped[str]

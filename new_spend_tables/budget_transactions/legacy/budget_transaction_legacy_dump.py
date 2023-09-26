@@ -22,7 +22,7 @@ with open('new_spend_tables/budget_transactions/legacy/dump/budget_transaction_d
         records = session.query(Budget_Transaction).all()
         for col in records:
             id = 'spdbtr_%s' % cuid()
-            id_lookup[col.id] = id
+            id_lookup[col.budget_id] = id
             outcsv.writerow([
                 id,
                 col.transaction_id,
@@ -33,3 +33,10 @@ with open('new_spend_tables/budget_transactions/legacy/dump/budget_transaction_d
         with open('new_spend_tables/budget_transactions/idlookup/budget_transactions_id_lookup.json', 'w+') as id_lookup_file:
             json.dump(id_lookup, id_lookup_file)
     outfile.close()
+
+with ZipFile('new_spend_tables/budget_transactions/zipped/budget_transaction_csv_json.zip', 'w') as zipObj:
+    zipObj.write(
+        'new_spend_tables/budget_transactions/legacy/dump/budget_transaction_data_dump.csv')
+    zipObj.write(
+        'new_spend_tables/budget_transactions/idlookup/budget_transactions_id_lookup.json')
+    zipObj.close()

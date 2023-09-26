@@ -74,12 +74,12 @@ with open('new_spend_tables/invoices/legacy/dump/invoice_data_dump.csv', 'w+', e
                 col.memo,
                 col.budget_item_id
             ])
-        with open('new_spend_tables/invoices/idlookup/invoice_id_lookup.json', 'w+') as id_lookup_file:
+        with open('new_spend_tables/invoices/idlookup/invoices_id_lookup.json', 'w+') as id_lookup_file:
             json.dump(id_lookup, id_lookup_file)
     outfile.close()
 
-with ZipFile('new_spend_tables/invoices/zipped/invoice_csv_json_.zip', 'w') as zipObj:
+with ZipFile('new_spend_tables/invoices/zipped/invoice_csv_json.zip', 'w') as zipObj:
     zipObj.write(
         'new_spend_tables/invoices/legacy/dump/invoice_data_dump.csv')
-    zipObj.write('new_spend_tables/invoices/idlookup/invoice_id_lookup.json')
+    zipObj.write('new_spend_tables/invoices/idlookup/invoices_id_lookup.json')
     zipObj.close()

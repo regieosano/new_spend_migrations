@@ -27,7 +27,7 @@ with open('new_spend_tables/categories/legacy/dump/category_data_dump.csv', 'w+'
             id = 'spdcat_%s' % cuid()
             id_lookup[col.id] = id
             if col.updated_at is None:
-                updated_at = '2023-01-01 00:00:00.000000'
+                updated_at = None
             else:
                 updated_at = col.updated_at
             outcsv.writerow([
@@ -38,7 +38,7 @@ with open('new_spend_tables/categories/legacy/dump/category_data_dump.csv', 'w+'
                 col.hidden,
                 col.created_at,
                 updated_at,
-                'spdorg_cliayn82a00bb6ot9786n562a',
+                '',
             ])
         with open('new_spend_tables/categories/idlookup/categories_id_lookup.json', 'w+') as id_lookup_file:
             json.dump(id_lookup, id_lookup_file)
