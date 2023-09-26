@@ -8,12 +8,13 @@ source_csv_file = "new_spend_tables/organizations/legacy/dump/organization_data_
 
 session_pool = sessionmaker(engine)
 
-data = pd.read_csv(source_csv_file)
+organization_data = pd.read_csv(source_csv_file)
 
-LENGTH_OF_DATA = len(data)
+LENGTH_OF_ORGANIZATION_DATA = len(organization_data)
 
-for i in range(LENGTH_OF_DATA):
-    record = data.to_dict()
+record = organization_data.to_dict()
+
+for i in range(LENGTH_OF_ORGANIZATION_DATA):
     verified_value = True if record['verified'][i] == 'TRUE' else False
     organization = Organizations(
         id=record['id'][i],
