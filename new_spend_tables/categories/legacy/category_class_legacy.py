@@ -17,9 +17,9 @@ class Base(DeclarativeBase):
 
 class Category(Base):
     __tablename__ = "category"
+    id: Mapped[pk]
+    name: Mapped[str_255]
+    org_id: Mapped[int]
+    hidden: Mapped[bool]
     created_at: Mapped[date]
     updated_at: Mapped[date]
-    id: Mapped[pk]
-    org_id: Mapped[int]
-    name: Mapped[str_255]
-    hidden: Mapped[bool]

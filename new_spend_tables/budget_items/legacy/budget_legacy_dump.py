@@ -8,12 +8,14 @@ import json
 
 session_pool = sessionmaker(engine)
 
-with open('new_spend_tables/budget_items/legacy/dump/budget_data_dump.csv', 'w+', newline='') as outfile:
+with open('new_spend_tables/budget_items/legacy/dump/budget_data_dump.csv', 'w+', encoding='UTF-8', newline='') as outfile:
     outcsv = csv.writer(outfile, delimiter=',')
     outcsv.writerow([
         'id',
         'description',
+        'target_date',
         'target_amount',
+        'payment_method_id',
         'season_id',
         'category_id',
         'created_at',
@@ -28,7 +30,9 @@ with open('new_spend_tables/budget_items/legacy/dump/budget_data_dump.csv', 'w+'
             outcsv.writerow([
                 id,
                 col.description,
+                col.target_date,
                 col.target_amount,
+                col.payment_method_id,
                 col.season_id,
                 col.category_id,
                 col.created_at,
