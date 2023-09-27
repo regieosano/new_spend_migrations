@@ -12,7 +12,7 @@ with open('new_spend_tables/seasons/legacy/dump/season_data_dump.csv', 'w+',  en
     outcsv = csv.writer(outfile, delimiter=',')
     outcsv.writerow([
         'id',
-        'group_id',
+        'team_id',
         'name',
         'start_date',
         'end_date',

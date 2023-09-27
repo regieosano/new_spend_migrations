@@ -7,7 +7,7 @@ from datetime import date
 str_255 = Annotated[str, mapped_column(VARCHAR(255))]
 
 str_pk = Annotated[
-    int,
+    str,
     mapped_column(String, primary_key=True)
 ]
 

@@ -5,6 +5,8 @@ from datetime import date
 
 
 str_255 = Annotated[str, mapped_column(VARCHAR(255))]
+str_44 = Annotated[str, mapped_column(VARCHAR(44))]
+str_10 = Annotated[str, mapped_column(VARCHAR(10))]
 
 pk = Annotated[
     int,
@@ -18,17 +20,17 @@ class Base(DeclarativeBase):
 
 class Season(Base):
     __tablename__ = "season"
-    created_at: Mapped[date]
-    updated_at: Mapped[date]
     id: Mapped[pk]
-    team_id: Mapped[str_255]
+    team_id: Mapped[str_44]
     name: Mapped[str_255]
     start_date: Mapped[date]
     end_date: Mapped[date]
     link_allowed: Mapped[bool]
-    payment_schedule_state: Mapped[str_255]
+    payment_schedule_state: Mapped[str_10]
     budget_shared: Mapped[bool]
     discount_amount: Mapped[int]
     discount_cutoff_amount: Mapped[int]
     discount_cutoff_date: Mapped[date]
     discount_enabled: Mapped[bool]
+    created_at: Mapped[date]
+    updated_at: Mapped[date]

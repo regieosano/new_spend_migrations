@@ -1,1 +1,1 @@
-delete from groups
+delete from seasons

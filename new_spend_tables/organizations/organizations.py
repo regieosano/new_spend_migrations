@@ -1,8 +1,8 @@
-import uuid
 import pandas as pd
 from sqlalchemy.orm import Session, sessionmaker
 from organizations_class import Organizations
 from _database.engine_db import engine
+from datetime import datetime
 
 source_csv_file = "new_spend_tables/organizations/legacy/dump/organization_data_dump.csv"
 
@@ -16,6 +16,8 @@ record = organization_data.to_dict()
 
 for i in range(LENGTH_OF_ORGANIZATION_DATA):
     verified_value = True if record['verified'][i] == 'TRUE' else False
+    external_id_value = f'NULL {datetime.now()}' if pd.isna(record[
+        'external_id'][i]) else record['external_id'][i]
     organization = Organizations(
         id=record['id'][i],
         legal_name=record['legal_name'][i],
@@ -32,8 +34,8 @@ for i in range(LENGTH_OF_ORGANIZATION_DATA):
         # verify user_id
         user_id='',
         # verify org_id
-        org_id=uuid.uuid4(),
-        external_id=uuid.uuid4(),
+        org_id=f'NULL {datetime.now()}',
+        external_id=external_id_value,
         account_id=record['account_id'][i],
         spend_base_fee=record['app_fee_base'][i],
         # verify the following
