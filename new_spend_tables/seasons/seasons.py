@@ -10,6 +10,7 @@ session_pool = sessionmaker(engine)
 
 season_data = pd.read_csv(source_csv_file)
 
+DUMMY_VALID_GROUP_ID = 'spdgrp_cln1e142f0000tgny36ku23mq'
 LENGTH_OF_SEASON_DATA = len(season_data)
 
 # Initialize look-up tables
@@ -23,7 +24,7 @@ for i in range(LENGTH_OF_SEASON_DATA):
     is_link_enabled_value = True if record['link_allowed'][i] == 'TRUE' else False
     is_budget_shared_value = True if record['budget_shared'][i] == 'TRUE' else False
     if pd.isna(record['team_id'][i]):
-        group_id_value = 'spdgrp_cln1e142f0000tgny36ku23mq'
+        group_id_value = DUMMY_VALID_GROUP_ID
     else:
         group_id_value = group_id_lookup[record['team_id'][i]]
     season = Seasons(

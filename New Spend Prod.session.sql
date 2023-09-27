@@ -1,1 +1,1 @@
-delete from seasons
+delete from budget_items
