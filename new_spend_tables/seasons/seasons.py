@@ -10,7 +10,7 @@ session_pool = sessionmaker(engine)
 
 season_data = pd.read_csv(source_csv_file)
 
-DUMMY_VALID_GROUP_ID = 'spdgrp_cln1e142f0000tgny36ku23mq'
+DUMMY_VALID_GROUP_ID = 'TEMP - GRP-00000000-0000-0000-0000-000000000000'
 LENGTH_OF_SEASON_DATA = len(season_data)
 
 # Initialize look-up tables

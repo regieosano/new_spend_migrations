@@ -10,10 +10,10 @@
       "server": "localhost",
       "port": 5432,
       "driver": "PostgreSQL",
-      "name": "New Spend Prod",
+      "name": "New Spend Prod V2",
       "database": "new-spend2.0-db",
-      "username": "regie30",
-      "password": "kzGW0:Qr2+x]"
+      "username": "maverick",
+      "password": "it202"
     }
   ]
 }
