@@ -7,12 +7,18 @@ source_csv_file = "new_spend_tables/invites/legacy/dump/invite_data_dump.csv"
 
 session_pool = sessionmaker(new_spend_db_engine)
 
-data = pd.read_csv(source_csv_file)
+invite_data = pd.read_csv(source_csv_file)
 
-LENGTH_OF_DATA = len(data) - 1
+DUMMY_VALID_ORG_ID = 'TEMP - ORG-00000000-0000-0000-0000-000000000000'
+DUMMY_VALID_GRP_ID = 'TEMP - GRP-00000000-0000-0000-0000-000000000000'
+DUMMY_VALID_USR_ID = 'TEMP - USER-00000000-0000-0000-0000-000000000000'
+DUMMY_VALID_DATE = '2023-01-01 00:00:00.000000'
 
-for i in range(LENGTH_OF_DATA):
-    record = data.to_dict()
+LENGTH_OF_INVITE_DATA = len(invite_data) - 1
+
+record = invite_data.to_dict()
+
+for i in range(LENGTH_OF_INVITE_DATA):
     invite = Invites(
         id=record['id'][i],
         first_name='',
@@ -21,12 +27,12 @@ for i in range(LENGTH_OF_DATA):
         type=record['type'][i],
         is_user=False,
         status=record['status'][i],
-        organization_id='',
-        group_id='',
-        user_id='',
+        organization_id=DUMMY_VALID_ORG_ID,
+        group_id=DUMMY_VALID_GRP_ID,
+        user_id=DUMMY_VALID_USR_ID,
         is_archived=False,
         created_at=record['created_at'][i],
-        expires_at='2023-01-01 00:00:00.000000'
+        expires_at=DUMMY_VALID_DATE
     )
 
     with Session(new_spend_db_engine) as session:

@@ -10,7 +10,7 @@ session_pool = sessionmaker(prod_engine)
 
 budget_data = pd.read_csv(source_csv_file)
 
-DUMMY_VALID_SEASON_ID = 'spdsea_cln1e7s6x0000acnystxtgl30'
+DUMMY_VALID_SEASON_ID = 'SEAS-00000000-0000-0000-0000-000000000000'
 DUMMY_VALID_DATE = '2023-01-01 00:00:00.000000'
 LENGTH_OF_BUDGET_DATA = len(budget_data)
 

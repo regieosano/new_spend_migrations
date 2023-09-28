@@ -4,6 +4,7 @@ from sqlalchemy.orm import Session, sessionmaker
 from groups_class import Groups
 from _database.engine_db import engine
 from datetime import datetime
+from cuid import cuid
 
 source_csv_file = "new_spend_tables/groups/legacy/dump/group_data_dump.csv"
 
@@ -27,7 +28,7 @@ for i in range(LENGTH_OF_GROUP_DATA):
     group = Groups(
         id=record['team_id'][i],
         name=record['team_name'][i],
-        prog_id=f'NULL {datetime.now()}',
+        prog_id=f'NULL {cuid()}',
         is_archived=archived_value,
         created_at=created_at_value,
         organization_id=organization_id_value,
