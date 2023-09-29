@@ -1,2 +1,38 @@
-INSERT INTO users (id, ud_id)
-VALUES ('TEMP - USER-00000000-0000-0000-0000-000000000000', 'Dummy ud_id');
+INSERT INTO invites (
+    id,
+    first_name,
+    last_name,
+    email,
+    type,
+    is_user,
+    status,
+    created_at,
+    expires_at,
+    organization_id,
+    group_id,
+    user_id,
+    is_archived,
+    archived_at,
+    archived_by,
+    bounced,
+    delivered_at
+  )
+VALUES (
+    'TEMP - INVT-00000000-0000-0000-0000-000000000000',
+    'Dummy first_name',
+    'Dummy last_name',
+    'Dummy email',
+    'Dummy type',
+    false,
+    'Dummy status',
+    '2023-01-01 00:00:00.000000',
+    '2023-01-01 00:00:00.000000',
+    'TEMP - ORG-00000000-0000-0000-0000-000000000000',
+    'TEMP - GRP-00000000-0000-0000-0000-000000000000',
+    'TEMP - USER-00000000-0000-0000-0000-000000000000',
+    false,
+    '2023-01-01 00:00:00.000000',
+    'Dummy archived_by',
+    false,
+    '2023-01-01 00:00:00.000000'
+  );
