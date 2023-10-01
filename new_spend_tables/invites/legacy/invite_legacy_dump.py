@@ -30,7 +30,7 @@ with open('new_spend_tables/invites/legacy/dump/invite_data_dump.csv', 'w+', new
             org_id = ''
             team_player = session.query(TeamPlayer).filter_by(invite_id=col.id).first()
             if team_player:
-                team = session.query(Team).filter_by(id=team_player.team_id).first()
+                team = session.query(Team).filter_by(team_id=team_player.team_id).first()
                 if team.org_id:
                     org_id = team.org_id
             id = 'spdinv_%s' % cuid()
