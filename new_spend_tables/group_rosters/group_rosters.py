@@ -1,7 +1,8 @@
-import json
 import pandas as pd
 from sqlalchemy.orm import Session, sessionmaker
 from group_rosters_class import Group_Rosters
+from _lookup.lookup_tables import group_id_lookup, invite_id_lookup, roster_id_lookup, season_id_lookup
+from _dummy.dummy_data_values import DUMMY_VALID_GROUP_ID, DUMMY_VALID_INVITE_ID, DUMMY_VALID_ROSTER_ID, DUMMY_VALID_SEASON_ID, DUMMY_VALID_DATE
 from _database.engine_db import engine
 
 source_csv_file = "new_spend_tables/group_rosters/legacy/dump/team_player_data_dump.csv"
@@ -9,30 +10,6 @@ source_csv_file = "new_spend_tables/group_rosters/legacy/dump/team_player_data_d
 session_pool = sessionmaker(engine)
 
 team_player_data = pd.read_csv(source_csv_file)
-
-DUMMY_VALID_SEASON_ID = 'TEMP - SEAS-00000000-0000-0000-0000-000000000000'
-DUMMY_VALID_ROSTER_ID = 'TEMP - ROSTR-00000000-0000-0000-0000-000000000000'
-DUMMY_VALID_INVITE_ID = 'TEMP - INVT-00000000-0000-0000-0000-000000000000'
-DUMMY_VALID_GROUP_ID = 'TEMP - GRP-00000000-0000-0000-0000-000000000000'
-DUMMY_VALID_DATE = '2023-01-01 00:00:00.000000'
-
-
-# Initialize look-up tables
-group_id_lookup_file = open(
-    'new_spend_tables/groups/idlookup/groups_id_lookup.json')
-group_id_lookup = json.load(group_id_lookup_file)
-
-invite_id_lookup_file = open(
-    'new_spend_tables/invites/idlookup/invites_id_lookup.json')
-invite_id_lookup = json.load(invite_id_lookup_file)
-
-roster_id_lookup_file = open(
-    'new_spend_tables/rosters/idlookup/rosters_id_lookup.json')
-roster_id_lookup = json.load(roster_id_lookup_file)
-season_id_lookup_file = open(
-    'new_spend_tables/seasons/idlookup/seasons_id_lookup.json')
-season_id_lookup = json.load(season_id_lookup_file)
-
 
 record = team_player_data.to_dict()
 

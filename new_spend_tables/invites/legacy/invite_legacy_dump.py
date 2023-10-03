@@ -10,7 +10,7 @@ import json
 
 session_pool = sessionmaker(spend_dev_engine)
 
-with open('new_spend_tables/invites/legacy/dump/invite_data_dump.csv', 'w+', newline='') as outfile:
+with open('new_spend_tables/invites/legacy/dump/invite_data_dump.csv', 'w+', encoding='UTF-8', newline='') as outfile:
     outcsv = csv.writer(outfile, delimiter=',')
     outcsv.writerow([
         'id',

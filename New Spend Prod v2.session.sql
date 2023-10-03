@@ -1,38 +1,20 @@
-INSERT INTO invites (
+INSERT INTO categories (
         id,
-        first_name,
-        last_name,
-        email,
+        name,
         type,
-        is_user,
-        status,
+        is_default,
+        is_hidden,
         created_at,
-        expires_at,
-        organization_id,
-        group_id,
-        user_id,
-        is_archived,
-        archived_at,
-        archived_by,
-        bounced,
-        delivered_at
+        updated_at,
+        organization_id
     )
 VALUES (
-        'spdinv_cln86yiyk7mfsh2nygxaiesik',
-        '',
-        '',
-        'sheli.fitzgerald@gmfinancial.com',
-        'payer',
+        'TEMP - CAT-00000000-0000-0000-0000-000000000000',
+        'name:text',
+        'type:text',
         false,
-        'sent',
-        '2023-07-16 01:45:37.862044',
-        '2023-01-01 00:00:00.000000',
-        'spdorg_cln8cjidh002clonyqbpzwrod',
-        'TEMP - GRP-00000000-0000-0000-0000-000000000000',
-        'TEMP - USER-00000000-0000-0000-0000-000000000000',
         false,
         '2023-01-01 00:00:00.000000',
         '2023-01-01 00:00:00.000000',
-        false,
-        '2023-01-01 00:00:00.000000'
+        'TEMP - ORG-00000000-0000-0000-0000-000000000000'
     );
