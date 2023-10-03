@@ -1,54 +1,71 @@
-import csv
+import pandas as pd
 from sqlalchemy.orm import Session, sessionmaker
 from invoices_class import Invoices
 from _database.engine_db import engine as new_spend_db_engine
-import json
+from _lookup.lookup_tables import budget_item_id_lookup, payment_schedule_invoice_id_lookup, group_id_lookup 
+from _dummy.dummy_data_values import DUMMY_VALID_NOTIFICATION_ID, DUMMY_VALID_GROUP_ROSTER_ID, DUMMY_VALID_DATE, DUMMY_VALID_BUDGET_ITEM_ID, DUMMY_VALID_PAYMENT_SCHED_INVC_ID
 
 source_csv_file = "new_spend_tables/invoices/legacy/dump/invoice_data_dump.csv"
 
 session_pool = sessionmaker(new_spend_db_engine)
 
-budget_items_id_lookup_file = open(
-    'new_spend_tables/budget_items/idlookup/budget_items_id_lookup.json')
-budget_items_id_lookup = json.load(budget_items_id_lookup_file)
+invoice_data = pd.read_csv(source_csv_file)
 
-with open(source_csv_file, encoding='UTF-8', newline='') as csvfile:
-    reader = csv.DictReader(csvfile)
-    for row in reader:
-        # Temporary values for empty date fields and others
-        created_at_value = '2023-01-01 00:00:00.000000' if row['created_at'] == '' else row['created_at']
-        updated_at_value = '2023-01-01 00:00:00.000000' if row['updated_at'] == '' else row['updated_at']
-        due_date_value = '2023-01-01 00:00:00.000000' if row['due_date'] == '' else row['due_date']
-        last_notification_date_value = '2023-01-01 00:00:00.000000' if row[
-            'last_parent_notification_date'] == '' else row['last_parent_notification_date']
-        budget_item_id_value = budget_items_id_lookup[row['budget_item_id']]
-        invoice = Invoices(
-            id=row['invoice_id'],
-            paid=False,
-            amount=row['amount_due'],
-            note=row['note'],
-            paid_date='2023-01-01 00:00:00.000000',
-            last_notification_date=last_notification_date_value,
-            notification_attempts=0,
-            last_notification_id='',
-            description=row['description'],
-            balance_due=row['amount_due'],
-            is_optional=False,
-            opted_in=False,
-            created_at=created_at_value,
-            updated_at=updated_at_value,
-            due_date=due_date_value,
-            payment_schedule_invoice_id=row['payment_schedule_invoice_id'],
-            group_roster_id=row['team_player_id'],
-            budget_item_id=budget_item_id_value,
-            payment_method_source='',
-            payment_method_id=row['payment_method_id'],
-            is_refunded=False,
-            refund_date='2023-01-01 00:00:00.000000',
-            is_auto_pay_authorized=False,
-            is_archived=False,
-        )
+LENGTH_OF_INVOICE_DATA = len(invoice_data)
 
-        with Session(new_spend_db_engine) as session:
-            session.add(invoice)
-            session.commit()
+record = invoice_data.to_dict()
+
+for i in range(LENGTH_OF_INVOICE_DATA):
+    created_at_value = DUMMY_VALID_DATE if pd.isna(record['created_at'][i]) else record['created_at'][i]
+    updated_at_value = DUMMY_VALID_DATE if pd.isna(record['updated_at'][i]) else record['updated_at'][i]
+    due_date_value = DUMMY_VALID_DATE if pd.isna(record['due_date'][i]) else record['due_date'][i]
+    try:
+     last_notification_date_value = DUMMY_VALID_DATE if pd.isna(
+        record['last_parent_notification_date'][i]) else record['last_parent_notification_date'][i]
+    except KeyError:
+        last_notification_date_value = DUMMY_VALID_DATE
+    try:
+        budget_item_id_value = DUMMY_VALID_BUDGET_ITEM_ID if pd.isna(budget_item_id_lookup[str(record['budget_item_id'][i])]) else budget_item_id_lookup[str(record['budget_item_id'][i])]
+    except KeyError:
+        budget_item_id_value = DUMMY_VALID_BUDGET_ITEM_ID
+    try:
+        group_roster_id_value = DUMMY_VALID_GROUP_ROSTER_ID if pd.isna(group_id_lookup[record['team_player_id'][i]]) else group_id_lookup[record['team_player_id'][i]] 
+    except KeyError:
+        group_roster_id_value = DUMMY_VALID_GROUP_ROSTER_ID        
+    try:
+        payment_schedule_invoice_id_value = DUMMY_VALID_BUDGET_ITEM_ID if pd.isna(payment_schedule_invoice_id_lookup[record['payment_schedule_invoice_id'][i]]) else payment_schedule_invoice_id_lookup[record['payment_schedule_invoice_id'][i]]  
+    except KeyError:
+        payment_schedule_invoice_id_value = DUMMY_VALID_PAYMENT_SCHED_INVC_ID    
+    invoice = Invoices(
+        id=record['invoice_id'][i],
+        paid=False,
+        amount=record['amount_due'][i],
+        note=record['note'][i],
+        paid_date=DUMMY_VALID_DATE,
+        last_notification_date=last_notification_date_value,
+        notification_attempts=0,
+        last_notification_id=DUMMY_VALID_NOTIFICATION_ID,
+        description=record['description'][i],
+        balance_due=record['amount_due'][i],
+        is_optional=False,
+        opted_in=False,
+        created_at=created_at_value,
+        updated_at=updated_at_value,
+        due_date=due_date_value,
+        payment_schedule_invoice_id=payment_schedule_invoice_id_value,
+        group_roster_id=group_roster_id_value,
+        budget_item_id=budget_item_id_value,
+        payment_method_source='',
+        payment_method_id=record['payment_method_id'][i],
+        is_refunded=False,
+        refund_date=DUMMY_VALID_DATE,
+        is_auto_pay_authorized=False,
+        is_archived=False,
+    )
+
+    with Session(new_spend_db_engine) as session:
+        session.add(invoice)
+        session.commit()
+
+
+

@@ -21,3 +21,7 @@ budget_item_id_lookup_file = open(
     'new_spend_tables/budget_items/idlookup/budget_items_id_lookup.json')
 budget_item_id_lookup = json.load(budget_item_id_lookup_file)
 
+payment_schedule_invoice_id_lookup_file = open(
+    'new_spend_tables/payment_schedule_invoices/idlookup/payment_schedule_invoices_id_lookup.json')
+payment_schedule_invoice_id_lookup = json.load(payment_schedule_invoice_id_lookup_file)
+
