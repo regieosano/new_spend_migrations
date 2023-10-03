@@ -1,2 +1,38 @@
-INSERT INTO users (id, ud_id)
-VALUES ('TEMP - USER-00000000-0000-0000-0000-000000000000', 'Dummy ud_id');
+INSERT INTO invites (
+        id,
+        first_name,
+        last_name,
+        email,
+        type,
+        is_user,
+        status,
+        created_at,
+        expires_at,
+        organization_id,
+        group_id,
+        user_id,
+        is_archived,
+        archived_at,
+        archived_by,
+        bounced,
+        delivered_at
+    )
+VALUES (
+        'spdinv_cln86yiyk7mfsh2nygxaiesik',
+        '',
+        '',
+        'sheli.fitzgerald@gmfinancial.com',
+        'payer',
+        false,
+        'sent',
+        '2023-07-16 01:45:37.862044',
+        '2023-01-01 00:00:00.000000',
+        'spdorg_cln8cjidh002clonyqbpzwrod',
+        'TEMP - GRP-00000000-0000-0000-0000-000000000000',
+        'TEMP - USER-00000000-0000-0000-0000-000000000000',
+        false,
+        '2023-01-01 00:00:00.000000',
+        '2023-01-01 00:00:00.000000',
+        false,
+        '2023-01-01 00:00:00.000000'
+    );
