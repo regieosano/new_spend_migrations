@@ -1,5 +1,4 @@
 import csv
-from cuid import cuid
 from sqlalchemy.orm import Session, sessionmaker
 from invoices_class import Invoices
 from _database.engine_db import engine as new_spend_db_engine
@@ -31,7 +30,7 @@ with open(source_csv_file, encoding='UTF-8', newline='') as csvfile:
             paid_date='2023-01-01 00:00:00.000000',
             last_notification_date=last_notification_date_value,
             notification_attempts=0,
-            last_notification_id='Test Id',
+            last_notification_id='',
             description=row['description'],
             balance_due=row['amount_due'],
             is_optional=False,
