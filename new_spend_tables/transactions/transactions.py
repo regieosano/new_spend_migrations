@@ -1,33 +1,29 @@
-import csv
-
-from sqlalchemy import select
+import pandas as pd
 from sqlalchemy.orm import Session, sessionmaker
 from transactions_class import Transactions
-from legacy.transaction_class_legacy import Transaction
-from legacy.invoice_transaction_class_legacy import Invoice_Transaction
 from _database.engine_db import engine as new_spend_db_engine
-from _database.engine_db_legacy import engine as legacy_engine
 
 
-source_csv_file = "new_spend_tables/transactions/legacy/dump/transaction_test_data_dump.csv"
-legacy_session = Session(legacy_engine)
-
+source_csv_file = "new_spend_tables/transactions/legacy/dump/transaction_data_dump.csv"
 
 session_pool = sessionmaker(new_spend_db_engine)
 
-with open(source_csv_file, newline='') as csvfile:
-    reader = csv.DictReader(csvfile)
-    for row in reader:
-        # Query a table to get the invoice_id
+transaction_data = pd.read_csv(source_csv_file)
 
-        transaction = Transactions(
-            id=row['id'],
-            source=row['source_id'],
-            external_id=row['external_id'],
-            invoice_id='spdinv_cliuh16ub00bj0jbv65wg5h2w',
-            is_reconciled=False,
-        )
+LENGTH_OF_TRANSACTION_DATA = len(transaction_data)
 
-        with Session(new_spend_db_engine) as session:
-            session.add(transaction)
-            session.commit()
+record = transaction_data.to_dict()
+
+for i in range(LENGTH_OF_TRANSACTION_DATA):
+    transaction = Transactions(
+        id=record['id'][i],
+        source=record['source_id'][i],
+        external_id=record['external_id'][i],
+        invoice_id=record['invoice_id'][i],
+        is_reconciled=False,
+    )
+
+    with Session(new_spend_db_engine) as session:
+        session.add(transaction)
+        session.commit()
+
