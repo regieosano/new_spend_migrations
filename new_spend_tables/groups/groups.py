@@ -3,7 +3,6 @@ import pandas as pd
 from sqlalchemy.orm import Session, sessionmaker
 from groups_class import Groups
 from _database.engine_db import engine
-from datetime import datetime
 from cuid import cuid
 
 source_csv_file = "new_spend_tables/groups/legacy/dump/group_data_dump.csv"

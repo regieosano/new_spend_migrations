@@ -9,43 +9,6 @@ str_pk = Annotated[
     mapped_column(String, primary_key=True)
 ]
 
-# MISSING FIELDS (Present in legacy but not in new spend)
-# address1
-# address2
-# payment_method_id
-# hash
-# nickname
-# type
-# sport
-# statement_descriptor
-# app_fee_pct
-# cc_fee_base
-# approved
-# strict
-# notification
-# status
-# reason
-# paystand_id
-# paystand_bank_id
-# paystand_event_id
-# created_at
-# updated_at
-# team_banks_enabled
-# agreement_enabled
-# sales_id
-# app_bank_id
-# external_doc_id
-# synapse_verified
-# notify_upcoming_everyone
-# synapse_flagged
-# synapse_watchlists
-# synapse_doc_status
-# subscription_team_fee
-# subscription_plan
-# bank_2fa_completed
-# cip
-# external_transfer_out_enabled
-
 
 class Base(DeclarativeBase):
     pass
