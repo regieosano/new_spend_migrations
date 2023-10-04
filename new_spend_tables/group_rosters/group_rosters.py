@@ -11,11 +11,16 @@ session_pool = sessionmaker(engine)
 
 team_player_data = pd.read_csv(source_csv_file)
 
+LENGTH_OF_TEAM_PLAYER_DATA = len(team_player_data)
+
 record = team_player_data.to_dict()
 
-for i in range(len(team_player_data)):
+for i in range(LENGTH_OF_TEAM_PLAYER_DATA):
     # Get values of new PK from lookup tables based on mapping from legacy
-    group_id_value = DUMMY_VALID_GROUP_ID if pd.isna(record['team_id'][i]) else group_id_lookup[record['team_id'][i]]
+    try:
+        group_id_value = DUMMY_VALID_GROUP_ID if pd.isna(record['team_id'][i]) else group_id_lookup[record['team_id'][i]]
+    except KeyError:
+        group_id_value = DUMMY_VALID_GROUP_ID
     invite_id_value = DUMMY_VALID_INVITE_ID if pd.isna(record['invite_id'][i]) else invite_id_lookup[str(int(record['invite_id'][i]))]
     roster_id_value = DUMMY_VALID_ROSTER_ID if pd.isna(record['player_id'][i]) else roster_id_lookup[record['player_id'][i]]
     season_id_value = DUMMY_VALID_SEASON_ID if pd.isna(str(record['season_id'][i])) else season_id_lookup[str(record['season_id'][i])]

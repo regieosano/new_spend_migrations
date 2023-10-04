@@ -3,6 +3,7 @@ import pandas as pd
 from sqlalchemy.orm import Session, sessionmaker
 from budget_items_class import Budget_Items
 from _database.engine_db import engine as prod_engine
+from _dummy.dummy_data_values import DUMMY_VALID_SEASON_ID, DUMMY_VALID_DATE
 
 source_csv_file = "new_spend_tables/budget_items/legacy/dump/budget_data_dump.csv"
 
@@ -10,8 +11,6 @@ session_pool = sessionmaker(prod_engine)
 
 budget_data = pd.read_csv(source_csv_file)
 
-DUMMY_VALID_SEASON_ID = 'TEMP - SEAS-00000000-0000-0000-0000-000000000000'
-DUMMY_VALID_DATE = '2023-01-01 00:00:00.000000'
 LENGTH_OF_BUDGET_DATA = len(budget_data)
 
 # Initialize look-up tables
