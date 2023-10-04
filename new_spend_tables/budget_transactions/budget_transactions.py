@@ -9,8 +9,6 @@ source_csv_file = "new_spend_tables/budget_transactions/legacy/dump/budget_trans
 
 session_pool = sessionmaker(engine)
 
-# Is the id the PK or FK (Budget Items)?
-
 with open(source_csv_file, newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
