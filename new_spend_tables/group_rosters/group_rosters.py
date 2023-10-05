@@ -16,20 +16,47 @@ LENGTH_OF_TEAM_PLAYER_DATA = len(team_player_data)
 record = team_player_data.to_dict()
 
 for i in range(LENGTH_OF_TEAM_PLAYER_DATA):
-    # Get values of new PK from lookup tables based on mapping from legacy
+    # Get values of new PK from lookup tables based on mappings from legacy
     try:
         group_id_value = DUMMY_VALID_GROUP_ID if pd.isna(record['team_id'][i]) else group_id_lookup[record['team_id'][i]]
     except KeyError:
         group_id_value = DUMMY_VALID_GROUP_ID
-    invite_id_value = DUMMY_VALID_INVITE_ID if pd.isna(record['invite_id'][i]) else invite_id_lookup[str(int(record['invite_id'][i]))]
-    roster_id_value = DUMMY_VALID_ROSTER_ID if pd.isna(record['player_id'][i]) else roster_id_lookup[record['player_id'][i]]
-    season_id_value = DUMMY_VALID_SEASON_ID if pd.isna(str(record['season_id'][i])) else season_id_lookup[str(record['season_id'][i])]
-    archived_value = True if record['archived'][i] == 'True' else False
-    member_initiated_value = True if record['payer_initiated'][i] == 'True' else False
-    joined_at_value = DUMMY_VALID_DATE if pd.isna(
-        record['join_date'][i]) else record['join_date'][i]
-    created_at_value = DUMMY_VALID_DATE if pd.isna(
-        record['add_date'][i]) else record['add_date'][i]
+
+    try:
+        invite_id_value = DUMMY_VALID_INVITE_ID if pd.isna(record['invite_id'][i]) else invite_id_lookup[str(int(record['invite_id'][i]))]
+    except KeyError:
+        invite_id_value = DUMMY_VALID_INVITE_ID
+
+    try:
+        roster_id_value = DUMMY_VALID_ROSTER_ID if pd.isna(record['player_id'][i]) else roster_id_lookup[record['player_id'][i]]
+    except KeyError:
+        roster_id_value = DUMMY_VALID_ROSTER_ID
+
+    try:
+        season_id_value = DUMMY_VALID_SEASON_ID if pd.isna(str(record['season_id'][i])) else season_id_lookup[str(record['season_id'][i])]
+    except KeyError:
+        season_id_value = DUMMY_VALID_SEASON_ID
+
+    try:
+        archived_value = True if record['archived'][i] == 'True' else False
+    except:
+        archived_value = False
+
+    try:
+        member_initiated_value = True if record['payer_initiated'][i] == 'True' else False
+    except:
+        member_initiated_value = False
+
+    try:
+        joined_at_value = DUMMY_VALID_DATE if pd.isna(record['join_date'][i]) else record['join_date'][i]
+    except:
+        joined_at_value = DUMMY_VALID_DATE
+
+    try:
+        created_at_value = DUMMY_VALID_DATE if pd.isna(record['add_date'][i]) else record['add_date'][i]
+    except:
+        created_at_value = DUMMY_VALID_DATE
+        
     group_roster = Group_Rosters(
         id=record['id'][i],
         roster_id=roster_id_value,
