@@ -2,12 +2,12 @@ import pandas as pd
 from sqlalchemy.orm import Session, sessionmaker
 from group_rosters_class import Group_Rosters
 from _lookup.lookup_tables import group_id_lookup, invite_id_lookup, roster_id_lookup, season_id_lookup
-from _dummy.dummy_data_values import DUMMY_VALID_GROUP_ID, DUMMY_VALID_INVITE_ID, DUMMY_VALID_ROSTER_ID, DUMMY_VALID_SEASON_ID, DUMMY_VALID_DATE
-from _database.engine_db import engine
+from _dummy.dummy_data_values import DUMMY_VALID_USER_ID, DUMMY_VALID_GROUP_ID, DUMMY_VALID_INVITE_ID, DUMMY_VALID_ROSTER_ID, DUMMY_VALID_SEASON_ID, DUMMY_VALID_DATE
+from _database.engine_db import engine  as prod_engine
 
 source_csv_file = "new_spend_tables/group_rosters/legacy/dump/team_player_data_dump.csv"
 
-session_pool = sessionmaker(engine)
+session_pool = sessionmaker(prod_engine)
 
 team_player_data = pd.read_csv(source_csv_file)
 
@@ -56,11 +56,11 @@ for i in range(LENGTH_OF_TEAM_PLAYER_DATA):
         created_at_value = DUMMY_VALID_DATE if pd.isna(record['add_date'][i]) else record['add_date'][i]
     except:
         created_at_value = DUMMY_VALID_DATE
-        
+
     group_roster = Group_Rosters(
         id=record['id'][i],
         roster_id=roster_id_value,
-        user_id='TEMP - USER-00000000-0000-0000-0000-000000000000',
+        user_id=DUMMY_VALID_USER_ID,
         group_id=group_id_value,
         invite_id=invite_id_value,
         season_id=season_id_value,
@@ -71,7 +71,7 @@ for i in range(LENGTH_OF_TEAM_PLAYER_DATA):
         created_at=created_at_value,
     )
 
-    with Session(engine) as session:
+    with Session(prod_engine) as session:
         session.add(group_roster)
         session.commit()
 

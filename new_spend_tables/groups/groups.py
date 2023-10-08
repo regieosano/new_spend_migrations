@@ -3,6 +3,7 @@ import pandas as pd
 from sqlalchemy.orm import Session, sessionmaker
 from groups_class import Groups
 from _database.engine_db import engine
+from _lookup.lookup_tables import organization_id_lookup
 from cuid import cuid
 
 source_csv_file = "new_spend_tables/groups/legacy/dump/group_data_dump.csv"
@@ -12,11 +13,6 @@ session_pool = sessionmaker(engine)
 group_data = pd.read_csv(source_csv_file)
 
 LENGTH_OF_GROUP_DATA = len(group_data)
-
-# Initialize look-up tables
-organization_id_lookup_file = open(
-    'new_spend_tables/organizations/idlookup/organization_id_lookup.json')
-organization_id_lookup = json.load(organization_id_lookup_file)
 
 record = group_data.to_dict()
 
