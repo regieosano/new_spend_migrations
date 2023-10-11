@@ -8,7 +8,21 @@ income_source_csv_file = "new_spend_tables/income_budget_transactions/legacy/dum
 
 session_pool = sessionmaker(engine)
 
-with open(source_csv_file, newline='') as csvfile:
+with open(expense_source_csv_file, newline='') as csvfile:
+    reader = csv.DictReader(csvfile)
+    for row in reader:
+        budget_transaction = Budget_Transactions(
+            id=row['budget_id'],
+            transaction_id=row['transaction_id'],
+            budget_item_id=row['budget_id'],
+            amount=row['amount'],
+        )
+
+        with Session(engine) as session:
+            session.add(budget_transaction)
+            session.commit()
+
+with open(income_source_csv_file, newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         budget_transaction = Budget_Transactions(
