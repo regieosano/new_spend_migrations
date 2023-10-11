@@ -3,7 +3,8 @@ from sqlalchemy.orm import Session, sessionmaker
 from budget_transactions_class import Budget_Transactions
 from _database.engine_db import engine
 
-source_csv_file = "new_spend_tables/budget_transactions/legacy/dump/budget_transaction_data_dump.csv"
+expense_source_csv_file = "new_spend_tables/budget_transactions/legacy/dump/budget_transaction_data_dump.csv"
+income_source_csv_file = "new_spend_tables/income_budget_transactions/legacy/dump/income_budget_transaction_data_dump.csv"
 
 session_pool = sessionmaker(engine)
 
