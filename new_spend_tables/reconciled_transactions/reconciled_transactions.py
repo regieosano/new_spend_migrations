@@ -93,23 +93,23 @@ with open(source_csv_file_invoice_trans, newline='') as csvfile:
             if is_in_reconciled_transactions:
                 continue
         transaction_amount = 0
+        transaction_date = ''
         with Session(engine_legacy) as session_legacy:
             transaction = session_legacy.query(Transaction).filter_by(id=row['transaction_id']).first()
             transaction_amount = transaction.amount
+            transaction_date = transaction.created_at
         id = 'spdrtx_%s' % cuid()
         reconciled_transactions_id_lookup[row['id']] = id
         reconciled_transaction = ReconciledTransactions(
             id=id,
             payment_id=str(row['transaction_id']),
             amount=transaction_amount,
-            type="budget",
-            created_at=DUMMY_VALID_DATE,
+            type="income",
+            created_at=transaction_date,
             # updated_at=row['updated_at'],
             # budget_category_type=None,
         )
         reconciled_transactions.append(reconciled_transaction)
-        if i > 10:
-            break
 
     with Session(engine) as session:
         session.add_all(reconciled_transactions)

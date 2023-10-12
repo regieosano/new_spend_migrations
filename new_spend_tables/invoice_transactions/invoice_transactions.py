@@ -32,8 +32,6 @@ with open(source_csv_file, newline='') as csvfile:
             amount=row['amount'],
         )
         invoice_transactions.append(invoice_transaction)
-        if i > 10:
-            break
 
     with Session(engine) as session:
         session.add_all(invoice_transactions)
