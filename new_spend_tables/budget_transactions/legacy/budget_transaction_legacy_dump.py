@@ -11,6 +11,7 @@ session_pool = sessionmaker(spend_dev_engine)
 with open('new_spend_tables/budget_transactions/legacy/dump/budget_transaction_data_dump.csv', 'w+', newline='') as outfile:
     outcsv = csv.writer(outfile, delimiter=',')
     outcsv.writerow([
+        'id',
         'budget_id',
         'transaction_id',
         'amount',
@@ -25,6 +26,7 @@ with open('new_spend_tables/budget_transactions/legacy/dump/budget_transaction_d
             id_lookup[col.budget_id] = id
             outcsv.writerow([
                 id,
+                col.budget_id,
                 col.transaction_id,
                 col.amount,
                 col.created_at,

@@ -17,7 +17,7 @@ record = organization_data.to_dict()
 
 for i in range(LENGTH_OF_ORGANIZATION_DATA):
     verified_value = True if record['verified'][i] == 'TRUE' else False
-    external_id_value = '' if pd.isna(record[
+    external_id_value = cuid() if pd.isna(record[
         'external_id'][i]) else record['external_id'][i]
     organization = Organizations(
         id=record['id'][i],
