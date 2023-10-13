@@ -42,3 +42,5 @@ class Invoices(Base):
     refund_date: Mapped[date]
     is_auto_pay_authorized: Mapped[bool]
     is_archived: Mapped[bool]
+    discount_amount: Mapped[float]
+    penalty_amount: Mapped[float]

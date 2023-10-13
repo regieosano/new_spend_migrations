@@ -4,6 +4,8 @@ from invoices_class import Invoices
 from _database.engine_db import engine as new_spend_db_engine
 from _lookup.lookup_tables import budget_item_id_lookup, payment_schedule_invoice_id_lookup, group_id_lookup 
 from _dummy.dummy_data_values import DUMMY_VALID_NOTIFICATION_ID, DUMMY_VALID_GROUP_ROSTER_ID, DUMMY_VALID_DATE, DUMMY_VALID_BUDGET_ITEM_ID, DUMMY_VALID_PAYMENT_SCHED_INVC_ID
+from new_spend_tables.transactions.legacy.transaction_class_legacy import Transaction
+from _database.engine_db_legacy import engine as engine_legacy
 
 source_csv_file = "new_spend_tables/invoices/legacy/dump/invoice_data_dump.csv"
 
@@ -35,7 +37,19 @@ for i in range(LENGTH_OF_INVOICE_DATA):
     try:
         payment_schedule_invoice_id_value = DUMMY_VALID_BUDGET_ITEM_ID if pd.isna(payment_schedule_invoice_id_lookup[record['payment_schedule_invoice_id'][i]]) else payment_schedule_invoice_id_lookup[record['payment_schedule_invoice_id'][i]]  
     except KeyError:
-        payment_schedule_invoice_id_value = DUMMY_VALID_PAYMENT_SCHED_INVC_ID    
+        payment_schedule_invoice_id_value = DUMMY_VALID_PAYMENT_SCHED_INVC_ID
+    
+    is_refunded = False
+    refund_date = DUMMY_VALID_DATE
+    discount_amount = 0
+
+    with Session(engine_legacy) as session_legacy:
+        transaction = session_legacy.query(Transaction).filter_by(id=record['transaction_id'][i]).first()
+        if transaction.type == 'refund':
+            is_refunded = True
+        refund_date = transaction.created_at
+        discount_amount = transaction.discount
+    
     invoice = Invoices(
         id=record['invoice_id'][i],
         paid=False,
@@ -57,10 +71,12 @@ for i in range(LENGTH_OF_INVOICE_DATA):
         budget_item_id=budget_item_id_value,
         payment_method_source='',
         payment_method_id=record['payment_method_id'][i],
-        is_refunded=False,
-        refund_date=DUMMY_VALID_DATE,
+        is_refunded=is_refunded,
+        refund_date=refund_date,
         is_auto_pay_authorized=False,
         is_archived=False,
+        discount_amount=discount_amount,
+        penalty_amount=record['penalty'][i],
     )
 
     with Session(new_spend_db_engine) as session:
