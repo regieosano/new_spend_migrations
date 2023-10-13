@@ -31,9 +31,9 @@ with open('new_spend_tables/agreements/legacy/dump/agreement_data_dump.csv', 'w+
             outcsv.writerow([
                 id,
                 col.org_id,
-                None,
-                False,
-                col.hidden,
+                col.name,
+                col.content,
+                col.status,
                 col.created_at,
                 updated_at,
 
