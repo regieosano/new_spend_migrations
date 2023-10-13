@@ -16,12 +16,16 @@ class Base(DeclarativeBase):
     pass
 
 
-class Agreements(Base):
-    __tablename__ = "agreements"
+class CreditMemo(Base):
+    __tablename__ = "credit_memo"
     id: Mapped[str_pk]
-    name: Mapped[str_255]
-    created_at: Mapped[date]
-    updated_at: Mapped[date]
-    is_active: Mapped[bool]
-    org_id: Mapped[str]
-    content: Mapped[str]
+    correlationId: Mapped[str]
+    note: Mapped[str]
+    dateToApply: Mapped[date]
+    creditApplied: Mapped[float]
+    creditAmount: Mapped[float]
+    createdAt: Mapped[date]
+    createdByUserId: Mapped[str]
+    isArchived: Mapped[bool]
+    archivedAt: Mapped[date]
+    invoiceId: Mapped[str]   
