@@ -5,7 +5,9 @@ from _database.engine_db import engine as new_spend_db_engine
 from _lookup.lookup_tables import budget_item_id_lookup, payment_schedule_invoice_id_lookup, group_id_lookup 
 from _dummy.dummy_data_values import DUMMY_VALID_NOTIFICATION_ID, DUMMY_VALID_GROUP_ROSTER_ID, DUMMY_VALID_DATE, DUMMY_VALID_BUDGET_ITEM_ID, DUMMY_VALID_PAYMENT_SCHED_INVC_ID
 from new_spend_tables.transactions.legacy.transaction_class_legacy import Transaction
+from new_spend_tables.credit_memo.credit_memo_class import CreditMemo
 from _database.engine_db_legacy import engine as engine_legacy
+from cuid import cuid
 
 source_csv_file = "new_spend_tables/invoices/legacy/dump/invoice_data_dump.csv"
 
@@ -82,6 +84,22 @@ for i in range(LENGTH_OF_INVOICE_DATA):
     with Session(new_spend_db_engine) as session:
         session.add(invoice)
         session.commit()
+    
+    # credit memo
+    if float(record['credit'][i]):
+        credit_memo_id = 'spdcdtm_%s' % cuid()
+        credit_memo = CreditMemo(
+            id=credit_memo_id,
+            correlationId=cuid(),
+            note=record['memo'][i],
+            dateToApply=record['due_date'][i],
+            creditApplied=record['credit'][i],
+            creditAmount=record['credit'][i],
+            createdAt=record['memdue_dateo'][i],
+            createdByUserId='generic-user-from-legacy',
+            isArchived=False,
+            invoiceId=record['invoice_id'][i],
+        )
 
 
 
