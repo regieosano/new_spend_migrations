@@ -45,12 +45,12 @@ for i in range(LENGTH_OF_INVOICE_DATA):
     refund_date = DUMMY_VALID_DATE
     discount_amount = 0
 
-    with Session(engine_legacy) as session_legacy:
-        transaction = session_legacy.query(Transaction).filter_by(id=record['transaction_id'][i]).first()
-        if transaction.type == 'refund':
-            is_refunded = True
-        refund_date = transaction.created_at
-        discount_amount = transaction.discount
+    # with Session(engine_legacy) as session_legacy:
+    #     transaction = session_legacy.query(Transaction).filter_by(id=record['transaction_id'][i]).first()
+    #     if transaction.type == 'refund':
+    #         is_refunded = True
+    #     refund_date = transaction.created_at
+    #     discount_amount = transaction.discount
     
     invoice = Invoices(
         id=record['invoice_id'][i],
@@ -95,11 +95,15 @@ for i in range(LENGTH_OF_INVOICE_DATA):
             dateToApply=record['due_date'][i],
             creditApplied=record['credit'][i],
             creditAmount=record['credit'][i],
-            createdAt=record['memdue_dateo'][i],
+            createdAt=record['due_date'][i],
             createdByUserId='generic-user-from-legacy',
             isArchived=False,
             invoiceId=record['invoice_id'][i],
         )
+
+        with Session(new_spend_db_engine) as session:
+            session.add(credit_memo)
+            session.commit()
 
 
 
