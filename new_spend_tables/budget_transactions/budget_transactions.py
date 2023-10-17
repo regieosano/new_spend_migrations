@@ -22,27 +22,33 @@ session_pool = sessionmaker(engine)
 with open(expense_source_csv_file, newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
-        budget_transaction = Budget_Transactions(
-            id=row['budget_id'],
-            transaction_id=reconciled_transactions_id_lookup[row['budget_id']],
-            budget_item_id=budget_item_id_lookup[row['budget_id']],
-            amount=row['amount'],
-        )
+        try:
+            budget_transaction = Budget_Transactions(
+                id=row['id'],
+                transaction_id=reconciled_transactions_id_lookup[row['budget_id']],
+                budget_item_id=budget_item_id_lookup[row['budget_id']],
+                amount=row['amount'],
+            )
 
-        with Session(engine) as session:
-            session.add(budget_transaction)
-            session.commit()
+            with Session(engine) as session:
+                session.add(budget_transaction)
+                session.commit()
+        except:
+            continue
 
 with open(income_source_csv_file, newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
-        budget_transaction = Budget_Transactions(
-            id=row['budget_id'],
-            transaction_id=reconciled_transactions_id_lookup[row['budget_id']],
-            budget_item_id=row['budget_id'],
-            amount=row['amount'],
-        )
+        try:
+            budget_transaction = Budget_Transactions(
+                id=row['id'],
+                transaction_id=reconciled_transactions_id_lookup[row['budget_id']],
+                budget_item_id=budget_item_id_lookup[row['budget_id']],
+                amount=row['amount'],
+            )
 
-        with Session(engine) as session:
-            session.add(budget_transaction)
-            session.commit()
+            with Session(engine) as session:
+                session.add(budget_transaction)
+                session.commit()
+        except:
+            continue

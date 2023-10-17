@@ -1,6 +1,14 @@
 import json
 
 # Initialize look-up tables
+category_id_lookup_file = open(
+    'new_spend_tables/categories/idlookup/categories_id_lookup.json')
+category_id_lookup = json.load(category_id_lookup_file)
+
+organization_id_lookup_file = open(
+    'new_spend_tables/organizations/idlookup/organization_id_lookup.json')
+organization_id_lookup = json.load(organization_id_lookup_file)
+
 group_id_lookup_file = open(
     'new_spend_tables/groups/idlookup/groups_id_lookup.json')
 group_id_lookup = json.load(group_id_lookup_file)

@@ -14,19 +14,20 @@ session_pool = sessionmaker(engine)
 
 with open(source_csv_file, newline='') as csvfile:
     reader = csv.DictReader(csvfile)
-    agreements = []
     for row in reader:
+        status = False;
+        if row['status'] == 'active':
+            status = True
         agreement = Agreements(
             id=row['id'],
             org_id=organization_id_lookup[row['org_id']],
             name=row['name'],
             content=row['content'],
-            is_active=row['status'],
+            is_active=status,
             created_at=row['created_at'],
             updated_at=row['updated_at'],
         )
-        agreements.append(agreement)
 
-    with Session(engine) as session:
-        session.add_all(agreements)
-        session.commit()
+        with Session(engine) as session:
+            session.add(agreement)
+            session.commit()

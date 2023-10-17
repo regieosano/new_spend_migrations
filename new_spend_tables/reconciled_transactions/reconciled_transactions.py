@@ -20,16 +20,23 @@ reconciled_transactions_id_lookup = {}
 # budget_transactions
 with open(source_csv_file_budget_trans, newline='') as csvfile:
     reader = csv.DictReader(csvfile)
-    existing_trans_ids = []
+    existing_trans_ids = {}
     reconciled_transactions = []
     for row in reader:
-        if row['transaction_id'] in existing_trans_ids:
-            continue
-        existing_trans_ids.append(row['transaction_id'])
         transaction_amount = 0
         with Session(engine_legacy) as session_legacy:
             transaction = session_legacy.query(Transaction).filter_by(id=row['transaction_id']).first()
             transaction_amount = transaction.amount
+
+        with Session(engine) as session:    
+            if row['transaction_id'] in existing_trans_ids:
+                session.query(ReconciledTransactions).filter(ReconciledTransactions.payment_id==row['transaction_id'])\
+                    .update({'amount': ReconciledTransactions.amount + transaction_amount})
+                session.commit()
+                continue
+
+        existing_trans_ids[row['transaction_id']] = transaction_amount
+
         id = 'spdrtx_%s' % cuid()
         reconciled_transactions_id_lookup[row['budget_id']] = id
         reconciled_transaction = ReconciledTransactions(
@@ -51,16 +58,23 @@ with open(source_csv_file_budget_trans, newline='') as csvfile:
 # income_budget_transactions
 with open(source_csv_file_income_budget_trans, newline='') as csvfile:
     reader = csv.DictReader(csvfile)
-    existing_trans_ids = []
+    existing_trans_ids = {}
     reconciled_transactions = []
     for row in reader:
-        if row['transaction_id'] in existing_trans_ids:
-            continue
-        existing_trans_ids.append(row['transaction_id'])
         transaction_amount = 0
         with Session(engine_legacy) as session_legacy:
             transaction = session_legacy.query(Transaction).filter_by(id=row['transaction_id']).first()
             transaction_amount = transaction.amount
+        
+        with Session(engine) as session:    
+            if row['transaction_id'] in existing_trans_ids:
+                session.query(ReconciledTransactions).filter(ReconciledTransactions.payment_id==row['transaction_id'])\
+                    .update({'amount': ReconciledTransactions.amount + transaction_amount})
+                session.commit()
+                continue
+
+        existing_trans_ids[row['transaction_id']] = transaction_amount
+
         id = 'spdrtx_%s' % cuid()
         reconciled_transactions_id_lookup[row['budget_id']] = id
         reconciled_transaction = ReconciledTransactions(
@@ -86,10 +100,6 @@ with open(source_csv_file_invoice_trans, newline='') as csvfile:
     reconciled_transactions = []
 
     for row in reader:
-        with Session(engine) as session:
-            is_in_reconciled_transactions = session.query(ReconciledTransactions).filter_by(payment_id=row['transaction_id']).first()
-            if is_in_reconciled_transactions:
-                continue
         transaction_amount = 0
         transaction_date = ''
         transaction_type = 'income'
@@ -99,11 +109,12 @@ with open(source_csv_file_invoice_trans, newline='') as csvfile:
             transaction_date = transaction.created_at
             if transaction.type == "refund":
                 transaction_type = "expense"
-        if row['transaction_id'] in existing_trans_ids:
-            session.query(ReconciledTransactions).filter(ReconciledTransactions.payment_id==row['transaction_id'])\
-                .update({'amount': ReconciledTransactions.amount + transaction_amount})
-            session.commit()
-            continue
+        with Session(engine) as session:    
+            if row['transaction_id'] in existing_trans_ids:
+                session.query(ReconciledTransactions).filter(ReconciledTransactions.payment_id==row['transaction_id'])\
+                    .update({'amount': ReconciledTransactions.amount + transaction_amount})
+                session.commit()
+                continue
 
         existing_trans_ids[row['transaction_id']] = transaction_amount
         
